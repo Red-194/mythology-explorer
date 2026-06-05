@@ -1,1 +1,1 @@
-# kojiki-explorer
+# mythology-explorer
