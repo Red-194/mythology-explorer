@@ -1,0 +1,800 @@
+[
+  {
+    "term": "Abe no Miushi",
+    "description": "The Sadaijin Dainagon; one of Kaguya's five suitors, 66-71",
+    "category": "person",
+    "reason": "Described as a suitor and holds titles indicating a human figure."
+  },
+  {
+    "term": "Aino Goddess of Fire",
+    "description": "The name of Mount Fuji probably derived from Fuchi, 131",
+    "category": "deity",
+    "reason": "Explicitly named as a 'Goddess'."
+  },
+  {
+    "term": "Aino-land",
+    "description": "Professor B. H. Chamberlain writes re, 131",
+    "category": "place",
+    "reason": "The suffix '-land' strongly implies a geographic or territorial place."
+  },
+  {
+    "term": "Ainu, or Aino",
+    "description": "Probably first inhabitants of Japan, xiii; rising of, subdued by Prince Yamato, 54-56",
+    "category": "ethnic_group",
+    "reason": "Described as the 'first inhabitants of Japan', indicating a distinct ethnic or demographic group."
+  },
+  {
+    "term": "Aji-shi-ki",
+    "description": "Friend of Ame-waka; forms mountain of Moyama, 31, 32",
+    "category": "person",
+    "reason": "Described as a 'Friend', though having supernatural abilities, 'person' or 'deity' applies; 'person' fits the narrative descriptor of friendship."
+  },
+  {
+    "term": "Akamagaséki",
+    "description": "Temple of Amidaji built at, 300",
+    "category": "place",
+    "reason": "Described as a location where a temple was built."
+  },
+  {
+    "term": "Akasaki",
+    "description": "Tōkyō arrives at, in province of Hoki, 334",
+    "category": "place",
+    "reason": "Described as a location ('arrives at') within a province."
+  },
+  {
+    "term": "Ako, The Lord Of",
+    "description": "Princess Aya marries the second son of, 173",
+    "category": "person",
+    "reason": "Referred to by a human title whose son marries a princess."
+  },
+  {
+    "term": "Amadera Temple",
+    "description": "Hanagaki Baishū attends festival in, 207",
+    "category": "temple",
+    "reason": "Explicitly named as a temple."
+  },
+  {
+    "term": "Ama-no-Hashidate",
+    "description": "A fir-clad promontory dividing Lake Iwataki and Miyazu Bay, 204; one of the 'Three Great Sights' of Japan, 204; Saion Zenji gazes on, 204-206",
+    "category": "place",
+    "reason": "Described as a physical geographic promontory dividing bodies of water."
+  },
+  {
+    "term": "Ama-no-ho",
+    "description": "Envoy sent out to prepare way of Ninigi, 31",
+    "category": "person",
+    "reason": "Functions as an 'Envoy', implying a personal role or figure."
+  },
+  {
+    "term": "Ama-terasu",
+    "description": "Daughter of Izanagi and Izanami; the Sun Goddess, 23; ascends the Ladder of Heaven, 23; persecuted by Susa-no-o, 27; flees to a dark cave, 27; tempted back to Heaven, 27, 28; Ninigi grandson of, 32; her gifts to Ninigi, 32, 33; Prince Yamato craves the blessing of, 51",
+    "category": "deity",
+    "reason": "Explicitly stated to be the 'Sun Goddess'."
+  },
+  {
+    "term": "Ame-waka",
+    "description": "Envoy sent out to prepare way of Ninigi, 31; weds Shita-teru-hime, 31; punished by the Gods, 31, 32",
+    "category": "person",
+    "reason": "Described as an 'Envoy' who weds and is punished by gods."
+  },
+  {
+    "term": "Amida Butsu",
+    "description": "Story of, and the whale, 82",
+    "category": "deity",
+    "reason": "A spiritual figure ('Butsu' meaning Buddha) typically recognized as a deity or central religious figure in this context."
+  },
+  {
+    "term": "Amidaji",
+    "description": "Temple of, built at Akamagaséki, 300",
+    "category": "temple",
+    "reason": "Explicitly referred to as a 'Temple'."
+  },
+  {
+    "term": "Amitâbha",
+    "description": "Kwanjin (Chinese Kwannon) the spiritual son of, 200",
+    "category": "deity",
+    "reason": "Described as having a 'spiritual son' who is a known deity (Kwannon)."
+  },
+  {
+    "term": "Anderson, Dr. William",
+    "description": "Legend from the Catalogue of Japanese and Chinese Paintings in the British Museum, 49, footnote",
+    "category": "person",
+    "reason": "Has human titles ('Dr.') and authored/cataloged material."
+  },
+  {
+    "term": "Animals",
+    "description": "Legends referring to, 255-275",
+    "category": "concept",
+    "reason": "Refers generically to the broad category or concept of animals in legends, not a specific creature."
+  },
+  {
+    "term": "Anōji",
+    "description": "Place in Tamba; one of the thirty-three places sacred to Kwannon, 204",
+    "category": "place",
+    "reason": "Explicitly identified as a 'Place in Tamba'."
+  },
+  {
+    "term": "Antoko Tennō",
+    "description": "See Tenno, 300",
+    "category": "cross_reference",
+    "reason": "Contains only a 'See' directive to another entry."
+  },
+  {
+    "term": "Arnold, Sir Edwin",
+    "description": "Reference to his Seas and Lands, xi",
+    "category": "person",
+    "reason": "Human with a title ('Sir') who authored a work."
+  },
+  {
+    "term": "Art, Japanese",
+    "description": "Due to Buddhism, 114; quickened by Chinese influence, 114; extreme beauty and ugliness found in, 114; woman in, 112-114; the Treasure Ship in, 115-116; the miraculous in, 116; ghosts and goblins in, 118; sennin in, 357",
+    "category": "concept",
+    "reason": "Refers to a cultural field of practice and expression."
+  },
+  {
+    "term": "Asagao",
+    "description": "Legend from The Diary of a Convolvulus regarding the love of, 244-249; otherwise Miyuki, 245, 246; her love for Komagawa Miyagi, 245-249",
+    "category": "person",
+    "reason": "A figure capable of 'love' and bearing alternate personal names ('Miyuki')."
+  },
+  {
+    "term": "Asaka",
+    "description": "(\"Slight Fragrance\"); Friend of Asagao, 246",
+    "category": "person",
+    "reason": "Identified as a 'Friend' to another person."
+  },
+  {
+    "term": "Ashigara Mountain",
+    "description": "Yaégiri goes to, and gives birth to Kintaro there, 367",
+    "category": "mountain",
+    "reason": "Explicitly named as a 'Mountain'."
+  },
+  {
+    "term": "Ashi-nadzuchi",
+    "description": "(Foot-stroke-elder). An earthly deity, husband of Tenadzuchi, and father of Kushi-nada-hime, 29; gives his daughter in marriage to Susa-no-o, 29, 30",
+    "category": "deity",
+    "reason": "Explicitly termed 'An earthly deity'."
+  },
+  {
+    "term": "Ashinōya",
+    "description": "Village in which Maiden of Unai dwelt, 313-315",
+    "category": "place",
+    "reason": "Explicitly identified as a 'Village'."
+  },
+  {
+    "term": "Aston, Dr. W. G.",
+    "description": "Reference to the torii, by, 226; description in the Heike Monogatari of great sea-fight between Taira and Minamoto clans translated by, 300",
+    "category": "person",
+    "reason": "A human scholar ('Dr.') providing translations and references."
+  },
+  {
+    "term": "Atsumori",
+    "description": "Story regarding her use of the fan, 243",
+    "category": "person",
+    "reason": "Referred to with personal pronouns ('her') and specific human actions."
+  },
+  {
+    "term": "Awabi, The Great",
+    "description": "A group of, 340, 341; the Spirit of, appears to Kansuke, 341",
+    "category": "creature",
+    "reason": "Represents a creature ('Awabi') that manifests as a spirit to a person."
+  },
+  {
+    "term": "Aya, Princess",
+    "description": "The Spirit of the Peony and, 171-173; love for the Spirit of the Peony in the form of a young and handsome samurai, 172, 173; Sadayo, maid of, 172",
+    "category": "person",
+    "reason": "A human figure holding the title 'Princess' with romantic interests."
+  },
+  {
+    "term": "Ayame, The Lady",
+    "description": "Married to Yorimasa, 39",
+    "category": "person",
+    "reason": "A human figure ('Lady') who gets married."
+  },
+  {
+    "term": "Ayrton, Professor",
+    "description": "Japanese mirrors and, 190",
+    "category": "person",
+    "reason": "A human identified by the title 'Professor'."
+  },
+  {
+    "term": "Badger-s",
+    "description": "Story of the hare and the, on the Crackling Mountain, 258-260; description of, in legend, 260; Kadzutoyo and the, 260, 262",
+    "category": "creature",
+    "reason": "Known animal featured heavily in lore."
+  },
+  {
+    "term": "Baelz, Dr.",
+    "description": "of the Imperial University of Japan. Opinion of, re the Japanese and Mongols, xiii; reference to, 94",
+    "category": "person",
+    "reason": "Human scholar identified by title ('Dr.')."
+  },
+  {
+    "term": "Baishū, Hanagaki",
+    "description": "See Hanagaki Baishū, 207-209",
+    "category": "cross_reference",
+    "reason": "Directs the reader using 'See'."
+  },
+  {
+    "term": "Bakin",
+    "description": "A famous Japanese novelist; his Kumono Tayema Ama Yo No Tsuki and thunder legends, 250; the In (female principle) and the Yo (male principle) associated with thunder, remarks on by, 252",
+    "category": "person",
+    "reason": "Explicitly described as a 'novelist'."
+  },
+  {
+    "term": "Baku",
+    "description": "A supernatural creature known as the Eater of Dreams, 358, 359",
+    "category": "creature",
+    "reason": "Explicitly defined as a 'supernatural creature'."
+  },
+  {
+    "term": "Batō-Kwannon",
+    "description": "See Kwannon, 200",
+    "category": "cross_reference",
+    "reason": "Contains a simple 'See' redirection."
+  },
+  {
+    "term": "Bell-s",
+    "description": "Japanese, described, 140; the largest in the Jodo temple of Chion, at Kyōto, 140; the bell of Enkakuji the largest in Kamakura, 140; the bell of Miidera, 141, 142",
+    "category": "artifact",
+    "reason": "Physical, manufactured objects."
+  },
+  {
+    "term": "Benkei",
+    "description": "One of the most lovable of Japanese heroes, xvi; compared with Little John, Will Scarlet, and Friar Tuck combined, 39; conflicting traits in his character, 40; became a Buddhist priest at age of seventeen, 40; adventure with Tamamushi, 40; breaks from priestcraft and becomes a lawless warrior, 41; his doings at Mount Hiei, 42; waylays knights crossing the Gojo Bridge of Kyōto, 42; conquered by Yoshitsune, 42, 43; assists Yoshitsune finally to drive out the Taira, 43, 44; carries off the bell of Miidera, 142, 143; reference to story of, 351, 352",
+    "category": "person",
+    "reason": "Described as a hero, priest, and warrior."
+  },
+  {
+    "term": "Benten",
+    "description": "One of the Seven Gods of Good Fortune, 115, 206; variants, Goddess of the Sea, of Love, of Beauty, and Eloquence, 115, 206; resembles Kwannon, 206; the Dragon and, 207; famous Island of Enoshima and the coming of, 207; temple of the 'Birth Water' sacred to, 207; Hanagaki Baishū and, 207-209",
+    "category": "deity",
+    "reason": "Explicitly identified as 'One of the Seven Gods'."
+  },
+  {
+    "term": "Bibliography",
+    "description": "See 397-401",
+    "category": "cross_reference",
+    "reason": "Merely points the reader to another section."
+  },
+  {
+    "term": "Bimbo",
+    "description": "Raitaro (the Child of Thunder) and, 252, 253",
+    "category": "person",
+    "reason": "Interacts with another named individual, likely a person or deity figure."
+  },
+  {
+    "term": "Bimbogami",
+    "description": "The God of Poverty; Japanese superstitions and, 349",
+    "category": "deity",
+    "reason": "Explicitly called 'The God of Poverty'."
+  },
+  {
+    "term": "Bimbomushi",
+    "description": "(\"Poverty-Insect\"). Superstition re, 349",
+    "category": "creature",
+    "reason": "Termed an 'Insect'."
+  },
+  {
+    "term": "Bird-s",
+    "description": "Legends of, 276-280; the hototogisu, a mysterious, 278; the Tongue-cut Sparrow, 279; killing of, contrary to teaching of the Lord Buddha, 280; Saijosen and the Phoenix, 281; called O-Goncho, 363; birds beloved of Chōmei, 385",
+    "category": "creature",
+    "reason": "General reference to a type of animal/creature."
+  },
+  {
+    "term": "Bishamon",
+    "description": "One of the Seven Gods of Good Fortune, 115",
+    "category": "deity",
+    "reason": "Explicitly stated as 'One of the Seven Gods'."
+  },
+  {
+    "term": "Biwa, Lake",
+    "description": "Hidesato's encounters with the Dragon King of, 62-64; Visu sees lake bearing name of, 137; Professor Chamberlain's opinion re, 137",
+    "category": "lake",
+    "reason": "The term itself and description identify it as a 'Lake'."
+  },
+  {
+    "term": "Banko, Admiral",
+    "description": "Kohaku Jo sends treasures by, to temple of Kofukuji, 89",
+    "category": "person",
+    "reason": "A human figure holding a naval/military title ('Admiral')."
+  },
+  {
+    "term": "Bon Odori",
+    "description": "A dance at the Festival of the Dead, 181; origin of, 223; corresponds to the Indian sraddha, 224",
+    "category": "event",
+    "reason": "Described as a 'dance at the Festival'."
+  },
+  {
+    "term": "Bowl",
+    "description": "The Begging-bowl of the Lord Buddha, see Buddha, 67-69; the Maiden with the, on her head, 316-322",
+    "category": "artifact",
+    "reason": "A physical object used for begging."
+  },
+  {
+    "term": "\"Box of the Jewel Hand\"",
+    "description": "See Tamate-Bako, 327",
+    "category": "cross_reference",
+    "reason": "Only provides a 'See' reference."
+  },
+  {
+    "term": "Breath, God of Long",
+    "description": "Yosoji visits shrine of, 134",
+    "category": "deity",
+    "reason": "Term contains 'God', denoting a deity."
+  },
+  {
+    "term": "Brinkley, Captain",
+    "description": "His reference in Japan and China to the belief of Yedo Government officials in Tengu, 355",
+    "category": "person",
+    "reason": "Identified by a human title ('Captain')."
+  },
+  {
+    "term": "Bronze Buddha",
+    "description": "See Buddha, 82",
+    "category": "cross_reference",
+    "reason": "Redirects with 'See'."
+  },
+  {
+    "term": "Buddha Flood",
+    "description": "Otherwise the Tide of the Returning Ghosts, 323",
+    "category": "event",
+    "reason": "Describes a natural or supernatural occurrence ('Tide', 'Flood')."
+  },
+  {
+    "term": "Buddha, The Lord",
+    "description": "Begging-bowl of, 67; the legend of the Golden Lotus and, 80-82; the Bronze, of Kamakura, and the whale, 82-86; the Crystal of, 86; has compassion on spirit of the Death-Stone, 98; the White Lotus the sacred flower of, 130; the eight Intelligences of—Perception, Purpose, Speech, Conduct, Living, Effort, Mindfulness, Contemplation, 130; cat and serpent only creatures that did not weep at death of, 264; copies of footprint of, as charms, 348; lamp of, 357",
+    "category": "religious_figure",
+    "reason": "Central religious teacher and icon in Buddhism."
+  },
+  {
+    "term": "Buddhism",
+    "description": "Its contribution to Japanese religion and art, xii; success in Japan, secured not by sweeping out Gods of Shintō but in clever adaptations from India and China, 80; Japan owed art to, 114; pictorial art given to Nippon by, 114; the power of Karma one of the great doctrines of, 143; the lotus the sacred flower of, 169; the torii adopted by, 226; Nichiren attempts to restore original purity, 240, 241",
+    "category": "concept",
+    "reason": "A major religion or system of philosophical thought."
+  },
+  {
+    "term": "Buddhist",
+    "description": "Shingon-shū, a sect founded by Kōbō Daishi, 234; Nichiren sect founded by Nichiren, 240; first temple at Nikkō, Shōdō Shonin founder of, 242; saint, Dengyō Daishi, introduced tea into Japan, 293",
+    "category": "group",
+    "reason": "Refers to followers, sects, or institutions associated with the religion."
+  },
+  {
+    "term": "Buddhist Divinities",
+    "description": "Jizō the most lovable of, 104; jealousy of, toward Daikoku, 211, 212",
+    "category": "group",
+    "reason": "Refers collectively to a set of divine figures."
+  },
+  {
+    "term": "Butterfly-ies",
+    "description": "Connected with folk-lore, 216; legends re, borrowed by Japanese from China, 217; Japanese poets and 'butterfly names,' 217; romantic game of, 217; Emperor Gensō and, 217; of good and evil omen, 217; suggestion of Lafcadio Hearn re, 217; references in Japanese drama re, 218; legend of the White, 218-219; significance in Old Japan, 381, 382",
+    "category": "creature",
+    "reason": "Known type of insect/animal heavily featured in lore."
+  },
+  {
+    "term": "Carp",
+    "description": "Legend of the Dragon, 221; flag shaped like a, 221; symbolism of the, 221; Bakin's reference to, 252",
+    "category": "creature",
+    "reason": "Refers to a specific fish/animal."
+  },
+  {
+    "term": "Cathay, Great",
+    "description": "Spirit of Death-Stone took form of Hōji in, 97",
+    "category": "place",
+    "reason": "Refers to a known historical geographic region."
+  },
+  {
+    "term": "Cat-s",
+    "description": "The Japanese, not popular, 264; the serpent and the, did not weep when the Lord Buddha died, 264; story of the vampire, 265-268; Shippetarō and the phantom, 269, 270",
+    "category": "creature",
+    "reason": "Common animal."
+  },
+  {
+    "term": "Celestial River",
+    "description": "Hikoboshi and Tanabata separated at the, 126, 127",
+    "category": "river",
+    "reason": "Described explicitly as a 'River' dividing figures."
+  },
+  {
+    "term": "Chamberlain, Professor Basil Hall",
+    "description": "Reference to his works, Things Japanese, Kojiki (translation of), Handbook for Japan, and Japanese Poetry, v; legend of the Death-Stone translated by, 95; reference to his translation of Ha-Goromo, 127; his reference to Mount Fuji, 131; designs on Chinese banners described by, 162; Japanese mirrors described by, 190; reference to the torii by, 226; reference to temple at Kawasaki sacred to Kōbō Daishi, in Murray's Handbook for Japan, by, 239; reference to samisen, the favourite instrument of the singing-girls, by, 247; reference to cats in Things Japanese, 264; reference to Japanese dogs, 268; on tea ceremonies, 293; his translation of the ballad of 'The Maiden of Katsushika,' 316, 317; the legend of Urashima and, 324; his explanation re the Japanese equivalent for Dragon Palace, 324; his reference to Urashima's tomb, 328; reference to Japanese charms, 348; description of the Tengu by, 352; story of Shikaiya Wasōbiyōe adapted from his translation in the Transactions of the Asiatic Society of Japan, 374",
+    "category": "person",
+    "reason": "A named scholar and translator."
+  },
+  {
+    "term": "Charms",
+    "description": "See Superstitions, 348",
+    "category": "cross_reference",
+    "reason": "Redirects entry."
+  },
+  {
+    "term": "Chikubu-shima",
+    "description": "Island in Lake Biwa, in Ōmi, one of the thirty-three places sacred to Kwannon, 204",
+    "category": "island",
+    "reason": "Explicitly defined as an 'Island'."
+  },
+  {
+    "term": "Children",
+    "description": "Jizō the God of the, 104-111; the Cave of the Ghosts of the, 109; superstitions relating to, 347, 348",
+    "category": "group",
+    "reason": "Denotes a demographic group of people."
+  },
+  {
+    "term": "China",
+    "description": "Emperor Koso woos and weds Kohaku Jo, daughter of Kamatari, 86-88; butterfly connected with folk-lore in, 216; Thunder God in, 250; thunder animal in, 251; tea-drinking in, 291, 292; Dragon of, 362",
+    "category": "place",
+    "reason": "Geographic country."
+  },
+  {
+    "term": "Chinu",
+    "description": "Of Izumi, one of the Maiden of Unai's lovers, 313-316",
+    "category": "person",
+    "reason": "Identified as a 'lover' of a maiden, indicating a person."
+  },
+  {
+    "term": "Chinese",
+    "description": "Japan called Jih-pén by, xiv; banners described, 162; myth, Kwannon known as Kwanjin in, 200",
+    "category": "ethnic_group",
+    "reason": "Refers to a nationality or demographic identifying group."
+  },
+  {
+    "term": "Chiyo",
+    "description": "A beautiful woman slain by Shokuro, 254; restored to life by Raiden, 254; Shokuro makes peace with, 254; a poetess of the same name makes pathetic reference to a dragon-fly, 282; a touching hokku by, 385",
+    "category": "person",
+    "reason": "Explicitly called 'A beautiful woman' and 'a poetess'."
+  },
+  {
+    "term": "Chiyodō",
+    "description": "Child of Heitaro and Higo (Willow), 180",
+    "category": "person",
+    "reason": "Described as a 'Child' of two figures."
+  },
+  {
+    "term": "Chokoro",
+    "description": "Depicted releasing his magic horse from a gigantic gourd, 357",
+    "category": "person",
+    "reason": "A figure depicted performing an action (releasing a horse)."
+  },
+  {
+    "term": "Chōmei",
+    "description": "Twelfth-century Buddhist recluse; reference to his Hōjō-ki, 160, 385",
+    "category": "person",
+    "reason": "Described as a 'Buddhist recluse' and author."
+  },
+  {
+    "term": "Chōmeiji",
+    "description": "Place in Ōmi; one of the thirty-three places sacred to Kwannon, 204",
+    "category": "place",
+    "reason": "Explicitly defined as a 'Place'."
+  },
+  {
+    "term": "Chosen",
+    "description": "Otherwise the Land of the Morning Calm, the old name for Korea, 328",
+    "category": "place",
+    "reason": "Explicitly identified as 'the old name for Korea', a place."
+  },
+  {
+    "term": "Chow Dynasty",
+    "description": "Kwanjin originally the daughter of the King of the, 200",
+    "category": "dynasty",
+    "reason": "Identified as a 'Dynasty' in the term itself."
+  },
+  {
+    "term": "Chronicles of Japan ('Nihongi')",
+    "description": "Reference to, xv",
+    "category": "book",
+    "reason": "Title format indicates a literary text or historical compilation."
+  },
+  {
+    "term": "Chrysanthemum",
+    "description": "The Japanese flag and the, 161-163; Japan's national flower, 162; poetical naming of the, 163; Lady White and Lady Yellow, story of, 163-165; Kikuo ('Chrysanthemum-Old-Man'), retainer of Tsugaru, story of, 165-167",
+    "category": "plant",
+    "reason": "Explicitly identified as 'Japan's national flower'."
+  },
+  {
+    "term": "Chūjō Hime",
+    "description": "A Buddhist nun, the greatest early Japanese artist of embroidery, an incarnation of Kwannon, 201; retires to temple of Toema-dera, 201",
+    "category": "person",
+    "reason": "Described as a 'Buddhist nun' and 'artist'."
+  },
+  {
+    "term": "Conder, Josiah",
+    "description": "Tells of custom connected with pine-trees at wedding feasts, 159",
+    "category": "person",
+    "reason": "Named human."
+  },
+  {
+    "term": "Confucius",
+    "description": "Added fresh material to the Yih-King ('Book of Changes'), 344",
+    "category": "person",
+    "reason": "Known historical philosopher/author."
+  },
+  {
+    "term": "Contentment, The God of",
+    "description": "See Hotei, 211-213",
+    "category": "cross_reference",
+    "reason": "Redirects with 'See'."
+  },
+  {
+    "term": "Corpse-Eater",
+    "description": "See Musō Kokushi, 305-308; maiden who tested the love of her suitors as a, 311, 312",
+    "category": "cross_reference",
+    "reason": "Starts directly with a 'See' reference for its primary definition."
+  },
+  {
+    "term": "Crystal, The, of Buddha",
+    "description": "89-91",
+    "category": "artifact",
+    "reason": "Refers to a specific object (a crystal)."
+  },
+  {
+    "term": "Daibutsu, The",
+    "description": "See Buddha (the Bronze), 82",
+    "category": "cross_reference",
+    "reason": "Redirects with 'See'."
+  },
+  {
+    "term": "Daikoku",
+    "description": "One of the Seven Gods of Good Fortune, 115; associated with Ebisu (his son) and Hotei, the God of Laughter, 211; his wonderful Mallet, 211; a Rat the second attribute of, 211; old legend regarding jealousy of Buddhist Gods toward, 211, 212; his sixfold representation, 212; usually pictured with his son, Ebisu, 212",
+    "category": "deity",
+    "reason": "Identified as 'One of the Seven Gods'."
+  },
+  {
+    "term": "Dai-Mokuren",
+    "description": "A great disciple of Buddha; sees soul of his mother in the Gakidō, 223",
+    "category": "person",
+    "reason": "Described as a 'disciple of Buddha' with a mother."
+  },
+  {
+    "term": "Daimyō",
+    "description": "Lady White reaches palace of, 164, 165",
+    "category": "title",
+    "reason": "Refers to a feudal lord rank."
+  },
+  {
+    "term": "Dan-doku, Mount",
+    "description": "The Lord Buddha's meditations upon, 80",
+    "category": "mountain",
+    "reason": "Term contains 'Mount'."
+  },
+  {
+    "term": "Dan-no-Ura",
+    "description": "The Taira clan finally driven into the sea by Benkei and Yoshitsune, 43, 44; Hōichi receives stranger, who wishes to view scene of the battle of, 301-304",
+    "category": "place",
+    "reason": "Described as a scene of a battle and connected to the sea."
+  },
+  {
+    "term": "Daruma",
+    "description": "Son of a Hindu king, 297; tempted like St. Anthony, 297; Indian sage whose image was associated with the ritualistic drinking of tea by the Zen sect in Japan, 297-299; reference to, will be found in Some Chinese Ghosts and A Japanese Miscellany, by Lafcadio Hearn, 297, 299",
+    "category": "person",
+    "reason": "Described as a 'Son of a Hindu king' and 'Indian sage'."
+  },
+  {
+    "term": "Davis, F. Hadland",
+    "description": "Reference to Land of the Yellow Spring (page 113), by, 93, 149",
+    "category": "person",
+    "reason": "Identified as an author/human."
+  },
+  {
+    "term": "Dead, Lord of the",
+    "description": "Emma-Ō, the, 110, 201",
+    "category": "deity",
+    "reason": "Synonymous with a known god/figure of the underworld."
+  },
+  {
+    "term": "Death-Spider",
+    "description": "Japanese Bimbomushi ('Poverty-Insect') equivalent to our, 349",
+    "category": "creature",
+    "reason": "Term and description mark it as an animal/insect equivalent."
+  },
+  {
+    "term": "Death-Stone",
+    "description": "Warning remarks of spirit of the, to the Buddhist priest Genno, 95; legend of, related, 95-98",
+    "category": "artifact",
+    "reason": "Identified as a 'Stone' with a related legend and spirit."
+  },
+  {
+    "term": "Demoniacal Possession",
+    "description": "Attributed to evil influence of foxes, 94",
+    "category": "concept",
+    "reason": "Describes a phenomenon or condition."
+  },
+  {
+    "term": "Dengyō Daishi",
+    "description": "Buddhist saint who first introduced tea into Japan, 293",
+    "category": "religious_figure",
+    "reason": "Explicitly called a 'Buddhist saint'."
+  },
+  {
+    "term": "Destiny",
+    "description": "Jizō at foot of, 109",
+    "category": "concept",
+    "reason": "An abstract narrative concept."
+  },
+  {
+    "term": "Divination, Classical",
+    "description": "Associated with Japanese superstition, 344; Yih-King ('Book of Changes') main source of the art, 344; various forms of, 344-346",
+    "category": "concept",
+    "reason": "Described as an 'art' or practice."
+  },
+  {
+    "term": "Dog",
+    "description": "In Japan, looked on as a friendly animal, 268",
+    "category": "creature",
+    "reason": "Explicitly called an 'animal'."
+  },
+  {
+    "term": "Doll-s",
+    "description": "Comparison of English and Japanese, 214-216; last resting-place, 216; dedicated to Kōjin when dead, 177, 216; the Feast of, otherwise the Girls' Festival, 216",
+    "category": "artifact",
+    "reason": "Manufactured items (toys/idols)."
+  },
+  {
+    "term": "Dragon",
+    "description": "Intimately associated with Japanese mythology, 362; of Japan, and of China, 362; one of the signs of the Zodiac, 363; in old Chinese conception of earth, four seas ruled over by four Dragon Kings, the Celestial, the Spiritual, the Earth, and the Dragon of the Hidden Treasure, 363; a bird called O-Goncho, transformation into a white, 363",
+    "category": "creature",
+    "reason": "A mythical beast."
+  },
+  {
+    "term": "Dragon-Flies",
+    "description": "Mention of, in Japanese poetry, 282; Chiyo and her pathetic reference to, 282",
+    "category": "creature",
+    "reason": "Known type of insect."
+  },
+  {
+    "term": "Dragon King (of the Sea)",
+    "description": "Steals Crystal of Buddha, 90; Urashima at the palace of, 325-328; Otohime the daughter of, 325; sends Tide Jewels to Empress Jingo by Isora, 331; presents Tide Jewels to Ojin, 333; Mamikiko meets a Shōjō who lives near palace of, 361",
+    "category": "deity",
+    "reason": "A divine or powerful ruler figure ('King') in the mythology."
+  },
+  {
+    "term": "Dragon Kingdom",
+    "description": "Samébito and, 376-379",
+    "category": "place",
+    "reason": "A 'Kingdom' representing a location/territory."
+  },
+  {
+    "term": "Dragon Palace",
+    "description": "The Evergreen Land appears in the ballad 'The Fisher Boy Urashima' as, 324; Professor Chamberlain's explanation re the equivalent in Japanese, 324; Samébito and the, 378",
+    "category": "place",
+    "reason": "Referred to structurally as a physical/mythical location ('Palace')."
+  },
+  {
+    "term": "Dreams, Eater of",
+    "description": "The Baku known as the, 358, 359",
+    "category": "creature",
+    "reason": "An alternate name for the Baku, which is a creature."
+  },
+  {
+    "term": "Du Cane, Miss Florence",
+    "description": "Her descriptions concerning Japanese rocks and stones, 157",
+    "category": "person",
+    "reason": "Identified as a human author/describer ('Miss')."
+  },
+  {
+    "term": "Earth and Heaven",
+    "description": "Elements which comprised, 21",
+    "category": "concept",
+    "reason": "Described broadly as foundational 'Elements'."
+  },
+  {
+    "term": "East, Sir Alfred",
+    "description": "Japanese art described by, 112",
+    "category": "person",
+    "reason": "Named human with title 'Sir'."
+  },
+  {
+    "term": "Ebb-Tide Jewel",
+    "description": "See Jewels, 331, &c.",
+    "category": "cross_reference",
+    "reason": "Simple 'See' redirection."
+  },
+  {
+    "term": "Ebisu",
+    "description": "One of the Seven Gods of Good Fortune, 115; son of Daikoku, 211; the God of Labour, 211; usually pictured with his father, Daikoku, 212",
+    "category": "deity",
+    "reason": "Explicitly labelled 'One of the Seven Gods' and 'the God of Labour'."
+  },
+  {
+    "term": "Egyptian",
+    "description": "Cosmogony stories, reference to, 21; conception of the future life, 117",
+    "category": "ethnic_group",
+    "reason": "Refers to a nationality/culture."
+  },
+  {
+    "term": "Eight-Arms-Length-Spear",
+    "description": "Given to Yamato, 54",
+    "category": "artifact",
+    "reason": "A manufactured weapon ('Spear')."
+  },
+  {
+    "term": "Eighty Myriad Gods",
+    "description": "Make entertainment to tempt the Sun Goddess (Ama-terasu) back to Heaven, 28",
+    "category": "group",
+    "reason": "Refers collectively to a large number of deities."
+  },
+  {
+    "term": "Eisai",
+    "description": "A Buddhist priest who wrote a pamphlet entitled The Salutary Influence of Tea-drinking, 294; effort to convert Minamoto-no-Sanetomo from wine-cup, 294",
+    "category": "religious_figure",
+    "reason": "Explicitly called 'A Buddhist priest'."
+  },
+  {
+    "term": "Elixir of Life",
+    "description": "Brought by Moonfolk to Lady Kaguya, 78; Rosei drinks of, 121; Mount Fuji the abode of the, 132",
+    "category": "artifact",
+    "reason": "A consumable substance ('drinks of', 'Brought by')."
+  },
+  {
+    "term": "Emma-Ō",
+    "description": "The Lord and Judge of the dead, 110; Jizō pleads with, on behalf of Soga Sadayoshi, 111; Festival of the Dead and, 117; Ono-no-Kimi appears before, 140; Tokudō Shōnin conducted into the presence of, 201; Shiro sent by, to conquer the God of Wealth, 211, 212; Festival of the Dead and, 222, 323",
+    "category": "deity",
+    "reason": "Referred to as 'The Lord and Judge of the dead'."
+  },
+  {
+    "term": "Emmei of Dōgen-ji",
+    "description": "Becomes a sennin, 356",
+    "category": "person",
+    "reason": "A figure who attains a state ('Becomes a sennin')."
+  },
+  {
+    "term": "England",
+    "description": "Tea-drinking in Japan and, 290, 291",
+    "category": "place",
+    "reason": "A geographic nation."
+  },
+  {
+    "term": "Enkakuji",
+    "description": "The great bell of, 140, 141",
+    "category": "temple",
+    "reason": "Famous historical temple, known contextually but entry states 'bell of', implying an institution or place."
+  },
+  {
+    "term": "Enoshima",
+    "description": "A famous island, associated with the coming of Benten, 207",
+    "category": "island",
+    "reason": "Explicitly defined as 'A famous island'."
+  },
+  {
+    "term": "Eternal Land",
+    "description": "The God 'Thought-combining' brings birds from, 27",
+    "category": "place",
+    "reason": "Described as a 'Land' from which things are brought."
+  },
+  {
+    "term": "Eternity",
+    "description": "Its meaning to the famous artist, Hokusai, 117",
+    "category": "concept",
+    "reason": "An abstract temporal idea."
+  },
+  {
+    "term": "Evergreen Land",
+    "description": "See Dragon Palace, 324; orange first brought from, to Japan, 324",
+    "category": "cross_reference",
+    "reason": "Redirects to Dragon Palace (with minor additional detail)."
+  },
+  {
+    "category_counts": {
+      "person": 32,
+      "deity": 14,
+      "place": 14,
+      "ethnic_group": 3,
+      "temple": 3,
+      "concept": 8,
+      "mountain": 2,
+      "creature": 13,
+      "cross_reference": 14,
+      "lake": 1,
+      "artifact": 7,
+      "event": 2,
+      "religious_figure": 4,
+      "group": 4,
+      "river": 1,
+      "island": 2,
+      "dynasty": 1,
+      "book": 1,
+      "plant": 1,
+      "title": 1
+    }
+  }
+]

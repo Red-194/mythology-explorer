@@ -1,0 +1,358 @@
+[
+  {
+    "term": "Uda, Emperor",
+    "description": "Baptized by Kōbō Daishi, 239",
+    "category": "person",
+    "reason": "Human holding the title 'Emperor'."
+  },
+  {
+    "term": "Uji River",
+    "description": "People visit, to witness the firefly battle, 286",
+    "category": "river",
+    "reason": "Explicitly defined as 'River'."
+  },
+  {
+    "term": "Unai",
+    "description": "The Maiden of, 313–315; Mubara and Chinu lovers of the Maiden of, 313–315",
+    "category": "place",
+    "reason": "Referred to as a location ('Maiden of')."
+  },
+  {
+    "term": "Underworld",
+    "description": "Reference to, 202",
+    "category": "place",
+    "reason": "Mythological cosmological location."
+  },
+  {
+    "term": "Upper Horikané",
+    "description": "Tokutaro at, 99",
+    "category": "place",
+    "reason": "Geographic location visited by a character."
+  },
+  {
+    "term": "Urashima",
+    "description": "The legend of, 323–328; ballad of 'The Fisher Boy of', 324; the tortoise and, 324, 325; at the Dragon (Sea) King's palace, 325–328; weds Otohime, the Dragon King's daughter, 325; receives from Otohime the gift of the 'Box of the Jewel Hand' (Tamate-Bako), 327; tomb still shown at temple in Kanagawa, 328",
+    "category": "person",
+    "reason": "Explicitly defined as 'The Fisher Boy' who marries."
+  },
+  {
+    "term": "Uzume",
+    "description": "('Heavenly-alarming-female'). Dances to tempt the Sun Goddess (Ama-terasu) back to Heaven, 28; accompanies Ningi, 33; accosts the Deity of the Field-paths, 33; reaches summit of Takachihi, 33; given by Ningi to the Deity of the Field-paths as wife, 33",
+    "category": "deity",
+    "reason": "Mythological heavenly female figure."
+  },
+  {
+    "term": "Visu",
+    "description": "The Rip Van Winkle of Old Japan; his adventures beside Mount Fuji, 136–139",
+    "category": "person",
+    "reason": "Human character experiencing adventures."
+  },
+  {
+    "term": "Waggon Priest",
+    "description": "See Hotei, 213",
+    "category": "cross_reference",
+    "reason": "Redirection via 'See'."
+  },
+  {
+    "term": "Wasa",
+    "description": "The Laughing Festival of, 225",
+    "category": "place",
+    "reason": "Location holding a festival ('Festival of')."
+  },
+  {
+    "term": "Wasōbiyōye, Shikaiya",
+    "description": "A man of Nagasaki, a Japanese Gulliver, 374–376; story adapted from Professor B. H. Chamberlain's translation in the Transactions of the Asiatic Society of Japan, 374; arrives at Sea of Mud, 375; meets Jofuku, 375; starts on journey to the Three Thousand Worlds mentioned in Buddhist Scriptures, 375; visits Lands of Endless Plenty, of Shams, of the Followers of the Antique, of Paradoxes, and of Giants, 375",
+    "category": "person",
+    "reason": "Explicitly defined as 'A man of Nagasaki'."
+  },
+  {
+    "term": "Watanabé, Isuna",
+    "description": "Finds out all details of Kintaro's life, 368",
+    "category": "person",
+    "reason": "Human character performing actions."
+  },
+  {
+    "term": "Weaving Lady, The",
+    "description": "Festival of Tanabata, or, 126",
+    "category": "deity",
+    "reason": "Mythological figure/deity."
+  },
+  {
+    "term": "Well, The Violet",
+    "description": "See Shingé, 167",
+    "category": "cross_reference",
+    "reason": "Redirection via 'See'."
+  },
+  {
+    "term": "Wheel of Existence, The Great",
+    "description": "109",
+    "category": "concept",
+    "reason": "Philosophical or religious concept."
+  },
+  {
+    "term": "Williams, Sir Monier",
+    "description": "His description of the lotus flower, 169",
+    "category": "person",
+    "reason": "Human author."
+  },
+  {
+    "term": "Willow Wife, The",
+    "description": "Story adapted from Mr. R. Gordon Smith's Ancient Tales and Folklore of Japan, 177; Heitaro, husband of Higo, the, 178–180",
+    "category": "creature",
+    "reason": "Mythological spirit/entity appearing as a wife."
+  },
+  {
+    "term": "Wind God, The",
+    "description": "330",
+    "category": "deity",
+    "reason": "Explicitly defined as 'God'."
+  },
+  {
+    "term": "Woman",
+    "description": "The, in Japanese art, 112, 113; the Mountain, 355",
+    "category": "concept",
+    "reason": "General concept in art."
+  },
+  {
+    "term": "Words, Three Thousand",
+    "description": "Mentioned in Buddhist Scriptures, 375; Shikaiya Wasōbiyōye journeys to, 375",
+    "category": "concept",
+    "reason": "Religious textual concept."
+  },
+  {
+    "term": "Wrestler, The Ghostly",
+    "description": "In Ōmi province, 358",
+    "category": "creature",
+    "reason": "Supernatural entity ('Ghostly')."
+  },
+  {
+    "term": "Writing",
+    "description": "Legendary origin of the Chinese system of, 363",
+    "category": "concept",
+    "reason": "System of communication."
+  },
+  {
+    "term": "Yaegaki",
+    "description": "The Precious-Camellia of, 175",
+    "category": "place",
+    "reason": "Geographic location of a plant."
+  },
+  {
+    "term": "Yaégiri",
+    "description": "A lady with whom Sakata Kurando falls in love, 367; gives birth to Kintaro, the Golden Boy, 367",
+    "category": "person",
+    "reason": "Explicitly defined as 'A lady'."
+  },
+  {
+    "term": "Yakami, Princess of",
+    "description": "Eighty-one brothers; Princess in Japan who wish to marry, 256–258",
+    "category": "person",
+    "reason": "Human female with title 'Princess'."
+  },
+  {
+    "term": "Yama, Fuji",
+    "description": "See Fuji",
+    "category": "cross_reference",
+    "reason": "Redirection via 'See'."
+  },
+  {
+    "term": "Yamato Take, Prince",
+    "description": "Youngest son of King Keiko, 51; Princess Ototachibana wife of, 51; his expedition to the Southern Island of Kiushiu, 51, 52; disguised as a woman, encounters Kumaso and Takeru, 52; slays Kumaso and Takeru, 52; encounters and slays Idzumo Takeru, 53; 'Eight-Arms-Length-Spear' given to, 54; the 'Grass-Cleaving-Sword' of Murakumo given to, 54; meets and weds Princess Miyadzu, 55; Ainu rising quelled by, 54–56; passes through province of Owari, 57; reaches province of Omi, 57; slays serpent in, 57",
+    "category": "person",
+    "reason": "Human with title 'Prince'."
+  },
+  {
+    "term": "\"Yang\" and \"Yin\"",
+    "description": "The Chinese, correspond to In and Yo, 21",
+    "category": "concept",
+    "reason": "Philosophical principles."
+  },
+  {
+    "term": "Yao, Emperor",
+    "description": "Reputed son of a dragon, 362",
+    "category": "person",
+    "reason": "Human ruler."
+  },
+  {
+    "term": "Yayoi",
+    "description": "The Month of Increase, 193; the Soul of the Mirror, 193, 194",
+    "category": "concept",
+    "reason": "Temporal and conceptual term."
+  },
+  {
+    "term": "Yedo Government",
+    "description": "Officials of, and their belief in the Tengu, 355",
+    "category": "group",
+    "reason": "A political institution/group."
+  },
+  {
+    "term": "Yenoki",
+    "description": "The One-eyed Priest who served at temple of Fudo, on Oki-yama, 180–182; spirit of, passes into a great cryptomeria-tree, 181; in form of a handsome youth allures a number of maidens away from their lovers, 181, 182",
+    "category": "religious_figure",
+    "reason": "Explicitly defined as 'Priest'."
+  },
+  {
+    "term": "Yellow Dragon",
+    "description": "See Yellow River, 363",
+    "category": "cross_reference",
+    "reason": "Redirection via 'See'."
+  },
+  {
+    "term": "Yellow River",
+    "description": "Fuk Hi present by Yellow Dragon with mystic scroll by the, 363",
+    "category": "river",
+    "reason": "Explicitly named 'River'."
+  },
+  {
+    "term": "\"Yih-King\"",
+    "description": "(\"Book of Changes\"). The main source of Japanese divination, 344; begun by Fu Hsi 2000 B.C. and added to by Confucius, 344",
+    "category": "book",
+    "reason": "Explicitly defined as 'Book'."
+  },
+  {
+    "term": "Yofuné-Nushi",
+    "description": "The Serpent God; variant, the White Sea Serpent, 334; slain by Tokoyo, 335",
+    "category": "deity",
+    "reason": "Explicitly defined as 'The Serpent God'."
+  },
+  {
+    "term": "Yomi, Land of (Hades)",
+    "description": "Izanami creeps away to, 23; Izanagi goes to, 23; Eight Ugly Females of, 24; the Even Pass of, 24; Susa-no-o banished to, 25, 28",
+    "category": "place",
+    "reason": "Mythological cosmological location."
+  },
+  {
+    "term": "Yoné",
+    "description": "Faithful servant of Tsuyu, 228–233",
+    "category": "person",
+    "reason": "Explicitly defined as 'servant'."
+  },
+  {
+    "term": "Yone Noguchi",
+    "description": "Sums up magic of a Japanese night associated with the Festival of the Dead, 224; quotation regarding Japanese fan from, 243; reference to The Pilgrimage by, 380",
+    "category": "person",
+    "reason": "Human author."
+  },
+  {
+    "term": "Yorimasa",
+    "description": "Knight; encounters and slays evil monsters outside Emperor's palace, the Purple Hall of the North Star, 38, 39; presented with sword Shishi-wo as reward, and marries Lady Ayame, 39",
+    "category": "person",
+    "reason": "Explicitly defined as 'Knight'."
+  },
+  {
+    "term": "Yorimitsu",
+    "description": "A famous hero who makes Kintaro his retainer, 368, 369",
+    "category": "person",
+    "reason": "Explicitly defined as 'A famous hero'."
+  },
+  {
+    "term": "Yoritomo",
+    "description": "General who laid out city of Kamakura, 83; saved after defeat from power of Oba Kage-chika by two doves, 277, 278",
+    "category": "person",
+    "reason": "Explicitly defined as 'General'."
+  },
+  {
+    "term": "Yorozuya",
+    "description": "Proposed husband for Kimi, 123",
+    "category": "person",
+    "reason": "Human male ('husband')."
+  },
+  {
+    "term": "Yoshimasa, The Lord",
+    "description": "The Shōgun; mirror presented to, 194",
+    "category": "person",
+    "reason": "Human holding titles 'Lord' and 'Shōgun'."
+  },
+  {
+    "term": "Yoshimine-dera",
+    "description": "Place at Kyōto; one of the thirty-three places sacred to Kwannon, 204",
+    "category": "place",
+    "reason": "Explicitly defined as 'Place'."
+  },
+  {
+    "term": "Yoshisawa",
+    "description": "Rescues Shingé from the snake, 168; drowns himself in the Violet Well, 168",
+    "category": "person",
+    "reason": "Human figure."
+  },
+  {
+    "term": "Yoshitomo",
+    "description": "Father of Yoshitsune; killed in battle with the Taira clan, 41; Tokiwa wife of, 41; reference to story of, 351, 352",
+    "category": "person",
+    "reason": "Human explicitly defined as 'Father'."
+  },
+  {
+    "term": "Yoshitsune",
+    "description": "Compared with the Black Prince and Henry V, 39; his father Yoshitomo killed in battle with the Taira, 41; his mother Tokiwa urges him to avenge his father's death, 41; intercourse with the King of the Tengu, 42; news of Benkei's lawless doings reaches ears of, 42; seeks out and conquers Benkei, 42, 43; assisted by Benkei, drives out the Taira, 43, 44",
+    "category": "person",
+    "reason": "Historical/mythological human hero."
+  },
+  {
+    "term": "Yōshō",
+    "description": "The first great Japanese sennin, 356, 357",
+    "category": "person",
+    "reason": "Explicitly defined as a 'sennin' (immortal human)."
+  },
+  {
+    "term": "Yosoji",
+    "description": "Consults the magician Kamo Yamakiko, 134; visits Mount Fuji, 134, 135",
+    "category": "person",
+    "reason": "Human who consults and visits."
+  },
+  {
+    "term": "Youth, The Land of Perpetual",
+    "description": "Visit of Sentaro to, 133, 134",
+    "category": "place",
+    "reason": "Mythological location ('Land')."
+  },
+  {
+    "term": "Yuki-Onna",
+    "description": "The Lady of the Snow, 149",
+    "category": "creature",
+    "reason": "A supernatural snow spirit."
+  },
+  {
+    "term": "Yurine",
+    "description": "A poor man who lived near Mount Fuji; story of, 359–362; Koyuri, son of, 359",
+    "category": "person",
+    "reason": "Explicitly defined as 'A poor man'."
+  },
+  {
+    "term": "Zembei",
+    "description": "Father of Shingé, 168",
+    "category": "person",
+    "reason": "Explicitly defined as 'Father'."
+  },
+  {
+    "term": "Zen",
+    "description": "Sect; tea-drinking associated with Buddhism by, 293",
+    "category": "group",
+    "reason": "Explicitly defined as a 'Sect'."
+  },
+  {
+    "term": "Zodiac",
+    "description": "The Dragon (Tatsu) one of the signs of the, 363",
+    "category": "concept",
+    "reason": "An astrological system."
+  },
+  {
+    "term": "Zoology",
+    "description": "Lafcadio Hearn's reference to ghostly, 94",
+    "category": "concept",
+    "reason": "Scientific or folkloric domain."
+  },
+  {
+    "category_counts": {
+      "person": 24,
+      "river": 2,
+      "place": 8,
+      "deity": 4,
+      "cross_reference": 4,
+      "concept": 8,
+      "creature": 3,
+      "group": 2,
+      "religious_figure": 1,
+      "book": 1
+    }
+  }
+]
