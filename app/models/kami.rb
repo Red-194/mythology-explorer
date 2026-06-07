@@ -1,0 +1,2 @@
+class Kami < ApplicationRecord
+end

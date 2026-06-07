@@ -1,0 +1,102 @@
+[
+  {
+    "source": "Tsuno-gui no Mikoto",
+    "target": "Iku-gui no Mikoto",
+    "relationship_type": "spouse"
+  },
+  {
+    "source": "Uhiji-ni no Mikoto",
+    "target": "Suhiji-ni no Mikoto",
+    "relationship_type": "spouse"
+  },
+  {
+    "source": "Oho-toma-hiko no Mikoto",
+    "target": "Oho-toma-he no Mikoto",
+    "relationship_type": "spouse"
+  },
+  {
+    "source": "Awo-kashiki ne no Mikoto",
+    "target": "Aya-kashiki ne no Mikoto",
+    "relationship_type": "spouse"
+  },
+  {
+    "source": "Izanagi no Mikoto",
+    "target": "Izanami no Mikoto",
+    "relationship_type": "spouse"
+  },
+
+  {
+    "source": "Taka mi-musubi no Mikoto",
+    "target": "Ama no omohi-game no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Taka mi-musubi no Mikoto",
+    "target": "Ama no futo-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Taka mi-musubi no Mikoto",
+    "target": "Ama no woshi-hi no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Taka mi-musubi no Mikoto",
+    "target": "Ama no kamu-dachi no Mikoto",
+    "relationship_type": "parent_child"
+  },
+
+  {
+    "source": "Kamu mi musubi no Mikoto",
+    "target": "Ame no mi ke mochi no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Kamu mi musubi no Mikoto",
+    "target": "Ame no michi ne no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Kamu mi musubi no Mikoto",
+    "target": "Ame no kami-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Kamu mi musubi no Mikoto",
+    "target": "Iku-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+
+  {
+    "source": "Tsu-haya-dama no Mikoto",
+    "target": "Ichi-ichi-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Tsu-haya-dama no Mikoto",
+    "target": "Kogoto-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Tsu-haya-dama no Mikoto",
+    "target": "Ama no ko-yane no Mikoto",
+    "relationship_type": "parent_child"
+  },
+
+  {
+    "source": "Furu-dama no Mikoto",
+    "target": "Saki-dama no Mikoto",
+    "relationship_type": "parent_child"
+  },
+  {
+    "source": "Furu-dama no Mikoto",
+    "target": "Ama no woshi-dachi no Mikoto",
+    "relationship_type": "parent_child"
+  },
+
+  {
+    "source": "Yorodzu-dana no Mikoto",
+    "target": "Ama no koha-kaha no Mikoto",
+    "relationship_type": "parent_child"
+  }
+]

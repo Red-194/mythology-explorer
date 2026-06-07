@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source_kami: one
+  target_kami: one
+  relationship_type: 1
+
+two:
+  source_kami: two
+  target_kami: two
+  relationship_type: 1
