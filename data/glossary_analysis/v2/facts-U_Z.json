@@ -1,0 +1,605 @@
+[
+  {
+    "subject": "Mubara",
+    "predicate": "lover_of",
+    "object": "Maiden of Unai",
+    "evidence": "Mubara and Chinu lovers of the Maiden of",
+    "source_term": "Unai",
+    "pages": [
+      313,
+      315
+    ]
+  },
+  {
+    "subject": "Chinu",
+    "predicate": "lover_of",
+    "object": "Maiden of Unai",
+    "evidence": "Mubara and Chinu lovers of the Maiden of",
+    "source_term": "Unai",
+    "pages": [
+      313,
+      315
+    ]
+  },
+  {
+    "subject": "The Fisher Boy of",
+    "predicate": "alias_of",
+    "object": "Urashima",
+    "evidence": "ballad of 'The Fisher Boy of'",
+    "source_term": "Urashima",
+    "pages": [
+      323,
+      328
+    ]
+  },
+  {
+    "subject": "Urashima",
+    "predicate": "visits",
+    "object": "Dragon (Sea) King's palace",
+    "evidence": "at the Dragon (Sea) King's palace",
+    "source_term": "Urashima",
+    "pages": [
+      323,
+      328
+    ]
+  },
+  {
+    "subject": "Urashima",
+    "predicate": "spouse_of",
+    "object": "Otohime",
+    "evidence": "weds Otohime",
+    "source_term": "Urashima",
+    "pages": [
+      323,
+      328
+    ]
+  },
+  {
+    "subject": "Otohime",
+    "predicate": "child_of",
+    "object": "Dragon King",
+    "evidence": "the Dragon King's daughter",
+    "source_term": "Urashima",
+    "pages": [
+      323,
+      328
+    ]
+  },
+  {
+    "subject": "Uzume",
+    "predicate": "spouse_of",
+    "object": "Deity of the Field-paths",
+    "evidence": "given by Ningi to the Deity of the Field-paths as wife",
+    "source_term": "Uzume",
+    "pages": [
+      28,
+      33
+    ]
+  },
+  {
+    "subject": "Visu",
+    "predicate": "alias_of",
+    "object": "Rip Van Winkle of Old Japan",
+    "evidence": "The Rip Van Winkle of Old Japan",
+    "source_term": "Visu",
+    "pages": [
+      136,
+      139
+    ]
+  },
+  {
+    "subject": "Waggon Priest",
+    "predicate": "cross_reference",
+    "object": "Hotei",
+    "evidence": "See Hotei",
+    "source_term": "Waggon Priest",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "subject": "Wasōbiyōye, Shikaiya",
+    "predicate": "lives_in",
+    "object": "Nagasaki",
+    "evidence": "A man of Nagasaki",
+    "source_term": "Wasōbiyōye, Shikaiya",
+    "pages": [
+      374,
+      376,
+      375
+    ]
+  },
+  {
+    "subject": "Wasōbiyōye, Shikaiya",
+    "predicate": "alias_of",
+    "object": "Japanese Gulliver",
+    "evidence": "a Japanese Gulliver",
+    "source_term": "Wasōbiyōye, Shikaiya",
+    "pages": [
+      374,
+      376,
+      375
+    ]
+  },
+  {
+    "subject": "Weaving Lady, The",
+    "predicate": "alias_of",
+    "object": "Tanabata",
+    "evidence": "Festival of Tanabata, or",
+    "source_term": "Weaving Lady, The",
+    "pages": [
+      126
+    ]
+  },
+  {
+    "subject": "Well, The Violet",
+    "predicate": "cross_reference",
+    "object": "Shingé",
+    "evidence": "See Shingé",
+    "source_term": "Well, The Violet",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "spouse_of",
+    "object": "Higo",
+    "evidence": "Heitaro, husband of Higo",
+    "source_term": "Willow Wife, The",
+    "pages": [
+      177,
+      180
+    ]
+  },
+  {
+    "subject": "Sakata Kurando",
+    "predicate": "lover_of",
+    "object": "Yaégiri",
+    "evidence": "falls in love with Yaégiri",
+    "source_term": "Yaégiri",
+    "pages": [
+      367
+    ]
+  },
+  {
+    "subject": "Yaégiri",
+    "predicate": "parent_of",
+    "object": "Kintaro",
+    "evidence": "gives birth to Kintaro",
+    "source_term": "Yaégiri",
+    "pages": [
+      367
+    ]
+  },
+  {
+    "subject": "Kintaro",
+    "predicate": "alias_of",
+    "object": "Golden Boy",
+    "evidence": "Kintaro, the Golden Boy",
+    "source_term": "Yaégiri",
+    "pages": [
+      367
+    ]
+  },
+  {
+    "subject": "Yama, Fuji",
+    "predicate": "cross_reference",
+    "object": "Fuji",
+    "evidence": "See Fuji",
+    "source_term": "Yama, Fuji",
+    "pages": [
+      79,
+      130,
+      131,
+      132,
+      133,
+      136,
+      139
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "child_of",
+    "object": "King Keiko",
+    "evidence": "Youngest son of King Keiko",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Princess Ototachibana",
+    "predicate": "spouse_of",
+    "object": "Yamato Take, Prince",
+    "evidence": "Princess Ototachibana wife of",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "slays",
+    "object": "Kumaso",
+    "evidence": "slays Kumaso and Takeru",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "slays",
+    "object": "Takeru",
+    "evidence": "slays Kumaso and Takeru",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "slays",
+    "object": "Idzumo Takeru",
+    "evidence": "slays Idzumo Takeru",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "spouse_of",
+    "object": "Princess Miyadzu",
+    "evidence": "meets and weds Princess Miyadzu",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "defeats",
+    "object": "Ainu",
+    "evidence": "Ainu rising quelled by",
+    "source_term": "Yamato Take, Prince",
+    "pages": [
+      51,
+      57
+    ]
+  },
+  {
+    "subject": "Yao, Emperor",
+    "predicate": "child_of",
+    "object": "dragon",
+    "evidence": "Reputed son of a dragon",
+    "source_term": "Yao, Emperor",
+    "pages": [
+      362
+    ]
+  },
+  {
+    "subject": "Yayoi",
+    "predicate": "alias_of",
+    "object": "Month of Increase",
+    "evidence": "The Month of Increase",
+    "source_term": "Yayoi",
+    "pages": [
+      193,
+      194
+    ]
+  },
+  {
+    "subject": "Yayoi",
+    "predicate": "alias_of",
+    "object": "Soul of the Mirror",
+    "evidence": "the Soul of the Mirror",
+    "source_term": "Yayoi",
+    "pages": [
+      193,
+      194
+    ]
+  },
+  {
+    "subject": "Yellow Dragon",
+    "predicate": "cross_reference",
+    "object": "Yellow River",
+    "evidence": "See Yellow River",
+    "source_term": "Yellow Dragon",
+    "pages": [
+      363
+    ]
+  },
+  {
+    "subject": "Fu Hsi",
+    "predicate": "creates",
+    "object": "\"Yih-King\"",
+    "evidence": "begun by Fu Hsi",
+    "source_term": "\"Yih-King\"",
+    "pages": [
+      344
+    ]
+  },
+  {
+    "subject": "Yofuné-Nushi",
+    "predicate": "alias_of",
+    "object": "Serpent God",
+    "evidence": "The Serpent God",
+    "source_term": "Yofuné-Nushi",
+    "pages": [
+      334,
+      335
+    ]
+  },
+  {
+    "subject": "Yofuné-Nushi",
+    "predicate": "alias_of",
+    "object": "White Sea Serpent",
+    "evidence": "variant, the White Sea Serpent",
+    "source_term": "Yofuné-Nushi",
+    "pages": [
+      334,
+      335
+    ]
+  },
+  {
+    "subject": "Tokoyo",
+    "predicate": "slays",
+    "object": "Yofuné-Nushi",
+    "evidence": "slain by Tokoyo",
+    "source_term": "Yofuné-Nushi",
+    "pages": [
+      334,
+      335
+    ]
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": "Izanami creeps away to",
+    "source_term": "Yomi, Land of (Hades)",
+    "pages": [
+      23,
+      25,
+      28
+    ]
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": "Izanagi goes to",
+    "source_term": "Yomi, Land of (Hades)",
+    "pages": [
+      23,
+      25,
+      28
+    ]
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": "Susa-no-o banished to",
+    "source_term": "Yomi, Land of (Hades)",
+    "pages": [
+      23,
+      25,
+      28
+    ]
+  },
+  {
+    "subject": "Yoné",
+    "predicate": "servant_of",
+    "object": "Tsuyu",
+    "evidence": "Faithful servant of Tsuyu",
+    "source_term": "Yoné",
+    "pages": [
+      228,
+      233
+    ]
+  },
+  {
+    "subject": "Yorimasa",
+    "predicate": "spouse_of",
+    "object": "Lady Ayame",
+    "evidence": "marries Lady Ayame",
+    "source_term": "Yorimasa",
+    "pages": [
+      38,
+      39
+    ]
+  },
+  {
+    "subject": "Kintaro",
+    "predicate": "servant_of",
+    "object": "Yorimitsu",
+    "evidence": "makes Kintaro his retainer",
+    "source_term": "Yorimitsu",
+    "pages": [
+      368,
+      369
+    ]
+  },
+  {
+    "subject": "Yoritomo",
+    "predicate": "founds",
+    "object": "city of Kamakura",
+    "evidence": "laid out city of Kamakura",
+    "source_term": "Yoritomo",
+    "pages": [
+      83,
+      277,
+      278
+    ]
+  },
+  {
+    "subject": "Yorozuya",
+    "predicate": "suitor_of",
+    "object": "Kimi",
+    "evidence": "Proposed husband for Kimi",
+    "source_term": "Yorozuya",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "subject": "Yoshimine-dera",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": "Place at Kyōto",
+    "source_term": "Yoshimine-dera",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "subject": "Yoshimine-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Yoshimine-dera",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "subject": "Yoshisawa",
+    "predicate": "dies_in",
+    "object": "Violet Well",
+    "evidence": "drowns himself in the Violet Well",
+    "source_term": "Yoshisawa",
+    "pages": [
+      168
+    ]
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "parent_of",
+    "object": "Yoshitsune",
+    "evidence": "Father of Yoshitsune",
+    "source_term": "Yoshitomo",
+    "pages": [
+      41,
+      351,
+      352
+    ]
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "spouse_of",
+    "object": "Yoshitomo",
+    "evidence": "Tokiwa wife of",
+    "source_term": "Yoshitomo",
+    "pages": [
+      41,
+      351,
+      352
+    ]
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "child_of",
+    "object": "Yoshitomo",
+    "evidence": "his father Yoshitomo",
+    "source_term": "Yoshitsune",
+    "pages": [
+      39,
+      44
+    ]
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "child_of",
+    "object": "Tokiwa",
+    "evidence": "his mother Tokiwa",
+    "source_term": "Yoshitsune",
+    "pages": [
+      39,
+      44
+    ]
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "defeats",
+    "object": "Benkei",
+    "evidence": "conquers Benkei",
+    "source_term": "Yoshitsune",
+    "pages": [
+      39,
+      44
+    ]
+  },
+  {
+    "subject": "Yōshō",
+    "predicate": "alias_of",
+    "object": "first great Japanese sennin",
+    "evidence": "The first great Japanese sennin",
+    "source_term": "Yōshō",
+    "pages": [
+      356,
+      357
+    ]
+  },
+  {
+    "subject": "Yosoji",
+    "predicate": "visits",
+    "object": "Mount Fuji",
+    "evidence": "visits Mount Fuji",
+    "source_term": "Yosoji",
+    "pages": [
+      134,
+      135
+    ]
+  },
+  {
+    "subject": "Sentaro",
+    "predicate": "visits",
+    "object": "Youth, The Land of Perpetual",
+    "evidence": "Visit of Sentaro to",
+    "source_term": "Youth, The Land of Perpetual",
+    "pages": [
+      133,
+      134
+    ]
+  },
+  {
+    "subject": "Yuki-Onna",
+    "predicate": "alias_of",
+    "object": "Lady of the Snow",
+    "evidence": "The Lady of the Snow",
+    "source_term": "Yuki-Onna",
+    "pages": [
+      149
+    ]
+  },
+  {
+    "subject": "Koyuri",
+    "predicate": "child_of",
+    "object": "Yurine",
+    "evidence": "Koyuri, son of",
+    "source_term": "Yurine",
+    "pages": [
+      359,
+      362
+    ]
+  },
+  {
+    "subject": "Zembei",
+    "predicate": "parent_of",
+    "object": "Shingé",
+    "evidence": "Father of Shingé",
+    "source_term": "Zembei",
+    "pages": [
+      168
+    ]
+  }
+]

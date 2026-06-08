@@ -1,0 +1,646 @@
+[
+  {
+    "subject": "Festival of Tanabata",
+    "predicate": "alias_of",
+    "object": "the Weaving Lady",
+    "evidence": "Alternative, the Weaving Lady",
+    "source_term": "Festival of Tanabata",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "child_of",
+    "object": "God of the Firmament",
+    "evidence": "Tanabata daughter of",
+    "source_term": "Firmament, God of the",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "child_of",
+    "object": "Izanagi and Izanami",
+    "evidence": "child of Izanagi and Izanami",
+    "source_term": "Fire God",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Flood-Tide Jewel",
+    "predicate": "cross_reference",
+    "object": "Jewels",
+    "evidence": "See Jewels",
+    "source_term": "Flood-Tide Jewel",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Fox God",
+    "predicate": "cross_reference",
+    "object": "Inari",
+    "evidence": "See Inari",
+    "source_term": "Fox God",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Fudaraku-ji",
+    "predicate": "located_in",
+    "object": "Nachi, in Kishū",
+    "evidence": "Place at Nachi, in Kishū",
+    "source_term": "Fudaraku-ji",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Fudaraku-ji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Fudaraku-ji",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Fudo",
+    "predicate": "alias_of",
+    "object": "Dainichi",
+    "evidence": "Identified with Dainichi",
+    "source_term": "Fudo",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Cape Fudo",
+    "predicate": "alias_of",
+    "object": "Cape of the Woman's Sword",
+    "evidence": "Known as the Cape of the Woman's Sword",
+    "source_term": "Fudo",
+    "pages": [
+      409
+    ]
+  },
+  {
+    "subject": "Fuji",
+    "predicate": "alias_of",
+    "object": "Fuji-yama",
+    "evidence": "Fuji-yama",
+    "source_term": "Fuji",
+    "pages": [
+      410
+    ]
+  },
+  {
+    "subject": "Fuji",
+    "predicate": "alias_of",
+    "object": "Huchi",
+    "evidence": "name derived from Huchi",
+    "source_term": "Fuji",
+    "pages": [
+      410
+    ]
+  },
+  {
+    "subject": "Fuji",
+    "predicate": "alias_of",
+    "object": "Fuchi",
+    "evidence": "or Fuchi",
+    "source_term": "Fuji",
+    "pages": [
+      410
+    ]
+  },
+  {
+    "subject": "Fuji-dera",
+    "predicate": "located_in",
+    "object": "Kawachi",
+    "evidence": "Place in Kawachi",
+    "source_term": "Fuji-dera",
+    "pages": [
+      410
+    ]
+  },
+  {
+    "subject": "Fuji-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Fuji-dera",
+    "pages": [
+      410
+    ]
+  },
+  {
+    "subject": "Shutendoji",
+    "predicate": "alias_of",
+    "object": "Goblin King",
+    "evidence": "Shutendoji, the",
+    "source_term": "Goblin King",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "God of the Sea",
+    "predicate": "parent_of",
+    "object": "Toyo-tama",
+    "evidence": "father of Toyo-tama",
+    "source_term": "God of the Sea",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Gohitsu-Oshiō",
+    "predicate": "alias_of",
+    "object": "Kōbō Daishi",
+    "evidence": "Name given to Kōbō Daishi",
+    "source_term": "Gohitsu-Oshiō",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Great-Mountain-Possessor",
+    "predicate": "alias_of",
+    "object": "Oho-yama",
+    "evidence": "Identical with Oho-yama",
+    "source_term": "Great-Mountain-Possessor",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hades",
+    "predicate": "cross_reference",
+    "object": "Yomi",
+    "evidence": "See Yomi",
+    "source_term": "Hades",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Happiness, Land of Perfect",
+    "predicate": "cross_reference",
+    "object": "Land",
+    "evidence": "See Land",
+    "source_term": "Happiness, Land of Perfect",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hara-kiri",
+    "predicate": "alias_of",
+    "object": "Seppuku",
+    "evidence": "Hara-kiri, or Seppuku",
+    "source_term": "Hara-kiri, or Seppuku",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hase-dera",
+    "predicate": "located_in",
+    "object": "Yamato",
+    "evidence": "Place in Yamato",
+    "source_term": "Hase-dera",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hase-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Hase-dera",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "spouse_of",
+    "object": "Willow Wife",
+    "evidence": "married Willow Wife",
+    "source_term": "Heitaro",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hidesato",
+    "predicate": "alias_of",
+    "object": "Tawara Toda",
+    "evidence": "Variants: Tawara Toda",
+    "source_term": "Hidesato",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hidesato",
+    "predicate": "alias_of",
+    "object": "My Lord Bag of Rice",
+    "evidence": "'My Lord Bag of Rice'",
+    "source_term": "Hidesato",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Higo",
+    "predicate": "spouse_of",
+    "object": "Heitaro",
+    "evidence": "Wife of Heitaro",
+    "source_term": "Higo ('Willow')",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hikoboshi",
+    "predicate": "spouse_of",
+    "object": "Tanabata",
+    "evidence": "Husband of Tanabata",
+    "source_term": "Hikoboshi",
+    "pages": [
+      411
+    ]
+  },
+  {
+    "subject": "Hito-koto-Kwannon",
+    "predicate": "cross_reference",
+    "object": "Kwannon",
+    "evidence": "See Kwannon",
+    "source_term": "Hito-koto-Kwannon",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "child_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": "Son of Ninigi and Ko-no-Hana",
+    "source_term": "Hoderi ('Fire-shine')",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hokkeji",
+    "predicate": "located_in",
+    "object": "Harima",
+    "evidence": "Place in Harima",
+    "source_term": "Hokkeji",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hokkeji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Hokkeji",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hokku",
+    "predicate": "cross_reference",
+    "object": "Japanese Poetry",
+    "evidence": "See Japanese Poetry",
+    "source_term": "Hokku",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "child_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": "Son of Ninigi and Ko-no-Hana",
+    "source_term": "Hoori ('Fire-fade')",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "spouse_of",
+    "object": "Toyo-tama",
+    "evidence": "weds Toyo-tama",
+    "source_term": "Hoori ('Fire-fade')",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Toyo-tama",
+    "predicate": "child_of",
+    "object": "the Sea God",
+    "evidence": "daughter of the Sea God",
+    "source_term": "Hoori ('Fire-fade')",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Huchi",
+    "predicate": "cross_reference",
+    "object": "Fuji",
+    "evidence": "See Fuji",
+    "source_term": "Huchi",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Huchi",
+    "predicate": "cross_reference",
+    "object": "Aino Goddess of Fire",
+    "evidence": "Aino Goddess of Fire",
+    "source_term": "Huchi",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Iha-naga",
+    "predicate": "alias_of",
+    "object": "Princess Long-as-the-Rocks",
+    "evidence": "Variant, Princess Long-as-the-Rocks",
+    "source_term": "Iha-naga",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Iha-naga",
+    "predicate": "child_of",
+    "object": "Oho-yama",
+    "evidence": "daughter of Oho-yama",
+    "source_term": "Iha-naga",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Iijima",
+    "predicate": "parent_of",
+    "object": "Tsuyu",
+    "evidence": "Father of Tsuyu",
+    "source_term": "Iijima",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Ima-Gumano",
+    "predicate": "located_in",
+    "object": "Kyōto, in Yamashiro",
+    "evidence": "Place at Kyōto, in Yamashiro",
+    "source_term": "Ima-Gumano",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Ima-Gumano",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Ima-Gumano",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Impetuous Male",
+    "predicate": "cross_reference",
+    "object": "Susa-no-o",
+    "evidence": "See Susa-no-o",
+    "source_term": "Impetuous Male",
+    "pages": [
+      412
+    ]
+  },
+  {
+    "subject": "Ishidomaro",
+    "predicate": "child_of",
+    "object": "Kato Sayemon",
+    "evidence": "Son of Kato Sayemon",
+    "source_term": "Ishidomaro",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Ishiyama-dera",
+    "predicate": "located_in",
+    "object": "near Otsu, in Ōmi",
+    "evidence": "Place near Otsu, in Ōmi",
+    "source_term": "Ishiyama-dera",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Ishiyama-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Ishiyama-dera",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Prince Ishizukuri",
+    "predicate": "suitor_of",
+    "object": "Kaguya",
+    "evidence": "One of Kaguya's five suitors",
+    "source_term": "Ishizukuri, Prince",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Issunboshi",
+    "predicate": "alias_of",
+    "object": "Little Finger",
+    "evidence": "Otherwise Little Finger",
+    "source_term": "Issunboshi ('One-Inch Priest')",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Issunboshi",
+    "predicate": "alias_of",
+    "object": "Grain-of-Corn",
+    "evidence": "and Grain-of-Corn",
+    "source_term": "Issunboshi ('One-Inch Priest')",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Issunboshi",
+    "predicate": "spouse_of",
+    "object": "youngest daughter of Prince Sanjo",
+    "evidence": "marries youngest daughter of Prince Sanjo",
+    "source_term": "Issunboshi ('One-Inch Priest')",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Emperor Iuwao",
+    "predicate": "spouse_of",
+    "object": "Spirit of Death-Stone",
+    "evidence": "Spirit of Death-Stone the consort of",
+    "source_term": "Iuwao, Emperor",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Iwama-dera",
+    "predicate": "located_in",
+    "object": "Ōmi",
+    "evidence": "Place in Ōmi",
+    "source_term": "Iwama-dera",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Iwama-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": "one of the thirty-three places sacred to Kwannon",
+    "source_term": "Iwama-dera",
+    "pages": [
+      413
+    ]
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "spouse_of",
+    "object": "Izanami",
+    "evidence": "desire to become husband and wife, 22; their marriage",
+    "source_term": "Izanagi and Izanami",
+    "pages": [
+      413,
+      414
+    ]
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "child_of",
+    "object": "Izanagi and Izanami",
+    "evidence": "parents of Tsuki-yumi",
+    "source_term": "Izanagi and Izanami",
+    "pages": [
+      413,
+      414
+    ]
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "child_of",
+    "object": "Izanagi and Izanami",
+    "evidence": "son of, 23",
+    "source_term": "Izanagi and Izanami",
+    "pages": [
+      413,
+      414
+    ]
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "child_of",
+    "object": "Izanagi and Izanami",
+    "evidence": "born to, 23",
+    "source_term": "Izanagi and Izanami",
+    "pages": [
+      413,
+      414
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "alias_of",
+    "object": "Jih-pén",
+    "evidence": "called Jih-pén by Chinese",
+    "source_term": "Japan",
+    "pages": [
+      414
+    ]
+  },
+  {
+    "subject": "Jih-pén",
+    "predicate": "alias_of",
+    "object": "Japan",
+    "evidence": "Chinese equivalent for Japan",
+    "source_term": "Jih-pén",
+    "pages": [
+      414
+    ]
+  },
+  {
+    "subject": "Jimmu Tennō",
+    "predicate": "alias_of",
+    "object": "Kamu-Yamato-Iware-Biko",
+    "evidence": "Variant, Kamu-Yamato-Iware-Biko",
+    "source_term": "Jimmu Tennō",
+    "pages": [
+      414
+    ]
+  },
+  {
+    "subject": "The Empress Jingo",
+    "predicate": "parent_of",
+    "object": "Ojin",
+    "evidence": "birth of her son Ojin",
+    "source_term": "Jingo, The Empress",
+    "pages": [
+      415
+    ]
+  },
+  {
+    "subject": "Jōshi",
+    "predicate": "alias_of",
+    "object": "love-death",
+    "evidence": "variants, 'love-death'",
+    "source_term": "Jōshi",
+    "pages": [
+      415
+    ]
+  },
+  {
+    "subject": "Jōshi",
+    "predicate": "alias_of",
+    "object": "passion-death",
+    "evidence": "or 'passion-death'",
+    "source_term": "Jōshi",
+    "pages": [
+      415
+    ]
+  }
+]
