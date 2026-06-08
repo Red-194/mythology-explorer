@@ -1,0 +1,377 @@
+[
+  {
+    "action": "SPLIT",
+    "fact_id": "a1e41c8952f4",
+    "replacement": [
+      {
+        "subject": "Kagu-tsuchi",
+        "predicate": "child_of",
+        "object": "Izanagi",
+        "evidence": [
+          "child of Izanagi and Izanami",
+          "born to, 23"
+        ],
+        "source_term": [
+          "Fire God",
+          "Izanagi and Izanami"
+        ],
+        "pages": [
+          409,
+          413,
+          414
+        ]
+      },
+      {
+        "subject": "Kagu-tsuchi",
+        "predicate": "child_of",
+        "object": "Izanami",
+        "evidence": [
+          "child of Izanagi and Izanami",
+          "born to, 23"
+        ],
+        "source_term": [
+          "Fire God",
+          "Izanagi and Izanami"
+        ],
+        "pages": [
+          409,
+          413,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "ac7c4f05469c",
+    "replacement": {
+      "id": "ac7c4f05469c",
+      "subject": "Ama-terasu",
+      "predicate": "goddess_of",
+      "object": "Sun",
+      "evidence": [
+        "the Sun Goddess"
+      ],
+      "source_term": [
+        "Ama-terasu"
+      ],
+      "pages": [
+        403,
+        404
+      ]
+    }
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "a7d193d330cc",
+    "replacement": {
+      "id": "a7d193d330cc",
+      "subject": "Bimbogami",
+      "predicate": "god_of",
+      "object": "Poverty",
+      "evidence": [
+        "The God of Poverty"
+      ],
+      "source_term": [
+        "Bimbogami"
+      ],
+      "pages": [
+        405
+      ]
+    }
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "aa5847669b79",
+    "reason": "Alias target is a festival (Tanabata), not a person (the Weaving Lady)."
+  },
+  {
+    "action": "SPLIT",
+    "fact_id": "19db7c0fa9f7",
+    "replacement": [
+      {
+        "subject": "Tsuki-yumi",
+        "predicate": "child_of",
+        "object": "Izanagi",
+        "evidence": [
+          "parents of Tsuki-yumi",
+          "son of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Izanagi and Izanami",
+          "Tsuki-yumi"
+        ],
+        "pages": [
+          413,
+          414,
+          23
+        ]
+      },
+      {
+        "subject": "Tsuki-yumi",
+        "predicate": "child_of",
+        "object": "Izanami",
+        "evidence": [
+          "parents of Tsuki-yumi",
+          "son of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Izanagi and Izanami",
+          "Tsuki-yumi"
+        ],
+        "pages": [
+          413,
+          414,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "action": "SPLIT",
+    "fact_id": "d2da4fb83096",
+    "replacement": [
+      {
+        "subject": "Susa-no-o",
+        "predicate": "child_of",
+        "object": "Izanagi",
+        "evidence": [
+          "son of, 23",
+          "Child of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Izanagi and Izanami",
+          "Susa-no-o"
+        ],
+        "pages": [
+          413,
+          414,
+          23,
+          352
+        ]
+      },
+      {
+        "subject": "Susa-no-o",
+        "predicate": "child_of",
+        "object": "Izanami",
+        "evidence": [
+          "son of, 23",
+          "Child of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Izanagi and Izanami",
+          "Susa-no-o"
+        ],
+        "pages": [
+          413,
+          414,
+          23,
+          352
+        ]
+      }
+    ]
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "54ff0d789125",
+    "reason": "Evidence defines a term ('love-death'), does not provide an alias."
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "57e7647ed1ae",
+    "reason": "Evidence defines a term ('passion-death'), does not provide an alias."
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "db5af355682b",
+    "reason": "Evidence provides a descriptive phrase, not an alias."
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "9407d5ce1eb6",
+    "replacement": {
+      "id": "9407d5ce1eb6",
+      "subject": "Tsuki-yumi",
+      "predicate": "god_of",
+      "object": "Moon",
+      "evidence": [
+        "Tsuki-yumi... the"
+      ],
+      "source_term": [
+        "Moon God"
+      ],
+      "pages": [
+        420
+      ]
+    }
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "c1d91181e67b",
+    "replacement": {
+      "id": "c1d91181e67b",
+      "subject": "Bimbogami",
+      "predicate": "god_of",
+      "object": "Poverty",
+      "evidence": [
+        "Bimbogami, the God of Poverty"
+      ],
+      "source_term": [
+        "Poverty"
+      ],
+      "pages": [
+        423
+      ]
+    }
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "4616a402e382",
+    "replacement": {
+      "id": "4616a402e382",
+      "subject": "Raiden",
+      "predicate": "god_of",
+      "object": "Thunder",
+      "evidence": [
+        "The God of Thunder"
+      ],
+      "source_term": [
+        "Raiden"
+      ],
+      "pages": [
+        250
+      ]
+    }
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "ec8ddc2cad9d",
+    "reason": "Evidence provides a description, not an alias."
+  },
+  {
+    "action": "SPLIT",
+    "fact_id": "19bd2657bf66",
+    "replacement": [
+      {
+        "subject": "Ama-terasu",
+        "predicate": "child_of",
+        "object": "Izanagi",
+        "evidence": [
+          "daughter of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Sun Goddess"
+        ],
+        "pages": [
+          23,
+          109,
+          191,
+          220
+        ]
+      },
+      {
+        "subject": "Ama-terasu",
+        "predicate": "child_of",
+        "object": "Izanami",
+        "evidence": [
+          "daughter of Izanagi and Izanami"
+        ],
+        "source_term": [
+          "Sun Goddess"
+        ],
+        "pages": [
+          23,
+          109,
+          191,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "47a2031c0cf4",
+    "replacement": {
+      "id": "47a2031c0cf4",
+      "subject": "Ama-terasu",
+      "predicate": "goddess_of",
+      "object": "Sun",
+      "evidence": [
+        "Sun Goddess"
+      ],
+      "source_term": [
+        "Sun Goddess"
+      ],
+      "pages": [
+        23,
+        109,
+        191,
+        220
+      ]
+    }
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "59ccd1b6eede",
+    "reason": "Evidence defines a term, does not provide an alias."
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "bd9c060cee54",
+    "replacement": {
+      "id": "bd9c060cee54",
+      "subject": "Tsuki-yumi",
+      "predicate": "god_of",
+      "object": "Moon",
+      "evidence": [
+        "The Moon God"
+      ],
+      "source_term": [
+        "Tsuki-yumi"
+      ],
+      "pages": [
+        23
+      ]
+    }
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "608a13be8427",
+    "reason": "Evidence provides a descriptive phrase, not an alias."
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "c91a76a6f4b3",
+    "reason": "Evidence provides a descriptive phrase, not an alias."
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "9d9e8127f503",
+    "reason": "Evidence defines a term, does not provide an alias."
+  },
+  {
+    "action": "CORRECT",
+    "fact_id": "b1aee9d4a5b9",
+    "replacement": {
+      "id": "b1aee9d4a5b9",
+      "subject": "Yofuné-Nushi",
+      "predicate": "god_of",
+      "object": "Serpent",
+      "evidence": [
+        "The Serpent God"
+      ],
+      "source_term": [
+        "Yofuné-Nushi"
+      ],
+      "pages": [
+        334,
+        335
+      ]
+    }
+  },
+  {
+    "action": "FLAG",
+    "fact_id": "b48580822a7b",
+    "reason": "Evidence provides a description, not an alias."
+  }
+]
