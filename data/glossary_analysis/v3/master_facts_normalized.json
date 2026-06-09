@@ -674,7 +674,7 @@
   },
   {
     "subject": "Festival of Tanabata",
-    "predicate": "alias_of",
+    "predicate": "associated_with",
     "object": "the Weaving Lady",
     "evidence": [
       "Alternative, the Weaving Lady"
@@ -768,7 +768,7 @@
   },
   {
     "subject": "Fudo",
-    "predicate": "alias_of",
+    "predicate": "identified_with",
     "object": "Dainichi",
     "evidence": [
       "Identified with Dainichi"
@@ -813,7 +813,7 @@
   },
   {
     "subject": "Fuji",
-    "predicate": "alias_of",
+    "predicate": "derived_from",
     "object": "Huchi",
     "evidence": [
       "name derived from Huchi"
@@ -1763,7 +1763,7 @@
   },
   {
     "subject": "Kamakura",
-    "predicate": "alias_of",
+    "predicate": "associated_with",
     "object": "one-time capital of Nippon",
     "evidence": [
       "The one-time capital of Nippon"
@@ -1973,7 +1973,7 @@
   },
   {
     "subject": "Urashima",
-    "predicate": "dies_in",
+    "predicate": "buried_in",
     "object": "Kanagawa",
     "evidence": [
       "Urashima's tomb still shown in a temple in"
@@ -2474,7 +2474,7 @@
   },
   {
     "subject": "Kompira",
-    "predicate": "alias_of",
+    "predicate": "identified_with",
     "object": "Susa-no-o",
     "evidence": [
       "identified with Susa-no-o"
@@ -3341,7 +3341,7 @@
   },
   {
     "subject": "Gisuke",
-    "predicate": "friend_of",
+    "predicate": "sibling_of",
     "object": "O Cho San",
     "evidence": [
       "Gisuke the brother of"
@@ -4203,7 +4203,7 @@
   },
   {
     "subject": "Tanabata",
-    "predicate": "alias_of",
+    "predicate": "associated_with",
     "object": "The Weaving Lady",
     "evidence": [
       "Alternative, The Weaving Lady"
@@ -4729,7 +4729,7 @@
   },
   {
     "subject": "Weaving Lady, The",
-    "predicate": "alias_of",
+    "predicate": "associated_with",
     "object": "Tanabata",
     "evidence": [
       "Festival of Tanabata, or"
@@ -4969,7 +4969,7 @@
   },
   {
     "subject": "Yayoi",
-    "predicate": "alias_of",
+    "predicate": "identified_with",
     "object": "Soul of the Mirror",
     "evidence": [
       "the Soul of the Mirror"

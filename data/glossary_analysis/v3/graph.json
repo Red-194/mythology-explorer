@@ -2275,7 +2275,7 @@
       "id": "aa5847669b79",
       "source": "Festival of Tanabata",
       "target": "the Weaving Lady",
-      "predicate": "alias_of",
+      "predicate": "associated_with",
       "evidence": [
         "Alternative, the Weaving Lady"
       ],
@@ -2369,7 +2369,7 @@
       "id": "09d28766777a",
       "source": "Fudo",
       "target": "Dainichi",
-      "predicate": "alias_of",
+      "predicate": "identified_with",
       "evidence": [
         "Identified with Dainichi"
       ],
@@ -2414,7 +2414,7 @@
       "id": "6d1f897887da",
       "source": "Fuji",
       "target": "Huchi",
-      "predicate": "alias_of",
+      "predicate": "derived_from",
       "evidence": [
         "name derived from Huchi"
       ],
@@ -3364,7 +3364,7 @@
       "id": "db5af355682b",
       "source": "Kamakura",
       "target": "one-time capital of Nippon",
-      "predicate": "alias_of",
+      "predicate": "associated_with",
       "evidence": [
         "The one-time capital of Nippon"
       ],
@@ -3574,7 +3574,7 @@
       "id": "67a0fca124a0",
       "source": "Urashima",
       "target": "Kanagawa",
-      "predicate": "dies_in",
+      "predicate": "buried_in",
       "evidence": [
         "Urashima's tomb still shown in a temple in"
       ],
@@ -4075,7 +4075,7 @@
       "id": "cf739e0077e4",
       "source": "Kompira",
       "target": "Susa-no-o",
-      "predicate": "alias_of",
+      "predicate": "identified_with",
       "evidence": [
         "identified with Susa-no-o"
       ],
@@ -4942,7 +4942,7 @@
       "id": "12d455bc158e",
       "source": "Gisuke",
       "target": "O Cho San",
-      "predicate": "friend_of",
+      "predicate": "sibling_of",
       "evidence": [
         "Gisuke the brother of"
       ],
@@ -5804,7 +5804,7 @@
       "id": "169a1549c544",
       "source": "Tanabata",
       "target": "The Weaving Lady",
-      "predicate": "alias_of",
+      "predicate": "associated_with",
       "evidence": [
         "Alternative, The Weaving Lady"
       ],
@@ -6330,7 +6330,7 @@
       "id": "9414cef69875",
       "source": "Weaving Lady, The",
       "target": "Tanabata",
-      "predicate": "alias_of",
+      "predicate": "associated_with",
       "evidence": [
         "Festival of Tanabata, or"
       ],
@@ -6570,7 +6570,7 @@
       "id": "b74956eb7cdc",
       "source": "Yayoi",
       "target": "Soul of the Mirror",
-      "predicate": "alias_of",
+      "predicate": "identified_with",
       "evidence": [
         "the Soul of the Mirror"
       ],
