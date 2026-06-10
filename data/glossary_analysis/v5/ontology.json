@@ -1,0 +1,170 @@
+{
+  "associated_with": {
+    "description": "Specifies a general or thematic relationship between the subject and the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "born_in": {
+    "description": "Specifies the location or realm where the subject was born.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "buried_in": {
+    "description": "Specifies the location where the subject is entombed or buried.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "child_of": {
+    "description": "Indicates that the subject is the offspring or descendant of the object.",
+    "count": 33,
+    "inverse": "parent_of",
+    "symmetric": false
+  },
+  "creates": {
+    "description": "Indicates that the subject authored, forged, or brought the object into existence.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "defeats": {
+    "description": "Indicates that the subject conquered or bested the object in a conflict.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "deity_of": {
+    "description": "Indicates that the subject is a divine figure representing or ruling the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "derived_from": {
+    "description": "Indicates that the subject's name, origin, or nature originates from the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "dies_in": {
+    "description": "Specifies the location or circumstance in which the subject died.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "founds": {
+    "description": "Indicates that the subject established or created a location, group, or institution.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "friend_of": {
+    "description": "Indicates a friendly or companionable relationship between the subject and object.",
+    "count": 4,
+    "inverse": "friend_of",
+    "symmetric": true
+  },
+  "god_of": {
+    "description": "Indicates that the male or gender-neutral subject is the divine ruler or embodiment of the object.",
+    "count": 6,
+    "inverse": null,
+    "symmetric": false
+  },
+  "goddess_of": {
+    "description": "Indicates that the female subject is the divine ruler or embodiment of the object.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "identified_with": {
+    "description": "Indicates that the subject is synonymous with, or heavily equated to, the object.",
+    "count": 3,
+    "inverse": "identified_with",
+    "symmetric": true
+  },
+  "lives_in": {
+    "description": "Specifies the location or realm where the subject resides.",
+    "count": 3,
+    "inverse": null,
+    "symmetric": false
+  },
+  "located_in": {
+    "description": "Specifies the geographical or physical region where the subject is found.",
+    "count": 39,
+    "inverse": null,
+    "symmetric": false
+  },
+  "lover_of": {
+    "description": "Indicates a romantic or sexual relationship distinct from formal marriage.",
+    "count": 6,
+    "inverse": null,
+    "symmetric": false
+  },
+  "owns": {
+    "description": "Indicates that the subject possesses or has mastery over the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "parent_of": {
+    "description": "Indicates that the subject is the mother or father of the object.",
+    "count": 17,
+    "inverse": "child_of",
+    "symmetric": false
+  },
+  "ruler_of": {
+    "description": "Indicates that the subject holds authority or dominion over the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "sacred_to": {
+    "description": "Indicates that the subject (e.g., a location or artifact) is dedicated to or holy to the object.",
+    "count": 33,
+    "inverse": null,
+    "symmetric": false
+  },
+  "servant_of": {
+    "description": "Indicates that the subject serves, attends, or acts as a retainer to the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "sibling_of": {
+    "description": "Indicates that the subject and object share one or more parents.",
+    "count": 1,
+    "inverse": "sibling_of",
+    "symmetric": true
+  },
+  "slays": {
+    "description": "Indicates that the subject killed or fatally destroyed the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "spouse_of": {
+    "description": "Indicates a formal marital union between the subject and the object.",
+    "count": 34,
+    "inverse": "spouse_of",
+    "symmetric": true
+  },
+  "suitor_of": {
+    "description": "Indicates that the subject actively pursued a romantic or marital union with the object.",
+    "count": 7,
+    "inverse": null,
+    "symmetric": false
+  },
+  "travels_to": {
+    "description": "Indicates that the subject journeys or has relocated to the object location.",
+    "count": 5,
+    "inverse": null,
+    "symmetric": false
+  },
+  "visits": {
+    "description": "Indicates a temporary journey or stay by the subject at the object location.",
+    "count": 5,
+    "inverse": null,
+    "symmetric": false
+  }
+}
