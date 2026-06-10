@@ -5,12 +5,9 @@
   "Bronze Buddha": [
     "Buddha (the Bronze)"
   ],
-  "Dragon King": [
-    "Dragon (Sea) King"
-  ],
   "Dragon King (of the Sea)": [
-    "Dragon (Sea) King",
-    "Dragon King"
+    "Dragon King",
+    "Dragon (Sea) King"
   ],
   "Dragon Palace": [
     "Dragon (Sea) King's palace"
@@ -28,7 +25,8 @@
     "Yoritomo"
   ],
   "God of the Sea": [
-    "Sea God"
+    "Sea God",
+    "the Sea God"
   ],
   "Hanagaki Baishū": [
     "Baishū, Hanagaki"
@@ -49,9 +47,6 @@
     "Ko-no-hana-saku-ya-hime",
     "Ko-no-hana"
   ],
-  "Ko-no-hana-saku-ya-hime": [
-    "Ko-no-hana"
-  ],
   "Kyōto": [
     "Kyōto, in Yamashiro"
   ],
@@ -60,6 +55,9 @@
   ],
   "Liu-kiu Islands": [
     "Liu-kiu"
+  ],
+  "Ninigi": [
+    "Ningi"
   ],
   "Otohime, The Princess": [
     "Otohime"
@@ -81,9 +79,6 @@
   ],
   "Sakata Kurando": [
     "Kurando, Sakata"
-  ],
-  "Sea God": [
-    "the Sea God"
   ],
   "Sodzu-Baba": [
     "Sodzu-baba"

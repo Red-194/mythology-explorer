@@ -1,9 +1,9 @@
 require "json"
 require "securerandom"
 
-path = "data/glossary_analysis/v2"
-INPUT_FILE = "#{path}/master_facts.json"
-OUTPUT_FILE = "#{path}/master_facts_with_ids.json"
+path = "data/glossary_analysis/v5"
+INPUT_FILE = "#{path}/master_facts_final.json"
+OUTPUT_FILE = "#{path}/tmp.json"
 
 facts = JSON.parse(File.read(INPUT_FILE))
 
