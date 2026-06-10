@@ -7,8 +7,11 @@ require "set"
 # INPUT_FILE  = "data/glossary_analysis/v4/master_facts_resolved.json"
 # OUTPUT_FILE = "data/glossary_analysis/v4/resolved_graph.json"
 
-INPUT_FILE  = "data/glossary_analysis/v4/master_facts_resolved_2.json"
-OUTPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
+# INPUT_FILE  = "data/glossary_analysis/v4/master_facts_resolved_2.json"
+# OUTPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
+
+INPUT_FILE  = "data/glossary_analysis/v5/master_facts_final.json"
+OUTPUT_FILE = "data/glossary_analysis/v5/resolved_graph_final.json"
 
 facts = JSON.parse(File.read(INPUT_FILE))
 

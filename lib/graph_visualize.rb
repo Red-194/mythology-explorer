@@ -9,8 +9,11 @@ require "graphviz"
 # INPUT_FILE = "data/glossary_analysis/v4/resolved_graph.json"
 # OUTPUT_FILE = "data/glossary_analysis/v4/resolved_mythology_graph.png"
 
-INPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
-OUTPUT_FILE = "data/glossary_analysis/v4/resolved_mythology_graph_2.png"
+# INPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
+# OUTPUT_FILE = "data/glossary_analysis/v4/resolved_mythology_graph_2.png"
+
+INPUT_FILE = "data/glossary_analysis/v5/resolved_graph_final.json"
+OUTPUT_FILE = "data/glossary_analysis/v5/resolved_mythology_graph_final.png"
 
 graph_data = JSON.parse(File.read(INPUT_FILE))
 
