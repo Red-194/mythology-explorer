@@ -3,8 +3,14 @@
 require "json"
 require "graphviz"
 
-INPUT_FILE = "data/glossary_analysis/v3/graph.json"
-OUTPUT_FILE = "data/glossary_analysis/v3/mythology_graph.png"
+# INPUT_FILE = "data/glossary_analysis/v3/graph.json"
+# OUTPUT_FILE = "data/glossary_analysis/v3/mythology_graph.png"
+
+# INPUT_FILE = "data/glossary_analysis/v4/resolved_graph.json"
+# OUTPUT_FILE = "data/glossary_analysis/v4/resolved_mythology_graph.png"
+
+INPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
+OUTPUT_FILE = "data/glossary_analysis/v4/resolved_mythology_graph_2.png"
 
 graph_data = JSON.parse(File.read(INPUT_FILE))
 

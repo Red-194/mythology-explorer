@@ -1,8 +1,14 @@
 require "json"
 require "set"
 
-INPUT_FILE  = "data/glossary_analysis/v3/master_facts_normalized.json"
-OUTPUT_FILE = "data/glossary_analysis/v3/graph.json"
+# INPUT_FILE  = "data/glossary_analysis/v3/master_facts_normalized.json"
+# OUTPUT_FILE = "data/glossary_analysis/v3/graph.json"
+
+# INPUT_FILE  = "data/glossary_analysis/v4/master_facts_resolved.json"
+# OUTPUT_FILE = "data/glossary_analysis/v4/resolved_graph.json"
+
+INPUT_FILE  = "data/glossary_analysis/v4/master_facts_resolved_2.json"
+OUTPUT_FILE = "data/glossary_analysis/v4/resolved_graph_2.json"
 
 facts = JSON.parse(File.read(INPUT_FILE))
 

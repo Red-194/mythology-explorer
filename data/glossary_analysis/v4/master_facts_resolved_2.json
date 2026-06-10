@@ -17,7 +17,7 @@
   {
     "subject": "Abe no Miushi",
     "predicate": "suitor_of",
-    "object": "Kaguya",
+    "object": "Kaguya, Lady",
     "evidence": [
       "one of Kaguya's five suitors"
     ],
@@ -136,21 +136,6 @@
       404
     ],
     "id": "547b3979b37f"
-  },
-  {
-    "subject": "Amidaji",
-    "predicate": "located_in",
-    "object": "Akamagaséki",
-    "evidence": [
-      "Temple of, built at Akamagaséki"
-    ],
-    "source_term": [
-      "Amidaji"
-    ],
-    "pages": [
-      404
-    ],
-    "id": "fafdf0e3bd28"
   },
   {
     "subject": "Kwanjin",
@@ -288,7 +273,7 @@
     "id": "fc222ee5b66b"
   },
   {
-    "subject": "The Lady Ayame",
+    "subject": "Lady Ayame",
     "predicate": "spouse_of",
     "object": "Yorimasa",
     "evidence": [
@@ -303,7 +288,7 @@
     "id": "0eaac3f9e472"
   },
   {
-    "subject": "Baishū, Hanagaki",
+    "subject": "Hanagaki Baishū",
     "predicate": "cross_reference",
     "object": "Hanagaki Baishū",
     "evidence": [
@@ -365,7 +350,7 @@
   {
     "subject": "Bowl",
     "predicate": "cross_reference",
-    "object": "Buddha",
+    "object": "The Lord Buddha",
     "evidence": [
       "see Buddha"
     ],
@@ -378,7 +363,7 @@
     "id": "502545719f52"
   },
   {
-    "subject": "\"Box of the Jewel Hand\"",
+    "subject": "The Box of the Jewel Hand",
     "predicate": "cross_reference",
     "object": "Tamate-Bako",
     "evidence": [
@@ -395,7 +380,7 @@
   {
     "subject": "Bronze Buddha",
     "predicate": "cross_reference",
-    "object": "Buddha",
+    "object": "The Lord Buddha",
     "evidence": [
       "See Buddha"
     ],
@@ -410,7 +395,7 @@
   {
     "subject": "Charms",
     "predicate": "cross_reference",
-    "object": "Superstitions",
+    "object": "Superstition",
     "evidence": [
       "See Superstitions"
     ],
@@ -582,7 +567,7 @@
   {
     "subject": "Daibutsu, The",
     "predicate": "cross_reference",
-    "object": "Buddha (the Bronze)",
+    "object": "Bronze Buddha",
     "evidence": [
       "See Buddha (the Bronze)"
     ],
@@ -617,7 +602,7 @@
     "predicate": "child_of",
     "object": "a Hindu king",
     "evidence": [
-      "Son of a Hindu king" 
+      "Son of a Hindu king"
     ],
     "source_term": [
       "Daruma"
@@ -628,7 +613,7 @@
     "id": "7889e3f69152"
   },
   {
-    "subject": "Otohime",
+    "subject": "Otohime, The Princess",
     "predicate": "child_of",
     "object": "Dragon King (of the Sea)",
     "evidence": [
@@ -675,7 +660,7 @@
   {
     "subject": "Festival of Tanabata",
     "predicate": "associated_with",
-    "object": "the Weaving Lady",
+    "object": "The Weaving Lady",
     "evidence": [
       "Alternative, the Weaving Lady"
     ],
@@ -1189,7 +1174,7 @@
   {
     "subject": "Toyo-tama",
     "predicate": "child_of",
-    "object": "the Sea God",
+    "object": "God of the Sea",
     "evidence": [
       "daughter of the Sea God"
     ],
@@ -1279,7 +1264,7 @@
   {
     "subject": "Ima-Gumano",
     "predicate": "located_in",
-    "object": "Kyōto, in Yamashiro",
+    "object": "Kyōto",
     "evidence": [
       "Place at Kyōto, in Yamashiro"
     ],
@@ -1307,7 +1292,7 @@
     "id": "2b39bcc523bb"
   },
   {
-    "subject": "Impetuous Male",
+    "subject": "The Impetuous Male",
     "predicate": "cross_reference",
     "object": "Susa-no-o",
     "evidence": [
@@ -1373,7 +1358,7 @@
   {
     "subject": "Prince Ishizukuri",
     "predicate": "suitor_of",
-    "object": "Kaguya",
+    "object": "Kaguya, Lady",
     "evidence": [
       "One of Kaguya's five suitors"
     ],
@@ -1537,7 +1522,7 @@
     "id": "0069719eae01"
   },
   {
-    "subject": "The Empress Jingo",
+    "subject": "Empress Jingo",
     "predicate": "parent_of",
     "object": "Ojin",
     "evidence": [
@@ -1657,21 +1642,6 @@
     "id": "5a5bae79aa01"
   },
   {
-    "subject": "Prince Ishizukuri",
-    "predicate": "suitor_of",
-    "object": "Kaguya, Lady",
-    "evidence": [
-      "Prince Ishizukuri... suitors of"
-    ],
-    "source_term": [
-      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
-    ],
-    "pages": [
-      415
-    ],
-    "id": "4fbca8487c37"
-  },
-  {
     "subject": "Prince Kuramochi",
     "predicate": "suitor_of",
     "object": "Kaguya, Lady",
@@ -1685,21 +1655,6 @@
       415
     ],
     "id": "8e457c8c6a1b"
-  },
-  {
-    "subject": "Abe no Miushi",
-    "predicate": "suitor_of",
-    "object": "Kaguya, Lady",
-    "evidence": [
-      "the Sadaijin Dainagon Abe no Miushi... suitors of"
-    ],
-    "source_term": [
-      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
-    ],
-    "pages": [
-      415
-    ],
-    "id": "57ffd4aa18b4"
   },
   {
     "subject": "Otomo no Miyuki",
@@ -2017,7 +1972,7 @@
     "id": "60b1cc978347"
   },
   {
-    "subject": "Kappa, The",
+    "subject": "Kappa",
     "predicate": "alias_of",
     "object": "Kawako",
     "evidence": [
@@ -2642,22 +2597,7 @@
     "id": "a9bd4bc20448"
   },
   {
-    "subject": "Kuramochi, Prince",
-    "predicate": "suitor_of",
-    "object": "Kaguya",
-    "evidence": [
-      "One of Kaguya's five suitors"
-    ],
-    "source_term": [
-      "Kuramochi, Prince"
-    ],
-    "pages": [
-      417
-    ],
-    "id": "a0cd82e9c9df"
-  },
-  {
-    "subject": "Kurando, Sakata",
+    "subject": "Sakata Kurando",
     "predicate": "cross_reference",
     "object": "Kintaro",
     "evidence": [
@@ -2672,7 +2612,7 @@
     "id": "c9b63cdb6d6b"
   },
   {
-    "subject": "Kurando, Sakata",
+    "subject": "Sakata Kurando",
     "predicate": "lover_of",
     "object": "Yaégiri",
     "evidence": [
@@ -2841,7 +2781,7 @@
     "id": "aaa730cc63f8"
   },
   {
-    "subject": "Land, The Evergreen",
+    "subject": "Evergreen Land",
     "predicate": "alias_of",
     "object": "Dragon Palace",
     "evidence": [
@@ -2916,7 +2856,7 @@
     "id": "a196d2854653"
   },
   {
-    "subject": "Long-as-the-Rocks, Princess",
+    "subject": "Princess Long-as-the-Rocks",
     "predicate": "alias_of",
     "object": "Iha-naga",
     "evidence": [
@@ -2933,7 +2873,7 @@
   {
     "subject": "Luchu Islands",
     "predicate": "alias_of",
-    "object": "Liu-kiu",
+    "object": "Liu-kiu Islands",
     "evidence": [
       "Japanese pronunciation for the Chinese equivalent, Liu-kiu"
     ],
@@ -2946,24 +2886,9 @@
     "id": "1d857202b44b"
   },
   {
-    "subject": "Miushi",
-    "predicate": "suitor_of",
-    "object": "Kaguya",
-    "evidence": [
-      "one of Kaguya's five suitors"
-    ],
-    "source_term": [
-      "Miushi"
-    ],
-    "pages": [
-      420
-    ],
-    "id": "050f71671f8c"
-  },
-  {
-    "subject": "Prince Yamato",
+    "subject": "Yamato Take, Prince",
     "predicate": "spouse_of",
-    "object": "Miyadzu, Princess",
+    "object": "Princess Miyadzu",
     "evidence": [
       "Prince Yamato meets and weds"
     ],
@@ -2974,21 +2899,6 @@
       420
     ],
     "id": "fc4c9a075759"
-  },
-  {
-    "subject": "Miyuki (Otomo no Miyuki)",
-    "predicate": "suitor_of",
-    "object": "Kaguya",
-    "evidence": [
-      "one of Kaguya's five suitors"
-    ],
-    "source_term": [
-      "Miyuki"
-    ],
-    "pages": [
-      420
-    ],
-    "id": "992f91cd0c47"
   },
   {
     "subject": "Momotaro",
@@ -3049,21 +2959,6 @@
       420
     ],
     "id": "ff22365491c9"
-  },
-  {
-    "subject": "Morotada",
-    "predicate": "suitor_of",
-    "object": "Kaguya",
-    "evidence": [
-      "one of Kaguya's five suitors"
-    ],
-    "source_term": [
-      "Morotada"
-    ],
-    "pages": [
-      420
-    ],
-    "id": "60fad254ef00"
   },
   {
     "subject": "Mountain Spider",
@@ -3267,7 +3162,7 @@
   {
     "subject": "Ningi",
     "predicate": "spouse_of",
-    "object": "Ko-no-hana",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
     "evidence": [
       "weds Ko-no-hana"
     ],
@@ -3406,7 +3301,7 @@
   {
     "subject": "Oho-yama",
     "predicate": "parent_of",
-    "object": "Ko-no-hana",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
     "evidence": [
       "father of Ko-no-hana and Iha-naga"
     ],
@@ -3495,21 +3390,6 @@
   },
   {
     "subject": "Otohime, The Princess",
-    "predicate": "child_of",
-    "object": "Dragon (Sea) King",
-    "evidence": [
-      "Daughter of the Dragon (Sea) King"
-    ],
-    "source_term": [
-      "Otohime, The Princess"
-    ],
-    "pages": [
-      423
-    ],
-    "id": "3496e9753811"
-  },
-  {
-    "subject": "Otohime, The Princess",
     "predicate": "spouse_of",
     "object": "Urashima",
     "evidence": [
@@ -3524,9 +3404,9 @@
     "id": "0f1e35c4c9eb"
   },
   {
-    "subject": "Ototachibana, Princess",
+    "subject": "Princess Ototachibana",
     "predicate": "spouse_of",
-    "object": "Prince Yamato",
+    "object": "Yamato Take, Prince",
     "evidence": [
       "Wife of Prince Yamato"
     ],
@@ -3537,21 +3417,6 @@
       423
     ],
     "id": "c602a21f023d"
-  },
-  {
-    "id": "c1d91181e67b",
-    "subject": "Bimbogami",
-    "predicate": "god_of",
-    "object": "Poverty",
-    "evidence": [
-      "Bimbogami, the God of Poverty"
-    ],
-    "source_term": [
-      "Poverty"
-    ],
-    "pages": [
-      423
-    ]
   },
   {
     "subject": "Precious Things",
@@ -3844,7 +3709,7 @@
     "id": "ec8ddc2cad9d"
   },
   {
-    "subject": "Sea God",
+    "subject": "God of the Sea",
     "predicate": "cross_reference",
     "object": "God of the Sea",
     "evidence": [
@@ -3891,7 +3756,7 @@
   {
     "subject": "Sengen",
     "predicate": "alias_of",
-    "object": "Ko-no-hana-saku-ya-hime",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
     "evidence": [
       "Otherwise Ko-no-hana-saku-ya-hime"
     ],
@@ -3905,7 +3770,7 @@
     "id": "85b7c5de5946"
   },
   {
-    "subject": "Ko-no-hana",
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
     "predicate": "spouse_of",
     "object": "Ningi",
     "evidence": [
@@ -3921,7 +3786,7 @@
     "id": "d5704f4fa86f"
   },
   {
-    "subject": "Serpent",
+    "subject": "White Sea Serpent",
     "predicate": "alias_of",
     "object": "Yofune-Nushi",
     "evidence": [
@@ -4075,7 +3940,7 @@
   {
     "subject": "Ten Datsu-Ba",
     "predicate": "spouse_of",
-    "object": "Sodzu-baba",
+    "object": "Sodzu-Baba",
     "evidence": [
       "Ten Datsu-Ba, husband of"
     ],
@@ -4116,24 +3981,6 @@
       204
     ],
     "id": "5dc028e0a101"
-  },
-  {
-    "id": "47a2031c0cf4",
-    "subject": "Ama-terasu",
-    "predicate": "goddess_of",
-    "object": "Sun",
-    "evidence": [
-      "Sun Goddess"
-    ],
-    "source_term": [
-      "Sun Goddess"
-    ],
-    "pages": [
-      23,
-      109,
-      191,
-      220
-    ]
   },
   {
     "subject": "Susa-no-o",
@@ -4357,21 +4204,6 @@
     "id": "e1c866cca084"
   },
   {
-    "subject": "Ten Datsu-Ba",
-    "predicate": "spouse_of",
-    "object": "Sodzu-Baba",
-    "evidence": [
-      "Husband of Sodzu-Baba"
-    ],
-    "source_term": [
-      "Ten Datsu-Ba"
-    ],
-    "pages": [
-      222
-    ],
-    "id": "a8549206e90f"
-  },
-  {
     "subject": "Tengu-kakushi",
     "predicate": "alias_of",
     "object": "Hidden by a Tengu",
@@ -4475,22 +4307,6 @@
   },
   {
     "subject": "Toyo-tama",
-    "predicate": "child_of",
-    "object": "Sea God",
-    "evidence": [
-      "Daughter of the Sea God"
-    ],
-    "source_term": [
-      "Toyo-tama"
-    ],
-    "pages": [
-      36,
-      37
-    ],
-    "id": "8b09d90d68e6"
-  },
-  {
-    "subject": "Toyo-tama",
     "predicate": "spouse_of",
     "object": "Hoori",
     "evidence": [
@@ -4534,21 +4350,6 @@
       203
     ],
     "id": "c0769e3e2ef8"
-  },
-  {
-    "id": "bd9c060cee54",
-    "subject": "Tsuki-yumi",
-    "predicate": "god_of",
-    "object": "Moon",
-    "evidence": [
-      "The Moon God"
-    ],
-    "source_term": [
-      "Tsuki-yumi"
-    ],
-    "pages": [
-      23
-    ]
   },
   {
     "subject": "Tsuyu",
@@ -4601,7 +4402,7 @@
   {
     "subject": "Urashima",
     "predicate": "visits",
-    "object": "Dragon (Sea) King's palace",
+    "object": "Dragon Palace",
     "evidence": [
       "at the Dragon (Sea) King's palace"
     ],
@@ -4617,7 +4418,7 @@
   {
     "subject": "Urashima",
     "predicate": "spouse_of",
-    "object": "Otohime",
+    "object": "Otohime, The Princess",
     "evidence": [
       "weds Otohime"
     ],
@@ -4629,22 +4430,6 @@
       328
     ],
     "id": "4507f2703a4b"
-  },
-  {
-    "subject": "Otohime",
-    "predicate": "child_of",
-    "object": "Dragon King",
-    "evidence": [
-      "the Dragon King's daughter"
-    ],
-    "source_term": [
-      "Urashima"
-    ],
-    "pages": [
-      323,
-      328
-    ],
-    "id": "3695cd60a42e"
   },
   {
     "subject": "Uzume",
@@ -4728,7 +4513,7 @@
     "id": "c91a76a6f4b3"
   },
   {
-    "subject": "Weaving Lady, The",
+    "subject": "The Weaving Lady",
     "predicate": "associated_with",
     "object": "Tanabata",
     "evidence": [
@@ -4743,7 +4528,7 @@
     "id": "9414cef69875"
   },
   {
-    "subject": "Well, The Violet",
+    "subject": "The Violet Well",
     "predicate": "cross_reference",
     "object": "Shingé",
     "evidence": [
@@ -4774,21 +4559,6 @@
     "id": "7f8e30a8e67a"
   },
   {
-    "subject": "Sakata Kurando",
-    "predicate": "lover_of",
-    "object": "Yaégiri",
-    "evidence": [
-      "falls in love with Yaégiri"
-    ],
-    "source_term": [
-      "Yaégiri"
-    ],
-    "pages": [
-      367
-    ],
-    "id": "a9206f8aa852"
-  },
-  {
     "subject": "Yaégiri",
     "predicate": "parent_of",
     "object": "Kintaro",
@@ -4804,7 +4574,7 @@
     "id": "64361cc34999"
   },
   {
-    "subject": "Yama, Fuji",
+    "subject": "Fuji-yama",
     "predicate": "cross_reference",
     "object": "Fuji",
     "evidence": [
@@ -4841,22 +4611,6 @@
     "id": "c1eb8c988bd4"
   },
   {
-    "subject": "Princess Ototachibana",
-    "predicate": "spouse_of",
-    "object": "Yamato Take, Prince",
-    "evidence": [
-      "Princess Ototachibana wife of"
-    ],
-    "source_term": [
-      "Yamato Take, Prince"
-    ],
-    "pages": [
-      51,
-      57
-    ],
-    "id": "87e7ecc4489c"
-  },
-  {
     "subject": "Yamato Take, Prince",
     "predicate": "slays",
     "object": "Kumaso",
@@ -4875,7 +4629,7 @@
   {
     "subject": "Yamato Take, Prince",
     "predicate": "slays",
-    "object": "Takeru",
+    "object": "Idzumo Takeru",
     "evidence": [
       "slays Kumaso and Takeru"
     ],
@@ -4887,38 +4641,6 @@
       57
     ],
     "id": "eda9c6e1986d"
-  },
-  {
-    "subject": "Yamato Take, Prince",
-    "predicate": "slays",
-    "object": "Idzumo Takeru",
-    "evidence": [
-      "slays Idzumo Takeru"
-    ],
-    "source_term": [
-      "Yamato Take, Prince"
-    ],
-    "pages": [
-      51,
-      57
-    ],
-    "id": "ac6dbcd2fa9f"
-  },
-  {
-    "subject": "Yamato Take, Prince",
-    "predicate": "spouse_of",
-    "object": "Princess Miyadzu",
-    "evidence": [
-      "meets and weds Princess Miyadzu"
-    ],
-    "source_term": [
-      "Yamato Take, Prince"
-    ],
-    "pages": [
-      51,
-      57
-    ],
-    "id": "bdb900fbd540"
   },
   {
     "subject": "Yamato Take, Prince",
@@ -5017,7 +4739,7 @@
     "id": "b1aee9d4a5b9",
     "subject": "Yofuné-Nushi",
     "predicate": "god_of",
-    "object": "Serpent",
+    "object": "White Sea Serpent",
     "evidence": [
       "The Serpent God"
     ],
@@ -5161,23 +4883,6 @@
     "id": "399c646006d4"
   },
   {
-    "subject": "Yoritomo",
-    "predicate": "founds",
-    "object": "city of Kamakura",
-    "evidence": [
-      "laid out city of Kamakura"
-    ],
-    "source_term": [
-      "Yoritomo"
-    ],
-    "pages": [
-      83,
-      277,
-      278
-    ],
-    "id": "693f719f9509"
-  },
-  {
     "subject": "Yorozuya",
     "predicate": "suitor_of",
     "object": "Kimi",
@@ -5225,7 +4930,7 @@
   {
     "subject": "Yoshisawa",
     "predicate": "dies_in",
-    "object": "Violet Well",
+    "object": "The Violet Well",
     "evidence": [
       "drowns himself in the Violet Well"
     ],
@@ -5335,21 +5040,6 @@
     "id": "24746a654cbe"
   },
   {
-    "subject": "Yuki-Onna",
-    "predicate": "alias_of",
-    "object": "Lady of the Snow",
-    "evidence": [
-      "The Lady of the Snow"
-    ],
-    "source_term": [
-      "Yuki-Onna"
-    ],
-    "pages": [
-      149
-    ],
-    "id": "c8f219b0682e"
-  },
-  {
     "subject": "Zembei",
     "predicate": "parent_of",
     "object": "Shingé",
@@ -5363,82 +5053,6 @@
       168
     ],
     "id": "e967db62f465"
-  },
-  {
-    "subject": "Kagu-tsuchi",
-    "predicate": "child_of",
-    "object": "Izanagi",
-    "evidence": [
-      "child of Izanagi and Izanami",
-      "born to, 23"
-    ],
-    "source_term": [
-      "Fire God",
-      "Izanagi and Izanami"
-    ],
-    "pages": [
-      409,
-      413,
-      414
-    ],
-    "id": "47a9f7a19399"
-  },
-  {
-    "subject": "Kagu-tsuchi",
-    "predicate": "child_of",
-    "object": "Izanami",
-    "evidence": [
-      "child of Izanagi and Izanami",
-      "born to, 23"
-    ],
-    "source_term": [
-      "Fire God",
-      "Izanagi and Izanami"
-    ],
-    "pages": [
-      409,
-      413,
-      414
-    ],
-    "id": "0544e57b35f5"
-  },
-  {
-    "subject": "Tsuki-yumi",
-    "predicate": "child_of",
-    "object": "Izanagi",
-    "evidence": [
-      "parents of Tsuki-yumi",
-      "son of Izanagi and Izanami"
-    ],
-    "source_term": [
-      "Izanagi and Izanami",
-      "Tsuki-yumi"
-    ],
-    "pages": [
-      413,
-      414,
-      23
-    ],
-    "id": "26f2e7654721"
-  },
-  {
-    "subject": "Tsuki-yumi",
-    "predicate": "child_of",
-    "object": "Izanami",
-    "evidence": [
-      "parents of Tsuki-yumi",
-      "son of Izanagi and Izanami"
-    ],
-    "source_term": [
-      "Izanagi and Izanami",
-      "Tsuki-yumi"
-    ],
-    "pages": [
-      413,
-      414,
-      23
-    ],
-    "id": "72195ed90aeb"
   },
   {
     "subject": "Susa-no-o",
@@ -5479,41 +5093,5 @@
       352
     ],
     "id": "a5fc5aa23108"
-  },
-  {
-    "subject": "Ama-terasu",
-    "predicate": "child_of",
-    "object": "Izanagi",
-    "evidence": [
-      "daughter of Izanagi and Izanami"
-    ],
-    "source_term": [
-      "Sun Goddess"
-    ],
-    "pages": [
-      23,
-      109,
-      191,
-      220
-    ],
-    "id": "479f338f9ea0"
-  },
-  {
-    "subject": "Ama-terasu",
-    "predicate": "child_of",
-    "object": "Izanami",
-    "evidence": [
-      "daughter of Izanagi and Izanami"
-    ],
-    "source_term": [
-      "Sun Goddess"
-    ],
-    "pages": [
-      23,
-      109,
-      191,
-      220
-    ],
-    "id": "2c4720fc1a02"
   }
 ]

@@ -1,0 +1,342 @@
+[
+  {
+    "entities": [
+      "Ko-no-Hana-Saku-ya-Hime",
+      "Ko-no-hana-saku-ya-hime"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Ko-no-Hana-Saku-ya-Hime",
+    "confidence": 0.99,
+    "reason": "Identical names differing only in capitalization. Context confirms they share similar mythological relationships like spouse of Ninigi."
+  },
+  {
+    "entities": [
+      "Baishū, Hanagaki",
+      "Hanagaki Baishū"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Hanagaki Baishū",
+    "confidence": 0.99,
+    "reason": "Reordered naming convention (Family Name First vs Western order) cross-referencing each other."
+  },
+  {
+    "entities": [
+      "Dragon (Sea) King's palace",
+      "Dragon King (of the Sea)"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "One is a location (palace), the other is the person (King) who owns the location."
+  },
+  {
+    "entities": [
+      "Dragon (Sea) King's palace",
+      "Dragon Palace"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Dragon Palace",
+    "confidence": 0.95,
+    "reason": "Both refer to the same mythological palace under the sea visited in folklore."
+  },
+  {
+    "entities": [
+      "Dragon (Sea) King's palace",
+      "dragon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "A palace location vs a creature/being."
+  },
+  {
+    "entities": [
+      "Dragon King (of the Sea)",
+      "dragon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.95,
+    "reason": "A specific named mythological figure vs a generic creature or a different specific deity."
+  },
+  {
+    "entities": [
+      "Dragon Palace",
+      "dragon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "Location vs creature."
+  },
+  {
+    "entities": [
+      "Dragon Princess",
+      "dragon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "Specific mythological person vs general entity."
+  },
+  {
+    "entities": [
+      "Embroidery depicting Kwannon",
+      "Kwannon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "An artwork depicting a deity vs the deity itself."
+  },
+  {
+    "entities": [
+      "Evergreen Land",
+      "Land, The Evergreen"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Evergreen Land",
+    "confidence": 0.99,
+    "reason": "Reordered naming for the exact same mythological location."
+  },
+  {
+    "entities": [
+      "Festival of Tanabata",
+      "Tanabata"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.95,
+    "reason": "The event/festival vs the deity/concept associated with the event."
+  },
+  {
+    "entities": [
+      "God of the Sea",
+      "Sea God"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "God of the Sea",
+    "confidence": 0.98,
+    "reason": "Different phrasings of the same deity title, sharing context involving Toyo-tama."
+  },
+  {
+    "entities": [
+      "Japan",
+      "Rip Van Winkle of Old Japan"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "Country/location vs a character epithet associated with that country."
+  },
+  {
+    "entities": [
+      "Kishū",
+      "Nachi, in Kishū"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "A broader region/province vs a specific location within that province."
+  },
+  {
+    "entities": [
+      "Kiyomizu-dera",
+      "Shin Kiyomizu-dera"
+    ],
+    "classification": "DIFFERENT_ENTITY",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "Two distinct temples, one in Kyoto and the new one ('Shin') in Harima."
+  },
+  {
+    "entities": [
+      "Kuramochi, Prince",
+      "Prince Kuramochi"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Prince Kuramochi",
+    "confidence": 0.99,
+    "reason": "Reordered name, both suitor of Lady Kaguya."
+  },
+  {
+    "entities": [
+      "Kurando, Sakata",
+      "Sakata Kurando"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Sakata Kurando",
+    "confidence": 0.99,
+    "reason": "Reordered name, both refer to the same character who is the lover of Yaégiri."
+  },
+  {
+    "entities": [
+      "Lady Mercy",
+      "Mercy"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.95,
+    "reason": "A specific title for the deity Kwannon vs the concept associated with the deity."
+  },
+  {
+    "entities": [
+      "Lady of the Snow",
+      "The Snow Lady"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "The Snow Lady",
+    "confidence": 0.98,
+    "reason": "Slight phrasing variation for the exact same mythological figure, alias of Yuki-Onna."
+  },
+  {
+    "entities": [
+      "Long-as-the-Rocks, Princess",
+      "Princess Long-as-the-Rocks"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Princess Long-as-the-Rocks",
+    "confidence": 0.99,
+    "reason": "Reordered name."
+  },
+  {
+    "entities": [
+      "Miyadzu, Princess",
+      "Princess Miyadzu"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Princess Miyadzu",
+    "confidence": 0.99,
+    "reason": "Reordered name, sharing context as spouse of Prince Yamato."
+  },
+  {
+    "entities": [
+      "Miyuki",
+      "Otomo no Miyuki"
+    ],
+    "classification": "DIFFERENT_ENTITY",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "Context maps to different roles; one is alias of Asagao/lover of Komagawa Miyagi, the other is suitor of Lady Kaguya."
+  },
+  {
+    "entities": [
+      "Moonland",
+      "Moonland Capital"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "The entire realm vs the specific capital city within that realm."
+  },
+  {
+    "entities": [
+      "Ninigi",
+      "Ninigi and Ko-no-Hana"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.99,
+    "reason": "Individual entity vs a coupled entity."
+  },
+  {
+    "entities": [
+      "Ototachibana, Princess",
+      "Princess Ototachibana"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Princess Ototachibana",
+    "confidence": 0.99,
+    "reason": "Reordered name, both refer to the same spouse of Prince Yamato."
+  },
+  {
+    "entities": [
+      "Prince Yamato",
+      "Yamato"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.95,
+    "reason": "Specific person vs region/province, despite shared keywords in mythology."
+  },
+  {
+    "entities": [
+      "Prince Yamato",
+      "Yamato Take, Prince"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Yamato Take, Prince",
+    "confidence": 0.99,
+    "reason": "Same mythological hero, context shows both are spouse of Princess Miyadzu and Ototachibana."
+  },
+  {
+    "entities": [
+      "The Thunder Animal",
+      "Thunder"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "Creature (Raiju) vs Concept/domain."
+  },
+  {
+    "entities": [
+      "The Weaving Lady",
+      "Weaving Lady, The"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "The Weaving Lady",
+    "confidence": 0.99,
+    "reason": "Reordered name for the same mythological figure."
+  },
+  {
+    "entities": [
+      "Thunder",
+      "Thunder Woman"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "Concept vs specific character alias (Kaminari)."
+  },
+  {
+    "entities": [
+      "Violet Well",
+      "Well, The Violet"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "The Violet Well",
+    "confidence": 0.99,
+    "reason": "Reordered name."
+  },
+  {
+    "entities": [
+      "Yamato",
+      "Yamato Take, Prince"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.95,
+    "reason": "Region/domain vs specific heroic figure."
+  },
+  {
+    "entities": [
+      "Yellow Dragon",
+      "dragon"
+    ],
+    "classification": "RELATED_BUT_DIFFERENT",
+    "canonical": null,
+    "confidence": 0.98,
+    "reason": "Specific notable entity vs general creature type."
+  },
+  {
+    "entities": [
+      "Fuji-yama",
+      "Yama, Fuji"
+    ],
+    "classification": "SAME_ENTITY",
+    "canonical": "Fuji-yama",
+    "confidence": 0.99,
+    "reason": "Reordered name."
+  }
+]

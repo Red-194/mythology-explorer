@@ -1,0 +1,665 @@
+{
+  "results": [
+    {
+      "entities": [
+        "Buddha",
+        "Buddha (the Bronze)"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "One refers to the general religious figure/deity, while the other refers to a specific bronze statue (the Daibutsu)."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King",
+        "Dragon King",
+        "Dragon King (of the Sea)"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Dragon King (of the Sea)",
+      "confidence": 0.99,
+      "reason": "Different titles and levels of specificity for the same mythological ruler."
+    },
+    {
+      "entities": [
+        "Ko-no-Hana-Saku-ya-Hime",
+        "Ko-no-hana-saku-ya-hime"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Ko-no-Hana-Saku-ya-Hime",
+      "confidence": 1.0,
+      "reason": "Same name with different capitalization."
+    },
+    {
+      "entities": [
+        "Sodzu-Baba",
+        "Sodzu-baba"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Sodzu-Baba",
+      "confidence": 1.0,
+      "reason": "Same name with different capitalization."
+    },
+    {
+      "entities": [
+        "The Weaving Lady",
+        "the Weaving Lady"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "The Weaving Lady",
+      "confidence": 1.0,
+      "reason": "Same name with different capitalization."
+    },
+    {
+      "entities": [
+        "\"Box of the Jewel Hand\"",
+        "The Box of the Jewel Hand"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "The Box of the Jewel Hand",
+      "confidence": 0.98,
+      "reason": "Different formatting of the same translated name for Tamate-Bako."
+    },
+    {
+      "entities": [
+        "Abe no Miushi",
+        "Miushi"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Abe no Miushi",
+      "confidence": 0.98,
+      "reason": "Both are the same suitor of Kaguya, with one being the abbreviated name."
+    },
+    {
+      "entities": [
+        "Amidaji",
+        "Temple of Amidaji"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Temple of Amidaji",
+      "confidence": 0.98,
+      "reason": "Same temple, one simply explicitly includes 'Temple of'."
+    },
+    {
+      "entities": [
+        "Batō-Kwannon",
+        "Kwannon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Batō-Kwannon is a specific manifestation/form of the broader deity Kwannon."
+    },
+    {
+      "entities": [
+        "Bronze Buddha",
+        "Buddha"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific statue vs the general deity."
+    },
+    {
+      "entities": [
+        "Bronze Buddha",
+        "Buddha (the Bronze)"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Bronze Buddha",
+      "confidence": 0.98,
+      "reason": "Both refer to the same specific statue."
+    },
+    {
+      "entities": [
+        "Buddha",
+        "The Lord Buddha"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "The Lord Buddha",
+      "confidence": 0.98,
+      "reason": "Different honorific titles for the same religious figure."
+    },
+    {
+      "entities": [
+        "Buddha (the Bronze)",
+        "The Lord Buddha"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific statue vs the general deity with an honorific."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King",
+        "Dragon (Sea) King's palace"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "One is a ruler, the other is their location."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King",
+        "Dragon King"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Dragon King",
+      "confidence": 0.98,
+      "reason": "Variations of the same title for the same ruler."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King",
+        "Dragon King (of the Sea)"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Dragon King (of the Sea)",
+      "confidence": 0.98,
+      "reason": "Variations of the same title for the same ruler."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific mythological king vs a general species/creature concept."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "Dragon King"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Location vs the ruler."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "Dragon King (of the Sea)"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Location vs the ruler."
+    },
+    {
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Location vs a species."
+    },
+    {
+      "entities": [
+        "Dragon King",
+        "Dragon King (of the Sea)"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Dragon King (of the Sea)",
+      "confidence": 0.98,
+      "reason": "Variations of the same title for the same ruler."
+    },
+    {
+      "entities": [
+        "Dragon King",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific mythological king vs a general species/creature concept."
+    },
+    {
+      "entities": [
+        "Dragon King (of the Sea)",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific mythological king vs a general species/creature concept."
+    },
+    {
+      "entities": [
+        "Dragon Palace",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Location vs a species."
+    },
+    {
+      "entities": [
+        "Dragon Princess",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Specific character vs a general species/creature concept."
+    },
+    {
+      "entities": [
+        "Embroidery depicting Kwannon",
+        "Kwannon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "An artifact depicting the deity vs the deity itself."
+    },
+    {
+      "entities": [
+        "Empress Jingo",
+        "The Empress Jingo"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Empress Jingo",
+      "confidence": 1.0,
+      "reason": "Same historical/mythological figure, one includes a definite article."
+    },
+    {
+      "entities": [
+        "Festival of Tanabata",
+        "Tanabata"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.98,
+      "reason": "The event/festival vs the figure/concept celebrated in it."
+    },
+    {
+      "entities": [
+        "General Yoritomo",
+        "Yoritomo"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "General Yoritomo",
+      "confidence": 0.98,
+      "reason": "Same person, one includes his military title."
+    },
+    {
+      "entities": [
+        "Hito-koto-Kwannon",
+        "Kwannon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Hito-koto-Kwannon is a specific form/statue vs the broader deity Kwannon."
+    },
+    {
+      "entities": [
+        "Idzumo Takeru",
+        "Takeru"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Idzumo Takeru",
+      "confidence": 0.95,
+      "reason": "Contextually both refer to the same specific figure slain by Yamato Take."
+    },
+    {
+      "entities": [
+        "Impetuous Male",
+        "The Impetuous Male"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "The Impetuous Male",
+      "confidence": 1.0,
+      "reason": "Same alias for Susa-no-o, merely differing by the definite article."
+    },
+    {
+      "entities": [
+        "Inari",
+        "Kaminari"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Inari is the God of Rice, Kaminari is the Thunder Woman. Completely different entities."
+    },
+    {
+      "entities": [
+        "Japan",
+        "Japanese Gulliver"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Country vs a specific character descriptor."
+    },
+    {
+      "entities": [
+        "Japan",
+        "Japanese Poetry"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Country vs a cultural concept."
+    },
+    {
+      "entities": [
+        "Japan",
+        "Rip Van Winkle of Old Japan"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Country vs a specific character descriptor."
+    },
+    {
+      "entities": [
+        "Japan",
+        "first great Japanese sennin"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Country vs a specific character descriptor."
+    },
+    {
+      "entities": [
+        "Kaguya",
+        "Kaguya, Lady"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Kaguya, Lady",
+      "confidence": 0.98,
+      "reason": "Same individual with a royal honorific appended."
+    },
+    {
+      "entities": [
+        "Kamakura",
+        "city of Kamakura"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Kamakura",
+      "confidence": 0.98,
+      "reason": "Both refer to the same settlement/location."
+    },
+    {
+      "entities": [
+        "Kamu-Yamato-Iware-Biko",
+        "Yamato"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "An emperor (Jimmu Tenno) vs a province/Prince Yamato Take. Only a partial name match."
+    },
+    {
+      "entities": [
+        "Kappa",
+        "Kappa, The"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Kappa",
+      "confidence": 1.0,
+      "reason": "Same mythological creature."
+    },
+    {
+      "entities": [
+        "Kawachi",
+        "Kawachi-mura"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Kawachi is a province, Kawachi-mura is a specific village."
+    },
+    {
+      "entities": [
+        "Kawako",
+        "Kawako-no-Miya"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Kawako is the creature, Kawako-no-Miya is the shrine dedicated to it."
+    },
+    {
+      "entities": [
+        "Kishū",
+        "Nachi, in Kishū"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "A province vs a specific location inside that province."
+    },
+    {
+      "entities": [
+        "Kiyomizu-dera",
+        "Shin Kiyomizu-dera"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.98,
+      "reason": "Different temples; 'Shin' implies 'New', and they are in different locations (Kyoto vs Harima)."
+    },
+    {
+      "entities": [
+        "Ko-no-Hana-Saku-ya-Hime",
+        "Ko-no-hana"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Ko-no-Hana-Saku-ya-Hime",
+      "confidence": 0.98,
+      "reason": "Ko-no-hana is the shortened, commonly used name for the same goddess."
+    },
+    {
+      "entities": [
+        "Ko-no-hana",
+        "Ko-no-hana-saku-ya-hime"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Ko-no-hana-saku-ya-hime",
+      "confidence": 0.98,
+      "reason": "Shortened vs full name of the same goddess."
+    },
+    {
+      "entities": [
+        "Ko-no-hana",
+        "Ninigi and Ko-no-Hana"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "The individual goddess vs the couple she forms with her spouse."
+    },
+    {
+      "entities": [
+        "Kwannon",
+        "Kwannonji"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "Deity vs a temple named after the deity."
+    },
+    {
+      "entities": [
+        "Kyōto",
+        "Kyōto, in Yamashiro"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Kyōto",
+      "confidence": 0.98,
+      "reason": "Same city, one includes its regional location."
+    },
+    {
+      "entities": [
+        "Kyōto, in Yamashiro",
+        "Yamashiro"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "City vs the province it is located in."
+    },
+    {
+      "entities": [
+        "Lady Ayame",
+        "The Lady Ayame"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Lady Ayame",
+      "confidence": 1.0,
+      "reason": "Same individual differing only by a definite article."
+    },
+    {
+      "entities": [
+        "Lady Mercy",
+        "Mercy"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Alias for the goddess Kwannon vs the abstract concept she embodies."
+    },
+    {
+      "entities": [
+        "Liu-kiu",
+        "Liu-kiu Islands"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Liu-kiu Islands",
+      "confidence": 0.98,
+      "reason": "Both terms refer to the same archipelago."
+    },
+    {
+      "entities": [
+        "Miyuki (Otomo no Miyuki)",
+        "Otomo no Miyuki"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Otomo no Miyuki",
+      "confidence": 0.98,
+      "reason": "Both are suitors of Kaguya, one is the partial/abbreviated name."
+    },
+    {
+      "entities": [
+        "Moonland",
+        "Moonland Capital"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.98,
+      "reason": "The entire realm vs its capital city."
+    },
+    {
+      "entities": [
+        "Ninigi",
+        "Ninigi and Ko-no-Hana"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.99,
+      "reason": "The individual god vs the couple he forms with his spouse."
+    },
+    {
+      "entities": [
+        "Otohime",
+        "Otohime, The Princess"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Otohime, The Princess",
+      "confidence": 0.98,
+      "reason": "Same individual, one simply appends her royal title."
+    },
+    {
+      "entities": [
+        "Prince Yamato",
+        "Yamato"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "Refers to Prince Yamato Take vs the province of Yamato."
+    },
+    {
+      "entities": [
+        "Sea God",
+        "the Sea God"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Sea God",
+      "confidence": 1.0,
+      "reason": "Same title differing only by a definite article."
+    },
+    {
+      "entities": [
+        "Serpent",
+        "White Sea Serpent"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "White Sea Serpent",
+      "confidence": 0.95,
+      "reason": "Contextually both refer to the same figure Yofuné-Nushi."
+    },
+    {
+      "entities": [
+        "Superstition",
+        "Superstitions"
+      ],
+      "classification": "SAME_ENTITY",
+      "canonical": "Superstition",
+      "confidence": 0.98,
+      "reason": "Singular vs plural of the same concept."
+    },
+    {
+      "entities": [
+        "The Thunder Animal",
+        "Thunder"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "The mythological beast (Raijū) vs the atmospheric concept/deity domain."
+    },
+    {
+      "entities": [
+        "Thunder",
+        "Thunder Woman"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "The abstract concept vs a specific personification/deity (Kaminari)."
+    },
+    {
+      "entities": [
+        "Yamato",
+        "Yamato Take, Prince"
+      ],
+      "classification": "DIFFERENT_ENTITY",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "The province of Yamato vs the specific Prince Yamato Take."
+    },
+    {
+      "entities": [
+        "Yellow Dragon",
+        "dragon"
+      ],
+      "classification": "RELATED_BUT_DIFFERENT",
+      "canonical": null,
+      "confidence": 0.95,
+      "reason": "A specific named dragon figure vs a general species classification."
+    }
+  ]
+}

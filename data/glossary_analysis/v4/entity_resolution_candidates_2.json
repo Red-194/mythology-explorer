@@ -1,0 +1,1062 @@
+{
+  "total_entities": 374,
+  "candidate_groups": [
+    {
+      "reason": "same_normalized_name",
+      "entities": [
+        "Ko-no-Hana-Saku-ya-Hime",
+        "Ko-no-hana-saku-ya-hime"
+      ],
+      "context": {
+        "Ko-no-Hana-Saku-ya-Hime": [
+          {
+            "role": "subject",
+            "predicate": "child_of",
+            "other": "Oho-yama"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Ninigi"
+          },
+          {
+            "role": "subject",
+            "predicate": "parent_of",
+            "other": "Hoderi"
+          },
+          {
+            "role": "subject",
+            "predicate": "parent_of",
+            "other": "Hoori"
+          },
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Sengen"
+          },
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Sengen"
+          }
+        ],
+        "Ko-no-hana-saku-ya-hime": [
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Ningi"
+          },
+          {
+            "role": "object",
+            "predicate": "parent_of",
+            "other": "Oho-yama"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Ningi"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Baishū, Hanagaki",
+        "Hanagaki Baishū"
+      ],
+      "context": {
+        "Baishū, Hanagaki": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Hanagaki Baishū"
+          }
+        ],
+        "Hanagaki Baishū": [
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Baishū, Hanagaki"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "Dragon King (of the Sea)"
+      ],
+      "context": {
+        "Dragon (Sea) King's palace": [
+          {
+            "role": "object",
+            "predicate": "visits",
+            "other": "Urashima"
+          }
+        ],
+        "Dragon King (of the Sea)": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Otohime, The Princess"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "Dragon Palace"
+      ],
+      "context": {
+        "Dragon (Sea) King's palace": [
+          {
+            "role": "object",
+            "predicate": "visits",
+            "other": "Urashima"
+          }
+        ],
+        "Dragon Palace": [
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Evergreen Land"
+          },
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Land, The Evergreen"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon (Sea) King's palace",
+        "dragon"
+      ],
+      "context": {
+        "Dragon (Sea) King's palace": [
+          {
+            "role": "object",
+            "predicate": "visits",
+            "other": "Urashima"
+          }
+        ],
+        "dragon": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Yao, Emperor"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon King (of the Sea)",
+        "dragon"
+      ],
+      "context": {
+        "Dragon King (of the Sea)": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Otohime, The Princess"
+          }
+        ],
+        "dragon": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Yao, Emperor"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon Palace",
+        "dragon"
+      ],
+      "context": {
+        "Dragon Palace": [
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Evergreen Land"
+          },
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Land, The Evergreen"
+          }
+        ],
+        "dragon": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Yao, Emperor"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Dragon Princess",
+        "dragon"
+      ],
+      "context": {
+        "Dragon Princess": [
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Rin-jin"
+          }
+        ],
+        "dragon": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Yao, Emperor"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Embroidery depicting Kwannon",
+        "Kwannon"
+      ],
+      "context": {
+        "Embroidery depicting Kwannon": [
+          {
+            "role": "object",
+            "predicate": "creates",
+            "other": "Kano Hogai"
+          }
+        ],
+        "Kwannon": [
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Anōji"
+          },
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Batō-Kwannon"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Chikubu-shima"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Chōmeiji"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Fudaraku-ji"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Fuji-dera"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Hase-dera"
+          },
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Hito-koto-Kwannon"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Hokkeji"
+          },
+          {
+            "role": "object",
+            "predicate": "sacred_to",
+            "other": "Ima-Gumano"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Evergreen Land",
+        "Land, The Evergreen"
+      ],
+      "context": {
+        "Evergreen Land": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Dragon Palace"
+          }
+        ],
+        "Land, The Evergreen": [
+          {
+            "role": "subject",
+            "predicate": "alias_of",
+            "other": "Dragon Palace"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Festival of Tanabata",
+        "Tanabata"
+      ],
+      "context": {
+        "Festival of Tanabata": [
+          {
+            "role": "subject",
+            "predicate": "associated_with",
+            "other": "The Weaving Lady"
+          }
+        ],
+        "Tanabata": [
+          {
+            "role": "subject",
+            "predicate": "child_of",
+            "other": "God of the Firmament"
+          },
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Hikoboshi"
+          },
+          {
+            "role": "subject",
+            "predicate": "associated_with",
+            "other": "The Weaving Lady"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Hikoboshi"
+          },
+          {
+            "role": "object",
+            "predicate": "associated_with",
+            "other": "Weaving Lady, The"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "God of the Sea",
+        "Sea God"
+      ],
+      "context": {
+        "God of the Sea": [
+          {
+            "role": "subject",
+            "predicate": "parent_of",
+            "other": "Toyo-tama"
+          },
+          {
+            "role": "object",
+            "predicate": "cross_reference",
+            "other": "Sea God"
+          }
+        ],
+        "Sea God": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Toyo-tama"
+          },
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "God of the Sea"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Japan",
+        "Rip Van Winkle of Old Japan"
+      ],
+      "context": {
+        "Japan": [
+          {
+            "role": "subject",
+            "predicate": "alias_of",
+            "other": "Jih-pén"
+          },
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Jih-pén"
+          },
+          {
+            "role": "object",
+            "predicate": "ruler_of",
+            "other": "Kamu-Yamato-Iware-Biko"
+          }
+        ],
+        "Rip Van Winkle of Old Japan": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Visu"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Kishū",
+        "Nachi, in Kishū"
+      ],
+      "context": {
+        "Kishū": [
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Kimi-dera"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Kokawa-dera"
+          }
+        ],
+        "Nachi, in Kishū": [
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Fudaraku-ji"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Kiyomizu-dera",
+        "Shin Kiyomizu-dera"
+      ],
+      "context": {
+        "Kiyomizu-dera": [
+          {
+            "role": "subject",
+            "predicate": "located_in",
+            "other": "Kyōto"
+          },
+          {
+            "role": "subject",
+            "predicate": "sacred_to",
+            "other": "Kwannon"
+          }
+        ],
+        "Shin Kiyomizu-dera": [
+          {
+            "role": "subject",
+            "predicate": "located_in",
+            "other": "Harima"
+          },
+          {
+            "role": "subject",
+            "predicate": "sacred_to",
+            "other": "Kwannon"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Kuramochi, Prince",
+        "Prince Kuramochi"
+      ],
+      "context": {
+        "Kuramochi, Prince": [
+          {
+            "role": "subject",
+            "predicate": "suitor_of",
+            "other": "Kaguya, Lady"
+          }
+        ],
+        "Prince Kuramochi": [
+          {
+            "role": "subject",
+            "predicate": "suitor_of",
+            "other": "Kaguya, Lady"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Kurando, Sakata",
+        "Sakata Kurando"
+      ],
+      "context": {
+        "Kurando, Sakata": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Kintaro"
+          },
+          {
+            "role": "subject",
+            "predicate": "lover_of",
+            "other": "Yaégiri"
+          }
+        ],
+        "Sakata Kurando": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Kintaro"
+          },
+          {
+            "role": "subject",
+            "predicate": "lover_of",
+            "other": "Yaégiri"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Lady Mercy",
+        "Mercy"
+      ],
+      "context": {
+        "Lady Mercy": [
+          {
+            "role": "subject",
+            "predicate": "alias_of",
+            "other": "Kwannon"
+          }
+        ],
+        "Mercy": [
+          {
+            "role": "object",
+            "predicate": "goddess_of",
+            "other": "Kwannon"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Lady of the Snow",
+        "The Snow Lady"
+      ],
+      "context": {
+        "Lady of the Snow": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Yuki-Onna"
+          }
+        ],
+        "The Snow Lady": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Yuki-Onna"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Long-as-the-Rocks, Princess",
+        "Princess Long-as-the-Rocks"
+      ],
+      "context": {
+        "Long-as-the-Rocks, Princess": [
+          {
+            "role": "subject",
+            "predicate": "alias_of",
+            "other": "Iha-naga"
+          }
+        ],
+        "Princess Long-as-the-Rocks": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Iha-naga"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Miyadzu, Princess",
+        "Princess Miyadzu"
+      ],
+      "context": {
+        "Miyadzu, Princess": [
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Prince Yamato"
+          }
+        ],
+        "Princess Miyadzu": [
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Yamato Take, Prince"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Miyuki",
+        "Otomo no Miyuki"
+      ],
+      "context": {
+        "Miyuki": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Asagao"
+          },
+          {
+            "role": "object",
+            "predicate": "lover_of",
+            "other": "Komagawa Miyagi"
+          }
+        ],
+        "Otomo no Miyuki": [
+          {
+            "role": "subject",
+            "predicate": "suitor_of",
+            "other": "Kaguya, Lady"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Moonland",
+        "Moonland Capital"
+      ],
+      "context": {
+        "Moonland": [
+          {
+            "role": "object",
+            "predicate": "travels_to",
+            "other": "Kaguya, Lady"
+          }
+        ],
+        "Moonland Capital": [
+          {
+            "role": "object",
+            "predicate": "born_in",
+            "other": "Kaguya, Lady"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Ninigi",
+        "Ninigi and Ko-no-Hana"
+      ],
+      "context": {
+        "Ninigi": [
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Ko-no-Hana-Saku-ya-Hime"
+          }
+        ],
+        "Ninigi and Ko-no-Hana": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Hoderi"
+          },
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Hoori"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Ototachibana, Princess",
+        "Princess Ototachibana"
+      ],
+      "context": {
+        "Ototachibana, Princess": [
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Prince Yamato"
+          }
+        ],
+        "Princess Ototachibana": [
+          {
+            "role": "subject",
+            "predicate": "dies_in",
+            "other": "Kadzusa, Straits Of"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Yamato Take, Prince"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Prince Yamato",
+        "Yamato"
+      ],
+      "context": {
+        "Prince Yamato": [
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Miyadzu, Princess"
+          },
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Ototachibana, Princess"
+          }
+        ],
+        "Yamato": [
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Hase-dera"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Kumaso"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Nan-endō"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Oka-dera"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Tsubosaka-dera"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Prince Yamato",
+        "Yamato Take, Prince"
+      ],
+      "context": {
+        "Prince Yamato": [
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Miyadzu, Princess"
+          },
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Ototachibana, Princess"
+          }
+        ],
+        "Yamato Take, Prince": [
+          {
+            "role": "subject",
+            "predicate": "child_of",
+            "other": "King Keiko"
+          },
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Princess Ototachibana"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Kumaso"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Idzumo Takeru"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Princess Miyadzu"
+          },
+          {
+            "role": "subject",
+            "predicate": "defeats",
+            "other": "Ainu"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "The Thunder Animal",
+        "Thunder"
+      ],
+      "context": {
+        "The Thunder Animal": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Raijū"
+          }
+        ],
+        "Thunder": [
+          {
+            "role": "object",
+            "predicate": "god_of",
+            "other": "Raiden"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "The Weaving Lady",
+        "Weaving Lady, The"
+      ],
+      "context": {
+        "The Weaving Lady": [
+          {
+            "role": "object",
+            "predicate": "associated_with",
+            "other": "Festival of Tanabata"
+          },
+          {
+            "role": "object",
+            "predicate": "associated_with",
+            "other": "Tanabata"
+          }
+        ],
+        "Weaving Lady, The": [
+          {
+            "role": "subject",
+            "predicate": "associated_with",
+            "other": "Tanabata"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Thunder",
+        "Thunder Woman"
+      ],
+      "context": {
+        "Thunder": [
+          {
+            "role": "object",
+            "predicate": "god_of",
+            "other": "Raiden"
+          }
+        ],
+        "Thunder Woman": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Kaminari"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Violet Well",
+        "Well, The Violet"
+      ],
+      "context": {
+        "Violet Well": [
+          {
+            "role": "object",
+            "predicate": "dies_in",
+            "other": "Yoshisawa"
+          }
+        ],
+        "Well, The Violet": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Shingé"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Yamato",
+        "Yamato Take, Prince"
+      ],
+      "context": {
+        "Yamato": [
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Hase-dera"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Kumaso"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Nan-endō"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Oka-dera"
+          },
+          {
+            "role": "object",
+            "predicate": "located_in",
+            "other": "Tsubosaka-dera"
+          }
+        ],
+        "Yamato Take, Prince": [
+          {
+            "role": "subject",
+            "predicate": "child_of",
+            "other": "King Keiko"
+          },
+          {
+            "role": "object",
+            "predicate": "spouse_of",
+            "other": "Princess Ototachibana"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Kumaso"
+          },
+          {
+            "role": "subject",
+            "predicate": "slays",
+            "other": "Idzumo Takeru"
+          },
+          {
+            "role": "subject",
+            "predicate": "spouse_of",
+            "other": "Princess Miyadzu"
+          },
+          {
+            "role": "subject",
+            "predicate": "defeats",
+            "other": "Ainu"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "name_contains_other",
+      "entities": [
+        "Yellow Dragon",
+        "dragon"
+      ],
+      "context": {
+        "Yellow Dragon": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Yellow River"
+          }
+        ],
+        "dragon": [
+          {
+            "role": "object",
+            "predicate": "child_of",
+            "other": "Yao, Emperor"
+          }
+        ]
+      }
+    },
+    {
+      "reason": "same_tokens_reordered",
+      "entities": [
+        "Fuji-yama",
+        "Yama, Fuji"
+      ],
+      "context": {
+        "Fuji-yama": [
+          {
+            "role": "object",
+            "predicate": "alias_of",
+            "other": "Fuji"
+          }
+        ],
+        "Yama, Fuji": [
+          {
+            "role": "subject",
+            "predicate": "cross_reference",
+            "other": "Fuji"
+          }
+        ]
+      }
+    }
+  ]
+}
