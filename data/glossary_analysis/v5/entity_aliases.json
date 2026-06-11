@@ -5,9 +5,12 @@
   "Bronze Buddha": [
     "Buddha (the Bronze)"
   ],
-  "Dragon King (of the Sea)": [
-    "Dragon King",
+  "Dragon King": [
     "Dragon (Sea) King"
+  ],
+  "Dragon King (of the Sea)": [
+    "Dragon (Sea) King",
+    "Dragon King"
   ],
   "Dragon Palace": [
     "Dragon (Sea) King's palace"
@@ -25,8 +28,7 @@
     "Yoritomo"
   ],
   "God of the Sea": [
-    "Sea God",
-    "the Sea God"
+    "Sea God"
   ],
   "Hanagaki Baishū": [
     "Baishū, Hanagaki"
@@ -47,6 +49,9 @@
     "Ko-no-hana-saku-ya-hime",
     "Ko-no-hana"
   ],
+  "Ko-no-hana-saku-ya-hime": [
+    "Ko-no-hana"
+  ],
   "Kyōto": [
     "Kyōto, in Yamashiro"
   ],
@@ -55,9 +60,6 @@
   ],
   "Liu-kiu Islands": [
     "Liu-kiu"
-  ],
-  "Ninigi": [
-    "Ningi"
   ],
   "Otohime, The Princess": [
     "Otohime"
@@ -79,6 +81,9 @@
   ],
   "Sakata Kurando": [
     "Kurando, Sakata"
+  ],
+  "Sea God": [
+    "the Sea God"
   ],
   "Sodzu-Baba": [
     "Sodzu-baba"
@@ -114,47 +119,5 @@
   ],
   "Yamato Take, Prince": [
     "Prince Yamato"
-  ],
-  "Ama-terasu": [
-    "Amaterasu"
-  ],
-  "Susa-no-o": [
-    "Susanoo"
-  ],
-  "Tsuki-yumi": [
-    "Tsukuyomi"
-  ],
-  "Ame-waka": [
-    "Amewaka"
-  ],
-  "Ashi-nadzuchi": [
-    "Ashinadzuchi"
-  ],
-  "Te-nadzuchi": [
-    "Tenadzuchi"
-  ],
-  "Kagu-tsuchi": [
-    "Kagutsuchi"
-  ],
-  "Kushi-nada-hime": [
-    "Kushinadahime"
-  ],
-  "Shita-teru-hime": [
-    "Shitateruhime"
-  ],
-  "O-ana-mochi": [
-    "Oanamochi"
-  ],
-  "Toyo-tama": [
-    "Toyotama"
-  ],
-  "Iha-naga": [
-    "Ihanaga"
-  ],
-  "Kamu-Yamato-Iware-Biko": [
-    "KamuYamatoIwareBiko"
-  ],
-  "Rin-jin": [
-    "Rinjin"
   ]
 }

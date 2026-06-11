@@ -632,6 +632,21 @@
     "id": "6e01b832e680"
   },
   {
+    "subject": "Hoderi",
+    "predicate": "child_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoderi ('Fire-shine')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "cc0a176c7fcf"
+  },
+  {
     "subject": "Hokkeji",
     "predicate": "located_in",
     "object": "Harima",
@@ -662,39 +677,9 @@
     "id": "f29a818b2966"
   },
   {
-    "subject": "Hoderi",
-    "predicate": "child_of",
-    "object": "Ninigi",
-    "evidence": [
-      "Son of Ninigi and Ko-no-Hana"
-    ],
-    "source_term": [
-      "Hoderi ('Fire-shine')"
-    ],
-    "pages": [
-      412
-    ],
-    "id": "567bffe3cd32"
-  },
-  {
-    "subject": "Hoderi",
-    "predicate": "child_of",
-    "object": "Ko-no-Hana-Saku-ya-Hime",
-    "evidence": [
-      "Son of Ninigi and Ko-no-Hana"
-    ],
-    "source_term": [
-      "Hoderi ('Fire-shine')"
-    ],
-    "pages": [
-      412
-    ],
-    "id": "45ed89eddd2e"
-  },
-  {
     "subject": "Hoori",
     "predicate": "child_of",
-    "object": "Ninigi",
+    "object": "Ninigi and Ko-no-Hana",
     "evidence": [
       "Son of Ninigi and Ko-no-Hana"
     ],
@@ -704,22 +689,7 @@
     "pages": [
       412
     ],
-    "id": "cf140e12f009"
-  },
-  {
-    "subject": "Hoori",
-    "predicate": "child_of",
-    "object": "Ko-no-Hana-Saku-ya-Hime",
-    "evidence": [
-      "Son of Ninigi and Ko-no-Hana"
-    ],
-    "source_term": [
-      "Hoori ('Fire-fade')"
-    ],
-    "pages": [
-      412
-    ],
-    "id": "9e12c918da97"
+    "id": "ec6e98e62322"
   },
   {
     "subject": "Hoori",
@@ -1736,6 +1706,21 @@
   },
   {
     "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "spouse_of",
+    "object": "Ninigi",
+    "evidence": [
+      "weds Ninigi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "6c07a2e387a9"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
     "predicate": "parent_of",
     "object": "Hoderi",
     "evidence": [
@@ -2182,14 +2167,14 @@
     "id": "befea0081683"
   },
   {
-    "subject": "Ninigi",
+    "subject": "Ningi",
     "predicate": "spouse_of",
     "object": "Ko-no-Hana-Saku-ya-Hime",
     "evidence": [
       "weds Ko-no-hana"
     ],
     "source_term": [
-      "Ninigi"
+      "Ningi"
     ],
     "pages": [
       421
@@ -2197,14 +2182,14 @@
     "id": "b3caa9024a91"
   },
   {
-    "subject": "Ninigi",
+    "subject": "Ningi",
     "predicate": "parent_of",
     "object": "Hoderi",
     "evidence": [
       "Hoderi... and Hoori, sons of"
     ],
     "source_term": [
-      "Ninigi"
+      "Ningi"
     ],
     "pages": [
       421
@@ -2212,14 +2197,14 @@
     "id": "a075a15f52b1"
   },
   {
-    "subject": "Ninigi",
+    "subject": "Ningi",
     "predicate": "parent_of",
     "object": "Hoori",
     "evidence": [
       "Hoderi... and Hoori, sons of"
     ],
     "source_term": [
-      "Ninigi"
+      "Ningi"
     ],
     "pages": [
       421
@@ -2551,19 +2536,16 @@
   {
     "subject": "Ko-no-Hana-Saku-ya-Hime",
     "predicate": "spouse_of",
-    "object": "Ninigi",
+    "object": "Ningi",
     "evidence": [
-      "wife of Ninigi",
-      "weds Ninigi"
+      "wife of Ningi"
     ],
     "source_term": [
-      "Sengen",
-      "Ko-no-Hana-Saku-ya-Hime"
+      "Sengen"
     ],
     "pages": [
       34,
-      132,
-      417
+      132
     ],
     "id": "d5704f4fa86f"
   },
@@ -2983,7 +2965,7 @@
     "predicate": "spouse_of",
     "object": "Deity of the Field-paths",
     "evidence": [
-      "given by Ninigi to the Deity of the Field-paths as wife"
+      "given by Ningi to the Deity of the Field-paths as wife"
     ],
     "source_term": [
       "Uzume"
