@@ -1,0 +1,70 @@
+# Query Parser Test Scripts
+
+The parser has a baseline file:
+
+app/scripts/query_results/query_parser_results.json
+
+This file contains the expected parser output for a set of test questions.
+
+## Generating Results
+
+Run:
+
+bin/rails runner app/scripts/save_query_results.rb
+bin/rails runner app/scripts/save_answer_results.rb
+
+These scripts execute all questions defined in:
+
+app/scripts/questions.rb
+
+and save the results to:
+
+app/scripts/query_results/
+
+The output filename is controlled by the OUTFILE constant in each script.
+Change the version number there when generating a new result set.
+
+After generation, compare the new results against the baseline:
+query_parser_results.json
+
+## Running Individual Queries
+
+Open a Rails console:
+
+bin/rails console
+
+Example:
+
+pp Tasks::QueryParser.parse(
+  "Who are Susanoo's parents?"
+)
+
+## When To Regenerate Results
+
+Regenerate results after changes to:
+
+- QueryParser prompts
+- Ontology
+- AliasResolver
+- Predicate handling
+- Query parsing logic
+
+Always review the generated JSON before committing.
+
+## Points To Note
+
+Class names follow Rails conventions:
+
+- File names use snake_case (query_parser.rb, answer_generator.rb)
+- Class names use PascalCase (QueryParser, AnswerGenerator)
+- Modules map to directory structure
+
+Examples:
+
+app/services/tasks/query_parser.rb
+→ Tasks::QueryParser
+
+app/services/providers/groq.rb
+→ Providers::Groq
+
+Each directory level becomes a module namespace.
