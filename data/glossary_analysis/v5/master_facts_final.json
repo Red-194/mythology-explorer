@@ -3137,12 +3137,12 @@
   {
     "subject": "Fu Hsi",
     "predicate": "creates",
-    "object": "\"Yih-King\"",
+    "object": "Yih-King",
     "evidence": [
       "begun by Fu Hsi"
     ],
     "source_term": [
-      "\"Yih-King\""
+      "Yih-King"
     ],
     "pages": [
       344

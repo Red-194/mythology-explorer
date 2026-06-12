@@ -1,43 +1,8 @@
-questions = [
-  # Failed ontology mapping
-  "What is related to Kwannon?",
+require_relative "questions"
 
-  # Model tried answering instead of parsing
-  "Who founded Kyoto?",
-  "Who founded Kyōto?",
-  "Who fathered Susanoo?",
+# change this to questions_1 or questions_2 depending on which you want to test
 
-  # Previously produced deity_of unexpectedly
-  "Tell me about Amaterasu",
-  "What is Amaterasu?",
-
-  # Garbage input
-  "banana",
-  "what",
-  "asdfghjkl",
-  "tell me everything",
-  "who",
-
-  # Alias stress tests
-  "Who are Kushinada's parents?",
-  "Who are Susanowo's parents?",
-  "Who are Susanuwu's parents?",
-  "Who are Ningi's parents?",
-
-  # Associated_with synonyms
-  "What is associated with Kwannon?",
-  "Who is associated with Kwannon?",
-  "What is connected to Kwannon?",
-  "What is related to Kwannon?",
-
-  # Slays vs defeats
-  "Who killed Orochi?",
-  "Who slew Orochi?",
-  "Who slayed Orochi?",
-  "Who defeated Orochi?"
-]
-
-questions.each_with_index do |question, index|
+QUERY_PARSER_QUESTIONS.each_with_index do |question, index|
   puts
   puts "=" * 100
   puts "#{index + 1}. #{question}"
@@ -47,9 +12,10 @@ questions.each_with_index do |question, index|
     result = Tasks::QueryParser.parse(question)
 
     pp result
-  rescue => error
-    puts "ERROR"
-    puts error.class
-    puts error.message
+  rescue => e
+    if e.message.include?("rate_limit")
+      sleep 5
+      retry
+    end
   end
 end

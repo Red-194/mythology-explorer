@@ -913,7 +913,7 @@
       "type": "entity"
     },
     {
-      "id": "\"Yih-King\"",
+      "id": "Yih-King",
       "type": "entity"
     },
     {
@@ -4130,13 +4130,13 @@
     {
       "id": "6fab12b036aa",
       "source": "Fu Hsi",
-      "target": "\"Yih-King\"",
+      "target": "Yih-King",
       "predicate": "creates",
       "evidence": [
         "begun by Fu Hsi"
       ],
       "source_term": [
-        "\"Yih-King\""
+        "Yih-King"
       ],
       "pages": [
         344

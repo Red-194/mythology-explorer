@@ -4,33 +4,53 @@ require "json"
 
 class GraphRepository
   class << self
-    def query(entity:, predicate:)
-      direct_matches(entity, predicate) +
-        inverse_matches(entity, predicate)
+    def entity(name)
+      nodes.find do |node|
+        node["id"] == name
+      end
+    end
+
+    def query(type:, entity:, predicate:)
+      case type
+      when "relationship_lookup"
+        outgoing_matches(
+          entity,
+          predicate
+        )
+
+      when "reverse_relationship_lookup"
+        incoming_matches(
+          entity,
+          predicate
+        )
+
+      else
+        []
+      end
     end
 
     private
 
-    def direct_matches(entity, predicate)
+    def outgoing_matches(entity, predicate)
       edges
         .select do |edge|
           edge["source"] == entity &&
           edge["predicate"] == predicate
         end
-        .map { |edge| edge["target"] }
+        .map do |edge|
+          edge["target"]
+        end
     end
 
-    def inverse_matches(entity, predicate)
-      inverse = Ontology.inverse(predicate)
-
-      return [] if inverse.nil?
-
+    def incoming_matches(entity, predicate)
       edges
         .select do |edge|
           edge["target"] == entity &&
-          edge["predicate"] == inverse
+          edge["predicate"] == predicate
         end
-        .map { |edge| edge["source"] }
+        .map do |edge|
+          edge["source"]
+        end
     end
 
     def graph
@@ -42,6 +62,10 @@ class GraphRepository
           )
         )
       )
+    end
+
+    def nodes
+      graph["nodes"]
     end
 
     def edges

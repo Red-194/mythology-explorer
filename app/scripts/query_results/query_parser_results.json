@@ -1,0 +1,467 @@
+[
+  {
+    "question": "Who are Kushinadahime's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kushi-nada-hime",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Kushinada's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kushi-nada-hime",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Kushi-nada-hime's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kushi-nada-hime",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Susanowo's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Susa-no-o",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Susanuwu's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Susa-no-o",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Susanuwo's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Susa-no-o",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Ningi's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ninigi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Tsukuyomi's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Tsuki-yumi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Tsukiyumi's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Tsuki-yumi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Amaterasu's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ama-terasu",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who is Susanoo?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Susa-no-o"
+    }
+  },
+  {
+    "question": "Who is Ninigi?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Ninigi"
+    }
+  },
+  {
+    "question": "Who is Izanagi?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Izanagi"
+    }
+  },
+  {
+    "question": "Who is Izanami?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Izanami"
+    }
+  },
+  {
+    "question": "Tell me about Orochi",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Orochi"
+    }
+  },
+  {
+    "question": "Where is Hase-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Hase-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where is Kokawa-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kokawa-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where is Ishiyama-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ishiyama-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where is Rokuhara-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Rokuhara-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where is Yoshimine-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Yoshimine-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Who serves Amaterasu?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Ama-terasu",
+      "predicate": "servant_of"
+    }
+  },
+  {
+    "question": "Who is Amaterasu's servant?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Ama-terasu",
+      "predicate": "servant_of"
+    }
+  },
+  {
+    "question": "Who are Amaterasu's attendants?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Ama-terasu",
+      "predicate": "servant_of"
+    }
+  },
+  {
+    "question": "Who is Kaguya's suitor?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Kaguya, Lady",
+      "predicate": "suitor_of"
+    }
+  },
+  {
+    "question": "Who pursued Kaguya?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Kaguya, Lady",
+      "predicate": "suitor_of"
+    }
+  },
+  {
+    "question": "banana",
+    "result": {
+      "type": "entity_lookup",
+      "entity": null
+    }
+  },
+  {
+    "question": "what",
+    "result": {
+      "type": "entity_lookup",
+      "entity": null
+    }
+  },
+  {
+    "question": "who",
+    "result": {
+      "type": "entity_lookup",
+      "entity": null
+    }
+  },
+  {
+    "question": "asdfghjkl",
+    "result": {
+      "type": "entity_lookup",
+      "entity": null
+    }
+  },
+  {
+    "question": "tell me everything",
+    "result": {
+      "type": "entity_lookup",
+      "entity": null
+    }
+  },
+  {
+    "question": "Who is Izanami's spouse?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Izanami",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Kushi-nada-hime's husband?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kushi-nada-hime",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is married to Izanami?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Izanami",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Ninigi's wife?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ninigi",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Ko-no-Hana-Saku-ya-Hime's spouse?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ko-no-Hana-Saku-ya-Hime",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who are Ninigi's children?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Ninigi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who did Ninigi father?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Ninigi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Hoderi's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Hoderi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Hoori's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Hoori",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who are Kagu-tsuchi's parents?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kagu-tsuchi",
+      "predicate": "child_of"
+    }
+  },
+  {
+    "question": "Who founded Kamakura?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Kamakura",
+      "predicate": "founds"
+    }
+  },
+  {
+    "question": "Who founded Shingon-shū?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Shingon-shū",
+      "predicate": "founds"
+    }
+  },
+  {
+    "question": "Who established Kamakura?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Kamakura",
+      "predicate": "founds"
+    }
+  },
+  {
+    "question": "Who created Shingon-shū?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Shingon-shū",
+      "predicate": "creates"
+    }
+  },
+  {
+    "question": "Who is the founder of Kamakura?",
+    "result": {
+      "type": "reverse_relationship_lookup",
+      "entity": "Kamakura",
+      "predicate": "founds"
+    }
+  },
+  {
+    "question": "What region is Kiyomizu-dera in?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kiyomizu-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "In what region is Hase-dera located?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Hase-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "What is the location of Kokawa-dera?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kokawa-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where can I find Ishiyama-dera?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ishiyama-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Where is Kiyomizu-dera?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kiyomizu-dera",
+      "predicate": "located_in"
+    }
+  },
+  {
+    "question": "Who is Susanoo's spouse?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Susa-no-o",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Izanagi's spouse?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Izanagi",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Ko-no-Hana-Saku-ya-Hime married to?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ko-no-Hana-Saku-ya-Hime",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is Kushi-nada-hime married to?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Kushi-nada-hime",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "Who is the husband of Ko-no-Hana-Saku-ya-Hime?",
+    "result": {
+      "type": "relationship_lookup",
+      "entity": "Ko-no-Hana-Saku-ya-Hime",
+      "predicate": "spouse_of"
+    }
+  },
+  {
+    "question": "What is Kaguya?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Kaguya, Lady"
+    }
+  },
+  {
+    "question": "Tell me about Kōbō Daishi",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Kōbō Daishi"
+    }
+  },
+  {
+    "question": "Who is Kwannon?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Kwannon"
+    }
+  },
+  {
+    "question": "What is Shingon-shū?",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Shingon-shū"
+    }
+  },
+  {
+    "question": "Tell me about Kamakura",
+    "result": {
+      "type": "entity_lookup",
+      "entity": "Kamakura"
+    }
+  }
+]

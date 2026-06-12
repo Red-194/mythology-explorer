@@ -9,15 +9,56 @@ class Ontology
     end
 
     def inverse(predicate)
-      predicates.dig(predicate, "inverse")
+      predicates.dig(
+        predicate,
+        "inverse"
+      )
     end
 
     def symmetric?(predicate)
-      predicates.dig(predicate, "symmetric")
+      predicates.dig(
+        predicate,
+        "symmetric"
+      )
+    end
+
+    def description(predicate)
+      predicates.dig(
+        predicate,
+        "description"
+      )
     end
 
     def predicates_list
       predicates.keys
+    end
+
+    def predicates_with_descriptions
+      predicates.map do |name, data|
+        {
+          name: name,
+          description: data["description"],
+          inverse: data["inverse"],
+          symmetric: data["symmetric"]
+        }
+      end
+    end
+
+    def prompt_text
+      predicates.map do |name, data|
+        lines = []
+
+        lines << "#{name}"
+        lines << "Description: #{data['description']}"
+
+        if data["inverse"]
+          lines << "Inverse: #{data['inverse']}"
+        end
+
+        lines << "Symmetric: #{data['symmetric']}"
+
+        lines.join("\n")
+      end.join("\n\n")
     end
 
     private

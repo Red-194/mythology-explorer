@@ -22,6 +22,7 @@ module Providers
           )
 
         body = JSON.parse(response.body.to_s)
+        # pp body["usage"]
 
         unless response.status.success?
           raise StandardError, body.inspect
