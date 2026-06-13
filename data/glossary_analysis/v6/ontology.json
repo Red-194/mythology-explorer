@@ -1,0 +1,396 @@
+{
+  "adopted_child_of": {
+    "description": "Indicates that the subject was legally or ritually adopted by the object as their child.",
+    "count": 0,
+    "inverse": "adoptive_parent_of",
+    "symmetric": false
+  },
+  "adoptive_parent_of": {
+    "description": "Indicates that the subject is the adoptive mother or father of the object.",
+    "count": 0,
+    "inverse": "adopted_child_of",
+    "symmetric": false
+  },
+  "ally_of": {
+    "description": "Indicates a formal or informal alliance between the subject and object, typically in conflict or warfare.",
+    "count": 0,
+    "inverse": "ally_of",
+    "symmetric": true
+  },
+  "ancestor_of": {
+    "description": "Indicates that the subject is a forebear of the object across any number of generations.",
+    "count": 0,
+    "inverse": "descendant_of",
+    "symmetric": false
+  },
+  "associated_with": {
+    "description": "Specifies a general or thematic relationship between the subject and the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "born_in": {
+    "description": "Specifies the location or realm where the subject was born.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "brother_of": {
+    "description": "Indicates that the subject is the male sibling of the object.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "buried_in": {
+    "description": "Specifies the location where the subject is entombed or buried.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "child_of": {
+    "description": "Indicates that the subject is the offspring or descendant of the object.",
+    "count": 33,
+    "inverse": "parent_of",
+    "symmetric": false
+  },
+  "cousin_of": {
+    "description": "Indicates that the subject and object are children of siblings, sharing a common grandparent.",
+    "count": 0,
+    "inverse": "cousin_of",
+    "symmetric": true,
+    "derived": true,
+    "derivation_rule": "If A → child_of → B, C → child_of → D, and B → sibling_of → D, then A → cousin_of → C"
+  },
+  "creates": {
+    "description": "Indicates that the subject authored, forged, or brought the object into existence.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "daughter_in_law_of": {
+    "description": "Indicates that the subject is married to the object's son.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "daughter_of": {
+    "description": "Indicates that the subject is the female offspring of the object.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "defeats": {
+    "description": "Indicates that the subject conquered or bested the object in a conflict.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "deity_of": {
+    "description": "Indicates that the subject is a divine figure representing or ruling the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "descendant_of": {
+    "description": "Indicates that the subject is descended from the object across any number of generations.",
+    "count": 0,
+    "inverse": "ancestor_of",
+    "symmetric": false
+  },
+  "derived_from": {
+    "description": "Indicates that the subject's name, origin, or nature originates from the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "dies_in": {
+    "description": "Specifies the location or circumstance in which the subject died.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "disciple_of": {
+    "description": "Indicates that the subject is a devoted follower or student of the object, typically in religious or philosophical context.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "disciples_of": {
+    "description": "Indicates that the object is a devoted follower or student of the subject.",
+    "count": 0,
+    "inverse": "disciple_of",
+    "symmetric": false
+  },
+  "enemy_of": {
+    "description": "Indicates active hostility or opposition between the subject and object.",
+    "count": 0,
+    "inverse": "enemy_of",
+    "symmetric": true
+  },
+  "exile_by": {
+    "description": "Indicates that the subject was banished or exiled by the object.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "founds": {
+    "description": "Indicates that the subject established or created a location, group, or institution.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "friend_of": {
+    "description": "Indicates a friendly or companionable relationship between the subject and object.",
+    "count": 4,
+    "inverse": "friend_of",
+    "symmetric": true
+  },
+  "god_of": {
+    "description": "Indicates that the male or gender-neutral subject is the divine ruler or embodiment of the object.",
+    "count": 6,
+    "inverse": null,
+    "symmetric": false
+  },
+  "goddess_of": {
+    "description": "Indicates that the female subject is the divine ruler or embodiment of the object.",
+    "count": 2,
+    "inverse": null,
+    "symmetric": false
+  },
+  "grandchild_of": {
+    "description": "Indicates that the subject is the child of the object's child.",
+    "count": 0,
+    "inverse": "grandparent_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → child_of → B and B → child_of → C, then A → grandchild_of → C"
+  },
+  "grandparent_of": {
+    "description": "Indicates that the subject is the parent of the object's parent.",
+    "count": 0,
+    "inverse": "grandchild_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → parent_of → B and B → parent_of → C, then A → grandparent_of → C"
+  },
+  "guardian_of": {
+    "description": "Indicates that the subject has legal or moral responsibility for the care and protection of the object.",
+    "count": 0,
+    "inverse": "ward_of",
+    "symmetric": false
+  },
+  "half_sibling_of": {
+    "description": "Indicates that the subject and object share exactly one parent.",
+    "count": 0,
+    "inverse": "half_sibling_of",
+    "symmetric": true,
+    "derived": true,
+    "derivation_rule": "If A → child_of → B, C → child_of → B, and A and C have different other parents, then A → half_sibling_of → C"
+  },
+  "identified_with": {
+    "description": "Indicates that the subject is synonymous with, or heavily equated to, the object.",
+    "count": 3,
+    "inverse": "identified_with",
+    "symmetric": true
+  },
+  "in_law_of": {
+    "description": "Indicates that the subject and object are related through marriage (general in-law relationship).",
+    "count": 0,
+    "inverse": "in_law_of",
+    "symmetric": true
+  },
+  "lives_in": {
+    "description": "Specifies the location or realm where the subject resides.",
+    "count": 3,
+    "inverse": null,
+    "symmetric": false
+  },
+  "located_in": {
+    "description": "Specifies the geographical or physical region where the subject is found.",
+    "count": 39,
+    "inverse": null,
+    "symmetric": false
+  },
+  "lord_of": {
+    "description": "Indicates that the subject holds feudal or hierarchical dominion over the object.",
+    "count": 0,
+    "inverse": "vassal_of",
+    "symmetric": false
+  },
+  "lover_of": {
+    "description": "Indicates a romantic or sexual relationship distinct from formal marriage.",
+    "count": 6,
+    "inverse": null,
+    "symmetric": false
+  },
+  "mother_in_law_of": {
+    "description": "Indicates that the subject is the mother of the object's spouse.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "mother_of": {
+    "description": "Indicates that the subject is the female parent of the object.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "niece_nephew_of": {
+    "description": "Indicates that the subject is the child of the object's sibling.",
+    "count": 0,
+    "inverse": "uncle_aunt_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → parent_of → B and C → sibling_of → A, then B → niece_nephew_of → C"
+  },
+  "owns": {
+    "description": "Indicates that the subject possesses or has mastery over the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "parent_of": {
+    "description": "Indicates that the subject is the mother or father of the object.",
+    "count": 17,
+    "inverse": "child_of",
+    "symmetric": false
+  },
+  "protector_of": {
+    "description": "Indicates that the subject defends or shields the object from harm.",
+    "count": 0,
+    "inverse": "protected_by",
+    "symmetric": false
+  },
+  "protected_by": {
+    "description": "Indicates that the subject is defended or shielded by the object.",
+    "count": 0,
+    "inverse": "protector_of",
+    "symmetric": false
+  },
+  "rival_of": {
+    "description": "Indicates that the subject competes with the object for the same goal, position, or affection.",
+    "count": 0,
+    "inverse": "rival_of",
+    "symmetric": true
+  },
+  "ruler_of": {
+    "description": "Indicates that the subject holds authority or dominion over the object.",
+    "count": 1,
+    "inverse": null,
+    "symmetric": false
+  },
+  "sacred_to": {
+    "description": "Indicates that the subject (e.g., a location or artifact) is dedicated to or holy to the object.",
+    "count": 33,
+    "inverse": null,
+    "symmetric": false
+  },
+  "servant_of": {
+    "description": "Indicates that the subject serves, attends, or acts as a retainer to the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "sibling_of": {
+    "description": "Indicates that the subject and object share one or more parents.",
+    "count": 1,
+    "inverse": "sibling_of",
+    "symmetric": true
+  },
+  "slays": {
+    "description": "Indicates that the subject killed or fatally destroyed the object.",
+    "count": 4,
+    "inverse": null,
+    "symmetric": false
+  },
+  "son_in_law_of": {
+    "description": "Indicates that the subject is married to the object's daughter.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "son_of": {
+    "description": "Indicates that the subject is the male offspring of the object.",
+    "count": 0,
+    "inverse": null,
+    "symmetric": false
+  },
+  "spouse_of": {
+    "description": "Indicates a formal marital union between the subject and the object.",
+    "count": 34,
+    "inverse": "spouse_of",
+    "symmetric": true
+  },
+  "step_child_of": {
+    "description": "Indicates that the subject's parent is married to the object, who is not their biological parent.",
+    "count": 0,
+    "inverse": "step_parent_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → parent_of → B and A → spouse_of → C, then B → step_child_of → C"
+  },
+  "step_parent_of": {
+    "description": "Indicates that the subject is the spouse of the object's parent but not their biological parent.",
+    "count": 0,
+    "inverse": "step_child_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → spouse_of → B and B → parent_of → C, then A → step_parent_of → C"
+  },
+  "student_of": {
+    "description": "Indicates that the subject is taught or trained by the object.",
+    "count": 0,
+    "inverse": "teacher_of",
+    "symmetric": false
+  },
+  "suitor_of": {
+    "description": "Indicates that the subject actively pursued a romantic or marital union with the object.",
+    "count": 7,
+    "inverse": null,
+    "symmetric": false
+  },
+  "teacher_of": {
+    "description": "Indicates that the subject instructs or trains the object.",
+    "count": 0,
+    "inverse": "student_of",
+    "symmetric": false
+  },
+  "twin_of": {
+    "description": "Indicates that the subject and object were born from the same pregnancy.",
+    "count": 0,
+    "inverse": "twin_of",
+    "symmetric": true
+  },
+  "travels_to": {
+    "description": "Indicates that the subject journeys or has relocated to the object location.",
+    "count": 5,
+    "inverse": null,
+    "symmetric": false
+  },
+  "uncle_aunt_of": {
+    "description": "Indicates that the subject is the sibling of the object's parent.",
+    "count": 0,
+    "inverse": "niece_nephew_of",
+    "symmetric": false,
+    "derived": true,
+    "derivation_rule": "If A → sibling_of → B and B → parent_of → C, then A → uncle_aunt_of → C"
+  },
+  "vassal_of": {
+    "description": "Indicates that the subject serves under or owes allegiance to the object in a feudal hierarchy.",
+    "count": 0,
+    "inverse": "lord_of",
+    "symmetric": false
+  },
+  "visits": {
+    "description": "Indicates a temporary journey or stay by the subject at the object location.",
+    "count": 5,
+    "inverse": null,
+    "symmetric": false
+  },
+  "ward_of": {
+    "description": "Indicates that the subject is under the care or protection of the object.",
+    "count": 0,
+    "inverse": "guardian_of",
+    "symmetric": false
+  }
+}

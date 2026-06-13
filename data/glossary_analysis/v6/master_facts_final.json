@@ -1,0 +1,6747 @@
+[
+  {
+    "subject": "Abe no Miushi",
+    "predicate": "suitor_of",
+    "object": "Kaguya, Lady",
+    "evidence": [
+      "one of Kaguya's five suitors"
+    ],
+    "source_term": [
+      "Abe no Miushi"
+    ],
+    "pages": [
+      403
+    ],
+    "id": "33632b63d50a"
+  },
+  {
+    "subject": "Aji-shi-ki",
+    "predicate": "friend_of",
+    "object": "Ame-waka",
+    "evidence": [
+      "Friend of Ame-waka"
+    ],
+    "source_term": [
+      "Aji-shi-ki"
+    ],
+    "pages": [
+      403
+    ],
+    "id": "617576545886"
+  },
+  {
+    "subject": "Temple of Amidaji",
+    "predicate": "located_in",
+    "object": "Akamagaséki",
+    "evidence": [
+      "Temple of Amidaji built at"
+    ],
+    "source_term": [
+      "Akamagaséki"
+    ],
+    "pages": [
+      403
+    ],
+    "id": "046003c76174"
+  },
+  {
+    "subject": "Akasaki",
+    "predicate": "located_in",
+    "object": "province of Hoki",
+    "evidence": [
+      "in province of Hoki"
+    ],
+    "source_term": [
+      "Akasaki"
+    ],
+    "pages": [
+      403
+    ],
+    "id": "00bb79a04d83"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Daughter of Izanagi"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "c272cb17cd76"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "child_of",
+    "object": "Izanami",
+    "evidence": [
+      "Daughter of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "9e5549ddaed2"
+  },
+  {
+    "id": "ac7c4f05469c",
+    "subject": "Ama-terasu",
+    "predicate": "goddess_of",
+    "object": "Sun",
+    "evidence": [
+      "the Sun Goddess"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ]
+  },
+  {
+    "subject": "Ame-waka",
+    "predicate": "spouse_of",
+    "object": "Shita-teru-hime",
+    "evidence": [
+      "weds Shita-teru-hime"
+    ],
+    "source_term": [
+      "Ame-waka"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "547b3979b37f"
+  },
+  {
+    "subject": "Kwanjin",
+    "predicate": "child_of",
+    "object": "Amitâbha",
+    "evidence": [
+      "the spiritual son of Amitâbha"
+    ],
+    "source_term": [
+      "Amitâbha"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "67fbc3e87885"
+  },
+  {
+    "subject": "Anōji",
+    "predicate": "located_in",
+    "object": "Tamba",
+    "evidence": [
+      "Place in Tamba"
+    ],
+    "source_term": [
+      "Anōji"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "6df721c4b6b1"
+  },
+  {
+    "subject": "Anōji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Anōji"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "88909cce4b5b"
+  },
+  {
+    "subject": "Asaka",
+    "predicate": "friend_of",
+    "object": "Asagao",
+    "evidence": [
+      "Friend of Asagao"
+    ],
+    "source_term": [
+      "Asaka"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "beeb0ff0ec9b"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "spouse_of",
+    "object": "Tenadzuchi",
+    "evidence": [
+      "husband of Tenadzuchi"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "87a8415ed131"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "parent_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "father of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "fc222ee5b66b"
+  },
+  {
+    "subject": "Lady Ayame",
+    "predicate": "spouse_of",
+    "object": "Yorimasa",
+    "evidence": [
+      "Married to Yorimasa"
+    ],
+    "source_term": [
+      "Ayame, The Lady"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "0eaac3f9e472"
+  },
+  {
+    "id": "a7d193d330cc",
+    "subject": "Bimbogami",
+    "predicate": "god_of",
+    "object": "Poverty",
+    "evidence": [
+      "The God of Poverty"
+    ],
+    "source_term": [
+      "Bimbogami"
+    ],
+    "pages": [
+      405
+    ]
+  },
+  {
+    "subject": "Chikubu-shima",
+    "predicate": "located_in",
+    "object": "Lake Biwa",
+    "evidence": [
+      "Island in Lake Biwa"
+    ],
+    "source_term": [
+      "Chikubu-shima"
+    ],
+    "pages": [
+      406
+    ],
+    "id": "e66f7faa87a9"
+  },
+  {
+    "subject": "Chikubu-shima",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Chikubu-shima"
+    ],
+    "pages": [
+      406
+    ],
+    "id": "9137b744f7a5"
+  },
+  {
+    "subject": "Emperor Koso",
+    "predicate": "spouse_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "Emperor Koso woos and weds Kohaku Jo"
+    ],
+    "source_term": [
+      "China"
+    ],
+    "pages": [
+      406
+    ],
+    "id": "24ba027e2240"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "child_of",
+    "object": "Kamatari",
+    "evidence": [
+      "daughter of Kamatari",
+      "Daughter of Kamatari"
+    ],
+    "source_term": [
+      "China",
+      "Kohaku Jo"
+    ],
+    "pages": [
+      406,
+      417
+    ],
+    "id": "e13317077c4a"
+  },
+  {
+    "subject": "Chinu",
+    "predicate": "lover_of",
+    "object": "Maiden of Unai",
+    "evidence": [
+      "one of the Maiden of Unai's lovers",
+      "Mubara and Chinu lovers of the Maiden of"
+    ],
+    "source_term": [
+      "Chinu",
+      "Unai"
+    ],
+    "pages": [
+      407,
+      313,
+      315
+    ],
+    "id": "c3ecefda0cfa"
+  },
+  {
+    "subject": "Chiyodō",
+    "predicate": "child_of",
+    "object": "Heitaro",
+    "evidence": [
+      "Child of Heitaro"
+    ],
+    "source_term": [
+      "Chiyodō"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "2e48c5e0035f"
+  },
+  {
+    "subject": "Chōmeiji",
+    "predicate": "located_in",
+    "object": "Ōmi",
+    "evidence": [
+      "Place in Ōmi"
+    ],
+    "source_term": [
+      "Chōmeiji"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "084a2a018a32"
+  },
+  {
+    "subject": "Chōmeiji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Chōmeiji"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "70ff9fc3c406"
+  },
+  {
+    "subject": "Ebisu",
+    "predicate": "child_of",
+    "object": "Daikoku",
+    "evidence": [
+      "Ebisu (his son)",
+      "son of Daikoku"
+    ],
+    "source_term": [
+      "Daikoku",
+      "Ebisu"
+    ],
+    "pages": [
+      407,
+      408
+    ],
+    "id": "7807568a625d"
+  },
+  {
+    "subject": "Daruma",
+    "predicate": "child_of",
+    "object": "a Hindu king",
+    "evidence": [
+      "Son of a Hindu king"
+    ],
+    "source_term": [
+      "Daruma"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "7889e3f69152"
+  },
+  {
+    "subject": "Otohime, The Princess",
+    "predicate": "child_of",
+    "object": "Dragon King (of the Sea)",
+    "evidence": [
+      "Otohime the daughter of"
+    ],
+    "source_term": [
+      "Dragon King (of the Sea)"
+    ],
+    "pages": [
+      408
+    ],
+    "id": "f1cea764fd6b"
+  },
+  {
+    "subject": "Festival of Tanabata",
+    "predicate": "associated_with",
+    "object": "The Weaving Lady",
+    "evidence": [
+      "Alternative, the Weaving Lady"
+    ],
+    "source_term": [
+      "Festival of Tanabata"
+    ],
+    "pages": [
+      409
+    ],
+    "id": "aa5847669b79"
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "child_of",
+    "object": "God of the Firmament",
+    "evidence": [
+      "Tanabata daughter of",
+      "daughter of the God of the Firmament"
+    ],
+    "source_term": [
+      "Firmament, God of the",
+      "Tanabata"
+    ],
+    "pages": [
+      409,
+      126,
+      127
+    ],
+    "id": "383c337bbb11"
+  },
+  {
+    "subject": "Fudaraku-ji",
+    "predicate": "located_in",
+    "object": "Nachi, in Kishū",
+    "evidence": [
+      "Place at Nachi, in Kishū"
+    ],
+    "source_term": [
+      "Fudaraku-ji"
+    ],
+    "pages": [
+      409
+    ],
+    "id": "4c61b4e6d254"
+  },
+  {
+    "subject": "Fudaraku-ji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Fudaraku-ji"
+    ],
+    "pages": [
+      409
+    ],
+    "id": "79325040404a"
+  },
+  {
+    "subject": "Fudo",
+    "predicate": "identified_with",
+    "object": "Dainichi",
+    "evidence": [
+      "Identified with Dainichi"
+    ],
+    "source_term": [
+      "Fudo"
+    ],
+    "pages": [
+      409
+    ],
+    "id": "09d28766777a"
+  },
+  {
+    "subject": "Fuji",
+    "predicate": "derived_from",
+    "object": "Huchi",
+    "evidence": [
+      "name derived from Huchi"
+    ],
+    "source_term": [
+      "Fuji"
+    ],
+    "pages": [
+      410
+    ],
+    "id": "6d1f897887da"
+  },
+  {
+    "subject": "Fuji-dera",
+    "predicate": "located_in",
+    "object": "Kawachi",
+    "evidence": [
+      "Place in Kawachi"
+    ],
+    "source_term": [
+      "Fuji-dera"
+    ],
+    "pages": [
+      410
+    ],
+    "id": "3770ba34d26a"
+  },
+  {
+    "subject": "Fuji-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Fuji-dera"
+    ],
+    "pages": [
+      410
+    ],
+    "id": "0fe6b5cb8269"
+  },
+  {
+    "subject": "God of the Sea",
+    "predicate": "parent_of",
+    "object": "Toyo-tama",
+    "evidence": [
+      "father of Toyo-tama"
+    ],
+    "source_term": [
+      "God of the Sea"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "9c382bcd57d8"
+  },
+  {
+    "subject": "Hase-dera",
+    "predicate": "located_in",
+    "object": "Yamato",
+    "evidence": [
+      "Place in Yamato"
+    ],
+    "source_term": [
+      "Hase-dera"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "373f949e5162"
+  },
+  {
+    "subject": "Hase-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Hase-dera"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "dfbdca189ba6"
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "spouse_of",
+    "object": "Willow Wife",
+    "evidence": [
+      "married Willow Wife"
+    ],
+    "source_term": [
+      "Heitaro"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "4fb4013ffdd2"
+  },
+  {
+    "subject": "Higo",
+    "predicate": "spouse_of",
+    "object": "Heitaro",
+    "evidence": [
+      "Wife of Heitaro"
+    ],
+    "source_term": [
+      "Higo ('Willow')"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "eeed1cf876a6"
+  },
+  {
+    "subject": "Hikoboshi",
+    "predicate": "spouse_of",
+    "object": "Tanabata",
+    "evidence": [
+      "Husband of Tanabata"
+    ],
+    "source_term": [
+      "Hikoboshi"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "6e01b832e680"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "child_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoderi ('Fire-shine')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "cc0a176c7fcf"
+  },
+  {
+    "subject": "Hokkeji",
+    "predicate": "located_in",
+    "object": "Harima",
+    "evidence": [
+      "Place in Harima"
+    ],
+    "source_term": [
+      "Hokkeji"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "f6ce732be749"
+  },
+  {
+    "subject": "Hokkeji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Hokkeji"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "f29a818b2966"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "child_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "ec6e98e62322"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "spouse_of",
+    "object": "Toyo-tama",
+    "evidence": [
+      "weds Toyo-tama"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "e634f141b371"
+  },
+  {
+    "subject": "Toyo-tama",
+    "predicate": "child_of",
+    "object": "God of the Sea",
+    "evidence": [
+      "daughter of the Sea God"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "66de98a08ac2"
+  },
+  {
+    "subject": "Iha-naga",
+    "predicate": "child_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "daughter of Oho-yama"
+    ],
+    "source_term": [
+      "Iha-naga"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "b11aa3a5b4a3"
+  },
+  {
+    "subject": "Iijima",
+    "predicate": "parent_of",
+    "object": "Tsuyu",
+    "evidence": [
+      "Father of Tsuyu"
+    ],
+    "source_term": [
+      "Iijima"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "a674e2bc0615"
+  },
+  {
+    "subject": "Ima-Gumano",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto, in Yamashiro"
+    ],
+    "source_term": [
+      "Ima-Gumano"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "6bd329ef2ce2"
+  },
+  {
+    "subject": "Ima-Gumano",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Ima-Gumano"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "2b39bcc523bb"
+  },
+  {
+    "subject": "Ishidomaro",
+    "predicate": "child_of",
+    "object": "Kato Sayemon",
+    "evidence": [
+      "Son of Kato Sayemon",
+      "Ishidomaro son of"
+    ],
+    "source_term": [
+      "Ishidomaro",
+      "Sayemon, Kato"
+    ],
+    "pages": [
+      413,
+      370,
+      371
+    ],
+    "id": "b49ac24e2137"
+  },
+  {
+    "subject": "Ishiyama-dera",
+    "predicate": "located_in",
+    "object": "near Otsu, in Ōmi",
+    "evidence": [
+      "Place near Otsu, in Ōmi"
+    ],
+    "source_term": [
+      "Ishiyama-dera"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "53ec3e11f61d"
+  },
+  {
+    "subject": "Ishiyama-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Ishiyama-dera"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "ccedfb9faa6a"
+  },
+  {
+    "subject": "Prince Ishizukuri",
+    "predicate": "suitor_of",
+    "object": "Kaguya, Lady",
+    "evidence": [
+      "One of Kaguya's five suitors"
+    ],
+    "source_term": [
+      "Ishizukuri, Prince"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "aaf811cc96d0"
+  },
+  {
+    "subject": "Issunboshi",
+    "predicate": "spouse_of",
+    "object": "youngest daughter of Prince Sanjo",
+    "evidence": [
+      "marries youngest daughter of Prince Sanjo"
+    ],
+    "source_term": [
+      "Issunboshi ('One-Inch Priest')"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "5fa5bef526d3"
+  },
+  {
+    "subject": "Emperor Iuwao",
+    "predicate": "spouse_of",
+    "object": "Spirit of Death-Stone",
+    "evidence": [
+      "Spirit of Death-Stone the consort of"
+    ],
+    "source_term": [
+      "Iuwao, Emperor"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "d8a436c053c2"
+  },
+  {
+    "subject": "Iwama-dera",
+    "predicate": "located_in",
+    "object": "Ōmi",
+    "evidence": [
+      "Place in Ōmi"
+    ],
+    "source_term": [
+      "Iwama-dera"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "a77746453ef7"
+  },
+  {
+    "subject": "Iwama-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Iwama-dera"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "6a00c51ea25d"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "spouse_of",
+    "object": "Izanami",
+    "evidence": [
+      "desire to become husband and wife, 22; their marriage"
+    ],
+    "source_term": [
+      "Izanagi and Izanami"
+    ],
+    "pages": [
+      413,
+      414
+    ],
+    "id": "8a8bc5e9f228"
+  },
+  {
+    "subject": "Empress Jingo",
+    "predicate": "parent_of",
+    "object": "Ojin",
+    "evidence": [
+      "birth of her son Ojin"
+    ],
+    "source_term": [
+      "Jingo, The Empress"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "d9c40e0eba47"
+  },
+  {
+    "subject": "Kaibara",
+    "predicate": "creates",
+    "object": "Onna Daigaku",
+    "evidence": [
+      "Treatise by, known as Onna Daigaku"
+    ],
+    "source_term": [
+      "Kaibara"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "a738a8dcfb47"
+  },
+  {
+    "subject": "Princess Ototachibana",
+    "predicate": "dies_in",
+    "object": "Kadzusa, Straits Of",
+    "evidence": [
+      "Princess Ototachibana drowned in crossing"
+    ],
+    "source_term": [
+      "Kadzusa, Straits Of"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "d5cbc3f6b219"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "god_of",
+    "object": "Fire",
+    "evidence": [
+      "The Fire God"
+    ],
+    "source_term": [
+      "Kagu-tsuchi"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "86a4e358c8da"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Kagu-tsuchi"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "148258ff9622"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "child_of",
+    "object": "Izanami",
+    "evidence": [
+      "child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Kagu-tsuchi"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "5a5bae79aa01"
+  },
+  {
+    "subject": "Prince Kuramochi",
+    "predicate": "suitor_of",
+    "object": "Kaguya, Lady",
+    "evidence": [
+      "Prince Kuramochi... suitors of"
+    ],
+    "source_term": [
+      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "8e457c8c6a1b"
+  },
+  {
+    "subject": "Otomo no Miyuki",
+    "predicate": "suitor_of",
+    "object": "Kaguya, Lady",
+    "evidence": [
+      "the Chiunagon Otomo no Miyuki... suitors of"
+    ],
+    "source_term": [
+      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "089f1cb2295e"
+  },
+  {
+    "subject": "Morotada",
+    "predicate": "suitor_of",
+    "object": "Kaguya, Lady",
+    "evidence": [
+      "Morotada, the Lord of Iso, suitors of"
+    ],
+    "source_term": [
+      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "91a0d5085fba"
+  },
+  {
+    "subject": "Kaguya, Lady",
+    "predicate": "born_in",
+    "object": "Moonland Capital",
+    "evidence": [
+      "Moonland Capital the birthplace of"
+    ],
+    "source_term": [
+      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "bf6ea472658b"
+  },
+  {
+    "subject": "Kaguya, Lady",
+    "predicate": "travels_to",
+    "object": "Moonland",
+    "evidence": [
+      "departs to Moonland"
+    ],
+    "source_term": [
+      "Kaguya, Lady ('Precious-Slender-Bamboo-of-the-Field-of-Autumn')"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "7a718ba483ef"
+  },
+  {
+    "subject": "Kamakura",
+    "predicate": "associated_with",
+    "object": "one-time capital of Nippon",
+    "evidence": [
+      "The one-time capital of Nippon"
+    ],
+    "source_term": [
+      "Kamakura"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "db5af355682b"
+  },
+  {
+    "subject": "General Yoritomo",
+    "predicate": "founds",
+    "object": "Kamakura",
+    "evidence": [
+      "city of, laid out by General Yoritomo"
+    ],
+    "source_term": [
+      "Kamakura"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "8b756a828cf2"
+  },
+  {
+    "subject": "Kamatari",
+    "predicate": "parent_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "father of Kohaku Jo"
+    ],
+    "source_term": [
+      "Kamatari"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "de4d2a0f564a"
+  },
+  {
+    "subject": "Kami Daigo-dera",
+    "predicate": "located_in",
+    "object": "Uji",
+    "evidence": [
+      "Place at Uji"
+    ],
+    "source_term": [
+      "Kami Daigo-dera"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "6579e1c510db"
+  },
+  {
+    "subject": "Kami Daigo-dera",
+    "predicate": "located_in",
+    "object": "Yamashiro",
+    "evidence": [
+      "in Yamashiro"
+    ],
+    "source_term": [
+      "Kami Daigo-dera"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "39452aa35d61"
+  },
+  {
+    "subject": "Kami Daigo-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kami Daigo-dera"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "9367a28067b6"
+  },
+  {
+    "subject": "Kamishama",
+    "predicate": "located_in",
+    "object": "Oki Islands",
+    "evidence": [
+      "One of the Oki Islands"
+    ],
+    "source_term": [
+      "Kamishama"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "8a3002767cc6"
+  },
+  {
+    "subject": "Oribe Shima",
+    "predicate": "travels_to",
+    "object": "Kamishama",
+    "evidence": [
+      "to which Oribe Shima is banished"
+    ],
+    "source_term": [
+      "Kamishama"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "6dfe22bac826"
+  },
+  {
+    "subject": "Kamo, Lady",
+    "predicate": "owns",
+    "object": "Soul of the Mirror",
+    "evidence": [
+      "The Soul of the Mirror (Yayoi) falls into possession of"
+    ],
+    "source_term": [
+      "Kamo, Lady"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "36081aec358f"
+  },
+  {
+    "subject": "Kamo no Chōmei",
+    "predicate": "creates",
+    "object": "Hō-jō-ki",
+    "evidence": [
+      "his book called Hō-jō-ki"
+    ],
+    "source_term": [
+      "Kamo no Chōmei"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "2dda3e7d502e"
+  },
+  {
+    "subject": "Yosoji",
+    "predicate": "visits",
+    "object": "Kamo Yamakiko",
+    "evidence": [
+      "consulted by Yosoji"
+    ],
+    "source_term": [
+      "Kamo Yamakiko"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "37877058d53c"
+  },
+  {
+    "subject": "Kamu-Yamato-Iware-Biko",
+    "predicate": "ruler_of",
+    "object": "Japan",
+    "evidence": [
+      "first human Emperor of Japan"
+    ],
+    "source_term": [
+      "Kamu-Yamato-Iware-Biko"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "7da96433592e"
+  },
+  {
+    "subject": "Urashima",
+    "predicate": "buried_in",
+    "object": "Kanagawa",
+    "evidence": [
+      "Urashima's tomb still shown in a temple in"
+    ],
+    "source_term": [
+      "Kanagawa"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "67a0fca124a0"
+  },
+  {
+    "subject": "Kano Hogai",
+    "predicate": "creates",
+    "object": "Embroidery depicting Kwannon",
+    "evidence": [
+      "Embroidery depicting Kwannon as the Divine Mother by"
+    ],
+    "source_term": [
+      "Kano Hogai"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "a65bfc1ab8e3"
+  },
+  {
+    "subject": "Kansuke",
+    "predicate": "parent_of",
+    "object": "Matakichi",
+    "evidence": [
+      "Father of Matakichi"
+    ],
+    "source_term": [
+      "Kansuke"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "60b1cc978347"
+  },
+  {
+    "subject": "Katsu-dera",
+    "predicate": "located_in",
+    "object": "Settsu",
+    "evidence": [
+      "Place in Settsu"
+    ],
+    "source_term": [
+      "Katsu-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "4beaf02ca40b"
+  },
+  {
+    "subject": "Katsu-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Katsu-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "e330d0472fd4"
+  },
+  {
+    "subject": "Kawachi-mura",
+    "predicate": "located_in",
+    "object": "Matsue",
+    "evidence": [
+      "Hamlet near Matsue"
+    ],
+    "source_term": [
+      "Kawachi-mura"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "4438065a6670"
+  },
+  {
+    "subject": "Kawako-no-Miya",
+    "predicate": "sacred_to",
+    "object": "Kawako",
+    "evidence": [
+      "The temple of the Kawako"
+    ],
+    "source_term": [
+      "Kawako-no-Miya"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "1c06e5995971"
+  },
+  {
+    "subject": "Kawako-no-Miya",
+    "predicate": "sacred_to",
+    "object": "Kappa",
+    "evidence": [
+      "or Kappa"
+    ],
+    "source_term": [
+      "Kawako-no-Miya"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "cecaa5fbbb24"
+  },
+  {
+    "subject": "Soga Sadayoshi",
+    "predicate": "visits",
+    "object": "Ken-cho-ji",
+    "evidence": [
+      "Visit of Soga Sadayoshi to temple of"
+    ],
+    "source_term": [
+      "Ken-cho-ji"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "17ab3253c313"
+  },
+  {
+    "subject": "Sawara",
+    "predicate": "spouse_of",
+    "object": "Kiku",
+    "evidence": [
+      "Sawara weds"
+    ],
+    "source_term": [
+      "Kiku ('Chrysanthemum')"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "4486de0ebabd"
+  },
+  {
+    "subject": "Kikuko",
+    "predicate": "servant_of",
+    "object": "Tsugaru",
+    "evidence": [
+      "Retainer of Tsugaru"
+    ],
+    "source_term": [
+      "Kikuko ('Chrysanthemum-Old-Man')"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "103ec77a119a"
+  },
+  {
+    "subject": "Kimi",
+    "predicate": "lover_of",
+    "object": "Kurosuke",
+    "evidence": [
+      "her faithless behaviour toward Kurosuke"
+    ],
+    "source_term": [
+      "Kimi"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "6a2d0ec5120f"
+  },
+  {
+    "subject": "Kimi-dera",
+    "predicate": "located_in",
+    "object": "Wakayama",
+    "evidence": [
+      "Place near Wakayama"
+    ],
+    "source_term": [
+      "Kimi-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "ce19b8576fde"
+  },
+  {
+    "subject": "Kimi-dera",
+    "predicate": "located_in",
+    "object": "Kishū",
+    "evidence": [
+      "in Kishū"
+    ],
+    "source_term": [
+      "Kimi-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "ac6c777be002"
+  },
+  {
+    "subject": "Kimi-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kimi-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "7317995f4d54"
+  },
+  {
+    "subject": "Sonobé",
+    "predicate": "servant_of",
+    "object": "Kishiwada, The Lord Of",
+    "evidence": [
+      "Sends Sonobé to"
+    ],
+    "source_term": [
+      "Kishiwada, The Lord Of"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "f43c80638d69"
+  },
+  {
+    "subject": "Kiyomizu-dera",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto"
+    ],
+    "source_term": [
+      "Kiyomizu-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "3d472a60d052"
+  },
+  {
+    "subject": "Kiyomizu-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kiyomizu-dera"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "b161919963a9"
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "spouse_of",
+    "object": "Kiyomori",
+    "evidence": [
+      "Tokiwa, widow of Yoshitomo, weds",
+      "weds Kiyomori"
+    ],
+    "source_term": [
+      "Kiyomori",
+      "Tokiwa"
+    ],
+    "pages": [
+      416,
+      41
+    ],
+    "id": "6ea2faf3ec9c"
+  },
+  {
+    "subject": "Kōbō Daishi",
+    "predicate": "founds",
+    "object": "Shingon-shū",
+    "evidence": [
+      "founded Buddhist sect called the Shingon-shū"
+    ],
+    "source_term": [
+      "Kōbō Daishi"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "2f517a248763"
+  },
+  {
+    "subject": "Kōdō",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto"
+    ],
+    "source_term": [
+      "Kōdō"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "971c54ed9f72"
+  },
+  {
+    "subject": "Kōdō",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kōdō"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "9526ebc55791"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "spouse_of",
+    "object": "Emperor of China",
+    "evidence": [
+      "weds Emperor of China"
+    ],
+    "source_term": [
+      "Kohaku Jo"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "4531cc57e553"
+  },
+  {
+    "subject": "Kōjin, The God",
+    "predicate": "lives_in",
+    "object": "enoki tree",
+    "evidence": [
+      "Spirit resides in the enoki tree"
+    ],
+    "source_term": [
+      "Kōjin, The God"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "1e8fc4adefb1"
+  },
+  {
+    "subject": "Kokawa-dera",
+    "predicate": "located_in",
+    "object": "Kishū",
+    "evidence": [
+      "Place in Kishū"
+    ],
+    "source_term": [
+      "Kokawa-dera"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "a54a77b977f9"
+  },
+  {
+    "subject": "Kokawa-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kokawa-dera"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "8a51af0d7dbc"
+  },
+  {
+    "subject": "Komagawa Miyagi",
+    "predicate": "lover_of",
+    "object": "Miyuki",
+    "evidence": [
+      "his love for Miyuki"
+    ],
+    "source_term": [
+      "Komagawa Miyagi"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "d20a1d9f8ba7"
+  },
+  {
+    "subject": "Kompira",
+    "predicate": "identified_with",
+    "object": "Susa-no-o",
+    "evidence": [
+      "identified with Susa-no-o"
+    ],
+    "source_term": [
+      "Kompira"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "cf739e0077e4"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "child_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "daughter of Oho-yama"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "023859bfa020"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "spouse_of",
+    "object": "Ninigi",
+    "evidence": [
+      "weds Ninigi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "6c07a2e387a9"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "be4bc8494f06"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "6eeea8d0483b"
+  },
+  {
+    "subject": "Kōshin",
+    "predicate": "god_of",
+    "object": "Roads",
+    "evidence": [
+      "The God of Roads"
+    ],
+    "source_term": [
+      "Kōshin"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "d55828892432"
+  },
+  {
+    "subject": "Koso",
+    "predicate": "spouse_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "woos and weds Kohaku Jo"
+    ],
+    "source_term": [
+      "Koso"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "318ef4a13257"
+  },
+  {
+    "subject": "Koyuri",
+    "predicate": "child_of",
+    "object": "Yurine",
+    "evidence": [
+      "Son of Yurine",
+      "Koyuri, son of"
+    ],
+    "source_term": [
+      "Koyuri",
+      "Yurine"
+    ],
+    "pages": [
+      417,
+      359,
+      362
+    ],
+    "id": "73c32fc7c821"
+  },
+  {
+    "subject": "Yamato",
+    "predicate": "slays",
+    "object": "Kumaso",
+    "evidence": [
+      "slain by Yamato"
+    ],
+    "source_term": [
+      "Kumaso"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "a9bd4bc20448"
+  },
+  {
+    "subject": "Sakata Kurando",
+    "predicate": "lover_of",
+    "object": "Yaégiri",
+    "evidence": [
+      "falls in love with Yaégiri"
+    ],
+    "source_term": [
+      "Kurando, Sakata"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "e47bbe34390c"
+  },
+  {
+    "subject": "Kurosuke",
+    "predicate": "lover_of",
+    "object": "Kimi",
+    "evidence": [
+      "forsaken by Kimi"
+    ],
+    "source_term": [
+      "Kurosuke"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "76fa5ad36f84"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "child_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "Daughter of Ashi-nadzuchi and Te-nadzuchi"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "2ec408a2c7ad"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "child_of",
+    "object": "Te-nadzuchi",
+    "evidence": [
+      "Daughter of Ashi-nadzuchi and Te-nadzuchi",
+      "mother of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')",
+      "Te-nadzuchi"
+    ],
+    "pages": [
+      417,
+      29
+    ],
+    "id": "20b295bb75af"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "spouse_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "wooed and wedded by Susa-no-o"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "11e148f9320d"
+  },
+  {
+    "subject": "Kwannon",
+    "predicate": "goddess_of",
+    "object": "Mercy",
+    "evidence": [
+      "The Goddess of Mercy"
+    ],
+    "source_term": [
+      "Kwannon"
+    ],
+    "pages": [
+      417,
+      418
+    ],
+    "id": "49dc9bc6245d"
+  },
+  {
+    "subject": "Kwannonji",
+    "predicate": "located_in",
+    "object": "Ōmi",
+    "evidence": [
+      "Place in Ōmi"
+    ],
+    "source_term": [
+      "Kwannonji"
+    ],
+    "pages": [
+      418
+    ],
+    "id": "59d568d1bfe8"
+  },
+  {
+    "subject": "Kwannonji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Kwannonji"
+    ],
+    "pages": [
+      418
+    ],
+    "id": "09dbf6603a93"
+  },
+  {
+    "subject": "Kyu-Kukedo-San",
+    "predicate": "sacred_to",
+    "object": "Jizō",
+    "evidence": [
+      "associated with Jizō"
+    ],
+    "source_term": [
+      "Kyu-Kukedo-San"
+    ],
+    "pages": [
+      418
+    ],
+    "id": "f5b9bca732de"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "spouse_of",
+    "object": "Princess Miyadzu",
+    "evidence": [
+      "Prince Yamato meets and weds"
+    ],
+    "source_term": [
+      "Miyadzu, Princess"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "fc4c9a075759"
+  },
+  {
+    "id": "9407d5ce1eb6",
+    "subject": "Tsuki-yumi",
+    "predicate": "god_of",
+    "object": "Moon",
+    "evidence": [
+      "Tsuki-yumi... the"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ]
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "5ce74681dc56"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "child_of",
+    "object": "Izanami",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "ff22365491c9"
+  },
+  {
+    "subject": "Mubara",
+    "predicate": "lover_of",
+    "object": "Maiden of Unai",
+    "evidence": [
+      "One of the Maiden of Unai's lovers",
+      "Mubara and Chinu lovers of the Maiden of"
+    ],
+    "source_term": [
+      "Mubara",
+      "Unai"
+    ],
+    "pages": [
+      420,
+      313,
+      315
+    ],
+    "id": "c8ea8ebc6a8f"
+  },
+  {
+    "subject": "Naizen-no-jo, The Lord",
+    "predicate": "parent_of",
+    "object": "Princess Aya",
+    "evidence": [
+      "Father of the Princess Aya"
+    ],
+    "source_term": [
+      "Naizen-no-jo, The Lord"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "49c185a19a34"
+  },
+  {
+    "subject": "Nakayama-dera",
+    "predicate": "located_in",
+    "object": "Kobe",
+    "evidence": [
+      "Place near Kobe"
+    ],
+    "source_term": [
+      "Nakayama-dera"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "40e7cb6bb2d1"
+  },
+  {
+    "subject": "Nakayama-dera",
+    "predicate": "located_in",
+    "object": "Settsu",
+    "evidence": [
+      "in Settsu"
+    ],
+    "source_term": [
+      "Nakayama-dera"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "3863ee7178fc"
+  },
+  {
+    "subject": "Nakayama-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Nakayama-dera"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "44da5ec7eec0"
+  },
+  {
+    "subject": "Nan-endō",
+    "predicate": "located_in",
+    "object": "Nara",
+    "evidence": [
+      "Place at Nara"
+    ],
+    "source_term": [
+      "Nan-endō"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "c8b601220bec"
+  },
+  {
+    "subject": "Nan-endō",
+    "predicate": "located_in",
+    "object": "Yamato",
+    "evidence": [
+      "in Yamato"
+    ],
+    "source_term": [
+      "Nan-endō"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "3c7b33ec48d6"
+  },
+  {
+    "subject": "Nan-endō",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Nan-endō"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "4d946f667506"
+  },
+  {
+    "subject": "Naraei-ji",
+    "predicate": "located_in",
+    "object": "Tango",
+    "evidence": [
+      "Place in Tango"
+    ],
+    "source_term": [
+      "Naraei-ji"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "f21d0cd8b703"
+  },
+  {
+    "subject": "Naraei-ji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Naraei-ji"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "befea0081683"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "spouse_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "weds Ko-no-hana"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "b3caa9024a91"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Hoderi... and Hoori, sons of"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "a075a15f52b1"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Hoderi... and Hoori, sons of"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "787a1d826509"
+  },
+  {
+    "subject": "O-ana-mochi",
+    "predicate": "deity_of",
+    "object": "Mount Fuji",
+    "evidence": [
+      "A deity of Mount Fuji"
+    ],
+    "source_term": [
+      "O-ana-mochi"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "243335bdcc57"
+  },
+  {
+    "subject": "O Cho San",
+    "predicate": "lives_in",
+    "object": "Hatsu-shima Island",
+    "evidence": [
+      "Dwells on Hatsu-shima Island"
+    ],
+    "source_term": [
+      "O Cho San"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "8fdcd2948bf4"
+  },
+  {
+    "subject": "Gisuke",
+    "predicate": "sibling_of",
+    "object": "O Cho San",
+    "evidence": [
+      "Gisuke the brother of"
+    ],
+    "source_term": [
+      "O Cho San"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "12d455bc158e"
+  },
+  {
+    "subject": "Shinsaku",
+    "predicate": "suitor_of",
+    "object": "O Cho San",
+    "evidence": [
+      "Shinsaku the favoured suitor of",
+      "Favoured suitor for hand of O Cho San"
+    ],
+    "source_term": [
+      "O Cho San",
+      "Shinsaku"
+    ],
+    "pages": [
+      423,
+      338,
+      339
+    ],
+    "id": "59dfa8aef98b"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "parent_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "father of Ko-no-hana and Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "cd3ef1b82b7c"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "parent_of",
+    "object": "Iha-naga",
+    "evidence": [
+      "father of Ko-no-hana and Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "6e60917e4fa2"
+  },
+  {
+    "subject": "Ojin",
+    "predicate": "child_of",
+    "object": "Empress Jingo",
+    "evidence": [
+      "Son of Empress Jingo"
+    ],
+    "source_term": [
+      "Ojin"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "f66f88226d6c"
+  },
+  {
+    "subject": "Oka-dera",
+    "predicate": "located_in",
+    "object": "Yamato",
+    "evidence": [
+      "Place in Yamato"
+    ],
+    "source_term": [
+      "Oka-dera"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "983fb268e4fb"
+  },
+  {
+    "subject": "Oka-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Oka-dera"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "556f8bfcab94"
+  },
+  {
+    "subject": "Oribe Shima",
+    "predicate": "parent_of",
+    "object": "Tokoyo",
+    "evidence": [
+      "his daughter Tokoyo"
+    ],
+    "source_term": [
+      "Oribe Shima"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "892db06bc4ae"
+  },
+  {
+    "subject": "Otohime, The Princess",
+    "predicate": "spouse_of",
+    "object": "Urashima",
+    "evidence": [
+      "becomes the bride of Urashima"
+    ],
+    "source_term": [
+      "Otohime, The Princess"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "0f1e35c4c9eb"
+  },
+  {
+    "subject": "Princess Ototachibana",
+    "predicate": "spouse_of",
+    "object": "Yamato Take, Prince",
+    "evidence": [
+      "Wife of Prince Yamato"
+    ],
+    "source_term": [
+      "Ototachibana, Princess"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "c602a21f023d"
+  },
+  {
+    "id": "4616a402e382",
+    "subject": "Raiden",
+    "predicate": "god_of",
+    "object": "Thunder",
+    "evidence": [
+      "The God of Thunder"
+    ],
+    "source_term": [
+      "Raiden"
+    ],
+    "pages": [
+      250
+    ]
+  },
+  {
+    "subject": "Rikiu",
+    "predicate": "friend_of",
+    "object": "Taiko-Hideyoshi",
+    "evidence": [
+      "the friend of Taiko-Hideyoshi"
+    ],
+    "source_term": [
+      "Rikiu"
+    ],
+    "pages": [
+      296,
+      297
+    ],
+    "id": "b649539c6a50"
+  },
+  {
+    "subject": "Rin-jin",
+    "predicate": "spouse_of",
+    "object": "Dragon Princess",
+    "evidence": [
+      "takes wife a Dragon Princess"
+    ],
+    "source_term": [
+      "Rin-jin"
+    ],
+    "pages": [
+      56,
+      272,
+      275
+    ],
+    "id": "8dc59a509170"
+  },
+  {
+    "subject": "Rokkaku-dō",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto"
+    ],
+    "source_term": [
+      "Rokkaku-dō"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "55690d9a13ac"
+  },
+  {
+    "subject": "Rokkaku-dō",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Rokkaku-dō"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "7b2eef9e21f2"
+  },
+  {
+    "subject": "Rokuhara-dera",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto"
+    ],
+    "source_term": [
+      "Rokuhara-dera"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "e1bd5e084daa"
+  },
+  {
+    "subject": "Rokuhara-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Rokuhara-dera"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "b66f49c28f7d"
+  },
+  {
+    "subject": "Sefukuji",
+    "predicate": "located_in",
+    "object": "Izumi",
+    "evidence": [
+      "Place in Izumi"
+    ],
+    "source_term": [
+      "Sefukuji"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "34da1716b086"
+  },
+  {
+    "subject": "Sefukuji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Sefukuji"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "85c1579e895b"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "spouse_of",
+    "object": "Ningi",
+    "evidence": [
+      "wife of Ningi"
+    ],
+    "source_term": [
+      "Sengen"
+    ],
+    "pages": [
+      34,
+      132
+    ],
+    "id": "d5704f4fa86f"
+  },
+  {
+    "subject": "Shin Kiyomizu-dera",
+    "predicate": "located_in",
+    "object": "Harima",
+    "evidence": [
+      "Place in Harima"
+    ],
+    "source_term": [
+      "Shin Kiyomizu-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "b2e30a69a1da"
+  },
+  {
+    "subject": "Shin Kiyomizu-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Shin Kiyomizu-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "c55a9b203575"
+  },
+  {
+    "subject": "Shita-teru-hime",
+    "predicate": "spouse_of",
+    "object": "Ame-waka",
+    "evidence": [
+      "Wed by Ame-waka"
+    ],
+    "source_term": [
+      "Shita-teru-hime"
+    ],
+    "pages": [
+      31
+    ],
+    "id": "8bc0672ee328"
+  },
+  {
+    "subject": "Shosha-san",
+    "predicate": "located_in",
+    "object": "Harima",
+    "evidence": [
+      "Place in Harima"
+    ],
+    "source_term": [
+      "Shosha-san"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "c250995a39bb"
+  },
+  {
+    "subject": "Shosha-san",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Shosha-san"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "87f61e3530f1"
+  },
+  {
+    "subject": "Ten Datsu-Ba",
+    "predicate": "spouse_of",
+    "object": "Sodzu-Baba",
+    "evidence": [
+      "Ten Datsu-Ba, husband of"
+    ],
+    "source_term": [
+      "Sodzu-baba"
+    ],
+    "pages": [
+      222
+    ],
+    "id": "cd27d1cd950c"
+  },
+  {
+    "subject": "Sōjiji",
+    "predicate": "located_in",
+    "object": "Settsu",
+    "evidence": [
+      "Place in Settsu"
+    ],
+    "source_term": [
+      "Sōjiji"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "ed6acad644cf"
+  },
+  {
+    "subject": "Sōjiji",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Sōjiji"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "5dc028e0a101"
+  },
+  {
+    "subject": "Taiko-Hideyoshi",
+    "predicate": "friend_of",
+    "object": "Rikiu",
+    "evidence": [
+      "The friend of Rikiu"
+    ],
+    "source_term": [
+      "Taiko-Hideyoshi"
+    ],
+    "pages": [
+      296,
+      297
+    ],
+    "id": "fa43cd9674a8"
+  },
+  {
+    "subject": "Tōtarō",
+    "predicate": "spouse_of",
+    "object": "Tamana",
+    "evidence": [
+      "Tōtarō weds",
+      "marries Tamana"
+    ],
+    "source_term": [
+      "Tamana",
+      "Tōtarō"
+    ],
+    "pages": [
+      377,
+      379,
+      376
+    ],
+    "id": "3fcaf95029ee"
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "associated_with",
+    "object": "The Weaving Lady",
+    "evidence": [
+      "Alternative, The Weaving Lady"
+    ],
+    "source_term": [
+      "Tanabata"
+    ],
+    "pages": [
+      126,
+      127
+    ],
+    "id": "169a1549c544"
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "spouse_of",
+    "object": "Hikoboshi",
+    "evidence": [
+      "wife of Hikoboshi"
+    ],
+    "source_term": [
+      "Tanabata"
+    ],
+    "pages": [
+      126,
+      127
+    ],
+    "id": "da7c03472d51"
+  },
+  {
+    "subject": "Midzunoe",
+    "predicate": "located_in",
+    "object": "Tango",
+    "evidence": [
+      "in the province of"
+    ],
+    "source_term": [
+      "Tango"
+    ],
+    "pages": [
+      324
+    ],
+    "id": "095ef50b932e"
+  },
+  {
+    "subject": "Tanigumi-dera",
+    "predicate": "located_in",
+    "object": "Mino",
+    "evidence": [
+      "in Mino"
+    ],
+    "source_term": [
+      "Tanigumi-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "b30c2f06c552"
+  },
+  {
+    "subject": "Tanigumi-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Tanigumi-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "1c62e29e6c60"
+  },
+  {
+    "subject": "Te-nadzuchi",
+    "predicate": "spouse_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "Wife of Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Te-nadzuchi"
+    ],
+    "pages": [
+      29
+    ],
+    "id": "e1c866cca084"
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "spouse_of",
+    "object": "Yoshitomo",
+    "evidence": [
+      "Wife of Yoshitomo",
+      "Tokiwa wife of"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitomo"
+    ],
+    "pages": [
+      41,
+      351,
+      352
+    ],
+    "id": "b9469d0428c5"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "child_of",
+    "object": "Tokiwa",
+    "evidence": [
+      "mother of Yoshitsune",
+      "his mother Tokiwa"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitsune"
+    ],
+    "pages": [
+      41,
+      39,
+      44
+    ],
+    "id": "c924dc18a7b5"
+  },
+  {
+    "subject": "Tokoyo",
+    "predicate": "child_of",
+    "object": "Oribe Shima",
+    "evidence": [
+      "Daughter of Oribe Shima"
+    ],
+    "source_term": [
+      "Tokoyo"
+    ],
+    "pages": [
+      334,
+      336
+    ],
+    "id": "858b060985b1"
+  },
+  {
+    "subject": "Mine",
+    "predicate": "spouse_of",
+    "object": "Tomozō",
+    "evidence": [
+      "Mine the wife of"
+    ],
+    "source_term": [
+      "Tomozō"
+    ],
+    "pages": [
+      230,
+      233
+    ],
+    "id": "1acc8fd3d7ee"
+  },
+  {
+    "subject": "Toyo-tama",
+    "predicate": "spouse_of",
+    "object": "Hoori",
+    "evidence": [
+      "wife of Hoori"
+    ],
+    "source_term": [
+      "Toyo-tama"
+    ],
+    "pages": [
+      36,
+      37
+    ],
+    "id": "d273a228199f"
+  },
+  {
+    "subject": "Tsubosaka-dera",
+    "predicate": "located_in",
+    "object": "Yamato",
+    "evidence": [
+      "Place in Yamato"
+    ],
+    "source_term": [
+      "Tsubosaka-dera"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "5e7d07492a15"
+  },
+  {
+    "subject": "Tsubosaka-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Tsubosaka-dera"
+    ],
+    "pages": [
+      203
+    ],
+    "id": "c0769e3e2ef8"
+  },
+  {
+    "subject": "Tsuyu",
+    "predicate": "child_of",
+    "object": "Iijima",
+    "evidence": [
+      "Daughter of Iijima"
+    ],
+    "source_term": [
+      "Tsuyu"
+    ],
+    "pages": [
+      228,
+      233
+    ],
+    "id": "26ceb3099bf8"
+  },
+  {
+    "subject": "Urashima",
+    "predicate": "visits",
+    "object": "Dragon Palace",
+    "evidence": [
+      "at the Dragon (Sea) King's palace"
+    ],
+    "source_term": [
+      "Urashima"
+    ],
+    "pages": [
+      323,
+      328
+    ],
+    "id": "f8856d82da87"
+  },
+  {
+    "subject": "Urashima",
+    "predicate": "spouse_of",
+    "object": "Otohime, The Princess",
+    "evidence": [
+      "weds Otohime"
+    ],
+    "source_term": [
+      "Urashima"
+    ],
+    "pages": [
+      323,
+      328
+    ],
+    "id": "4507f2703a4b"
+  },
+  {
+    "subject": "Uzume",
+    "predicate": "spouse_of",
+    "object": "Deity of the Field-paths",
+    "evidence": [
+      "given by Ningi to the Deity of the Field-paths as wife"
+    ],
+    "source_term": [
+      "Uzume"
+    ],
+    "pages": [
+      28,
+      33
+    ],
+    "id": "4c97a32c28ed"
+  },
+  {
+    "subject": "Wasōbiyōye, Shikaiya",
+    "predicate": "lives_in",
+    "object": "Nagasaki",
+    "evidence": [
+      "A man of Nagasaki"
+    ],
+    "source_term": [
+      "Wasōbiyōye, Shikaiya"
+    ],
+    "pages": [
+      374,
+      376,
+      375
+    ],
+    "id": "cf077e186be6"
+  },
+  {
+    "subject": "The Weaving Lady",
+    "predicate": "associated_with",
+    "object": "Tanabata",
+    "evidence": [
+      "Festival of Tanabata, or"
+    ],
+    "source_term": [
+      "Weaving Lady, The"
+    ],
+    "pages": [
+      126
+    ],
+    "id": "9414cef69875"
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "spouse_of",
+    "object": "Higo",
+    "evidence": [
+      "Heitaro, husband of Higo"
+    ],
+    "source_term": [
+      "Willow Wife, The"
+    ],
+    "pages": [
+      177,
+      180
+    ],
+    "id": "7f8e30a8e67a"
+  },
+  {
+    "subject": "Yaégiri",
+    "predicate": "parent_of",
+    "object": "Kintaro",
+    "evidence": [
+      "gives birth to Kintaro"
+    ],
+    "source_term": [
+      "Yaégiri"
+    ],
+    "pages": [
+      367
+    ],
+    "id": "64361cc34999"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "child_of",
+    "object": "King Keiko",
+    "evidence": [
+      "Youngest son of King Keiko"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "c1eb8c988bd4"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "slays",
+    "object": "Kumaso",
+    "evidence": [
+      "slays Kumaso and Takeru"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "cc04c4ab8bdb"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "slays",
+    "object": "Idzumo Takeru",
+    "evidence": [
+      "slays Kumaso and Takeru"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "eda9c6e1986d"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "defeats",
+    "object": "Ainu",
+    "evidence": [
+      "Ainu rising quelled by"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "85283476cbdf"
+  },
+  {
+    "subject": "Yao, Emperor",
+    "predicate": "child_of",
+    "object": "dragon",
+    "evidence": [
+      "Reputed son of a dragon"
+    ],
+    "source_term": [
+      "Yao, Emperor"
+    ],
+    "pages": [
+      362
+    ],
+    "id": "9c0a5c92330d"
+  },
+  {
+    "subject": "Yayoi",
+    "predicate": "identified_with",
+    "object": "Soul of the Mirror",
+    "evidence": [
+      "the Soul of the Mirror"
+    ],
+    "source_term": [
+      "Yayoi"
+    ],
+    "pages": [
+      193,
+      194
+    ],
+    "id": "b74956eb7cdc"
+  },
+  {
+    "subject": "Fu Hsi",
+    "predicate": "creates",
+    "object": "Yih-King",
+    "evidence": [
+      "begun by Fu Hsi"
+    ],
+    "source_term": [
+      "Yih-King"
+    ],
+    "pages": [
+      344
+    ],
+    "id": "6fab12b036aa"
+  },
+  {
+    "id": "b1aee9d4a5b9",
+    "subject": "Yofuné-Nushi",
+    "predicate": "god_of",
+    "object": "White Sea Serpent",
+    "evidence": [
+      "The Serpent God"
+    ],
+    "source_term": [
+      "Yofuné-Nushi"
+    ],
+    "pages": [
+      334,
+      335
+    ]
+  },
+  {
+    "subject": "Tokoyo",
+    "predicate": "slays",
+    "object": "Yofuné-Nushi",
+    "evidence": [
+      "slain by Tokoyo"
+    ],
+    "source_term": [
+      "Yofuné-Nushi"
+    ],
+    "pages": [
+      334,
+      335
+    ],
+    "id": "e6052ae5b075"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": [
+      "Izanami creeps away to"
+    ],
+    "source_term": [
+      "Yomi, Land of (Hades)"
+    ],
+    "pages": [
+      23,
+      25,
+      28
+    ],
+    "id": "7f1b654ad53d"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": [
+      "Izanagi goes to"
+    ],
+    "source_term": [
+      "Yomi, Land of (Hades)"
+    ],
+    "pages": [
+      23,
+      25,
+      28
+    ],
+    "id": "3cfb43cc3b42"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "travels_to",
+    "object": "Yomi, Land of (Hades)",
+    "evidence": [
+      "Susa-no-o banished to"
+    ],
+    "source_term": [
+      "Yomi, Land of (Hades)"
+    ],
+    "pages": [
+      23,
+      25,
+      28
+    ],
+    "id": "e2b04c0a4cc3"
+  },
+  {
+    "subject": "Yoné",
+    "predicate": "servant_of",
+    "object": "Tsuyu",
+    "evidence": [
+      "Faithful servant of Tsuyu"
+    ],
+    "source_term": [
+      "Yoné"
+    ],
+    "pages": [
+      228,
+      233
+    ],
+    "id": "768316160f70"
+  },
+  {
+    "subject": "Yorimasa",
+    "predicate": "spouse_of",
+    "object": "Lady Ayame",
+    "evidence": [
+      "marries Lady Ayame"
+    ],
+    "source_term": [
+      "Yorimasa"
+    ],
+    "pages": [
+      38,
+      39
+    ],
+    "id": "998cfd0a47f7"
+  },
+  {
+    "subject": "Kintaro",
+    "predicate": "servant_of",
+    "object": "Yorimitsu",
+    "evidence": [
+      "makes Kintaro his retainer"
+    ],
+    "source_term": [
+      "Yorimitsu"
+    ],
+    "pages": [
+      368,
+      369
+    ],
+    "id": "399c646006d4"
+  },
+  {
+    "subject": "Yorozuya",
+    "predicate": "suitor_of",
+    "object": "Kimi",
+    "evidence": [
+      "Proposed husband for Kimi"
+    ],
+    "source_term": [
+      "Yorozuya"
+    ],
+    "pages": [
+      123
+    ],
+    "id": "f5ad356abfc1"
+  },
+  {
+    "subject": "Yoshimine-dera",
+    "predicate": "located_in",
+    "object": "Kyōto",
+    "evidence": [
+      "Place at Kyōto"
+    ],
+    "source_term": [
+      "Yoshimine-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "c698f02df51f"
+  },
+  {
+    "subject": "Yoshimine-dera",
+    "predicate": "sacred_to",
+    "object": "Kwannon",
+    "evidence": [
+      "one of the thirty-three places sacred to Kwannon"
+    ],
+    "source_term": [
+      "Yoshimine-dera"
+    ],
+    "pages": [
+      204
+    ],
+    "id": "3e8818fc55dd"
+  },
+  {
+    "subject": "Yoshisawa",
+    "predicate": "dies_in",
+    "object": "The Violet Well",
+    "evidence": [
+      "drowns himself in the Violet Well"
+    ],
+    "source_term": [
+      "Yoshisawa"
+    ],
+    "pages": [
+      168
+    ],
+    "id": "9266f9de0948"
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "parent_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Father of Yoshitsune"
+    ],
+    "source_term": [
+      "Yoshitomo"
+    ],
+    "pages": [
+      41,
+      351,
+      352
+    ],
+    "id": "fde6e9de61e3"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "child_of",
+    "object": "Yoshitomo",
+    "evidence": [
+      "his father Yoshitomo"
+    ],
+    "source_term": [
+      "Yoshitsune"
+    ],
+    "pages": [
+      39,
+      44
+    ],
+    "id": "7cb3c68b0e36"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "defeats",
+    "object": "Benkei",
+    "evidence": [
+      "conquers Benkei"
+    ],
+    "source_term": [
+      "Yoshitsune"
+    ],
+    "pages": [
+      39,
+      44
+    ],
+    "id": "f6658e61b5cb"
+  },
+  {
+    "subject": "Yosoji",
+    "predicate": "visits",
+    "object": "Mount Fuji",
+    "evidence": [
+      "visits Mount Fuji"
+    ],
+    "source_term": [
+      "Yosoji"
+    ],
+    "pages": [
+      134,
+      135
+    ],
+    "id": "9bb7d16b647d"
+  },
+  {
+    "subject": "Sentaro",
+    "predicate": "visits",
+    "object": "Youth, The Land of Perpetual",
+    "evidence": [
+      "Visit of Sentaro to"
+    ],
+    "source_term": [
+      "Youth, The Land of Perpetual"
+    ],
+    "pages": [
+      133,
+      134
+    ],
+    "id": "24746a654cbe"
+  },
+  {
+    "subject": "Zembei",
+    "predicate": "parent_of",
+    "object": "Shingé",
+    "evidence": [
+      "Father of Shingé"
+    ],
+    "source_term": [
+      "Zembei"
+    ],
+    "pages": [
+      168
+    ],
+    "id": "e967db62f465"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "86529f1a9a13"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "child_of",
+    "object": "Izanami",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "a5fc5aa23108"
+  },
+  {
+    "subject": "Ame-waka",
+    "predicate": "friend_of",
+    "object": "Aji-shi-ki",
+    "evidence": [
+      "Friend of Ame-waka"
+    ],
+    "source_term": [
+      "Aji-shi-ki"
+    ],
+    "pages": [
+      403
+    ],
+    "id": "19f6db8b614e"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "parent_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Daughter of Izanagi"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "1eefaa4e45a7"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "parent_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Daughter of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "4b6651ce500b"
+  },
+  {
+    "subject": "Amitâbha",
+    "predicate": "parent_of",
+    "object": "Kwanjin",
+    "evidence": [
+      "the spiritual son of Amitâbha"
+    ],
+    "source_term": [
+      "Amitâbha"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "2ec496af9157"
+  },
+  {
+    "subject": "Asagao",
+    "predicate": "friend_of",
+    "object": "Asaka",
+    "evidence": [
+      "Friend of Asagao"
+    ],
+    "source_term": [
+      "Asaka"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "0a2a330efb72"
+  },
+  {
+    "subject": "Tenadzuchi",
+    "predicate": "spouse_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "husband of Tenadzuchi"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "8c7a1f194f72"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "spouse_of",
+    "object": "Emperor Koso",
+    "evidence": [
+      "Emperor Koso woos and weds Kohaku Jo"
+    ],
+    "source_term": [
+      "China"
+    ],
+    "pages": [
+      406
+    ],
+    "id": "74a4d920d28f"
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "parent_of",
+    "object": "Chiyodō",
+    "evidence": [
+      "Child of Heitaro"
+    ],
+    "source_term": [
+      "Chiyodō"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "0d3b99064387"
+  },
+  {
+    "subject": "Daikoku",
+    "predicate": "parent_of",
+    "object": "Ebisu",
+    "evidence": [
+      "Ebisu (his son)",
+      "son of Daikoku"
+    ],
+    "source_term": [
+      "Daikoku",
+      "Ebisu"
+    ],
+    "pages": [
+      407,
+      408
+    ],
+    "id": "e4ce01700fe4"
+  },
+  {
+    "subject": "a Hindu king",
+    "predicate": "parent_of",
+    "object": "Daruma",
+    "evidence": [
+      "Son of a Hindu king"
+    ],
+    "source_term": [
+      "Daruma"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "c0fc108fcbed"
+  },
+  {
+    "subject": "Dragon King (of the Sea)",
+    "predicate": "parent_of",
+    "object": "Otohime, The Princess",
+    "evidence": [
+      "Otohime the daughter of"
+    ],
+    "source_term": [
+      "Dragon King (of the Sea)"
+    ],
+    "pages": [
+      408
+    ],
+    "id": "b77b8b2f1ed1"
+  },
+  {
+    "subject": "God of the Firmament",
+    "predicate": "parent_of",
+    "object": "Tanabata",
+    "evidence": [
+      "Tanabata daughter of",
+      "daughter of the God of the Firmament"
+    ],
+    "source_term": [
+      "Firmament, God of the",
+      "Tanabata"
+    ],
+    "pages": [
+      409,
+      126,
+      127
+    ],
+    "id": "2751391edd88"
+  },
+  {
+    "subject": "Dainichi",
+    "predicate": "identified_with",
+    "object": "Fudo",
+    "evidence": [
+      "Identified with Dainichi"
+    ],
+    "source_term": [
+      "Fudo"
+    ],
+    "pages": [
+      409
+    ],
+    "id": "0a7f44210687"
+  },
+  {
+    "subject": "Willow Wife",
+    "predicate": "spouse_of",
+    "object": "Heitaro",
+    "evidence": [
+      "married Willow Wife"
+    ],
+    "source_term": [
+      "Heitaro"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "25383c8a0a79"
+  },
+  {
+    "subject": "Ninigi and Ko-no-Hana",
+    "predicate": "parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoderi ('Fire-shine')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "35494d703ad3"
+  },
+  {
+    "subject": "Ninigi and Ko-no-Hana",
+    "predicate": "parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "82871cc6e061"
+  },
+  {
+    "subject": "Kato Sayemon",
+    "predicate": "parent_of",
+    "object": "Ishidomaro",
+    "evidence": [
+      "Son of Kato Sayemon",
+      "Ishidomaro son of"
+    ],
+    "source_term": [
+      "Ishidomaro",
+      "Sayemon, Kato"
+    ],
+    "pages": [
+      413,
+      370,
+      371
+    ],
+    "id": "0b9cbbbadf30"
+  },
+  {
+    "subject": "youngest daughter of Prince Sanjo",
+    "predicate": "spouse_of",
+    "object": "Issunboshi",
+    "evidence": [
+      "marries youngest daughter of Prince Sanjo"
+    ],
+    "source_term": [
+      "Issunboshi ('One-Inch Priest')"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "31154adbedee"
+  },
+  {
+    "subject": "Spirit of Death-Stone",
+    "predicate": "spouse_of",
+    "object": "Emperor Iuwao",
+    "evidence": [
+      "Spirit of Death-Stone the consort of"
+    ],
+    "source_term": [
+      "Iuwao, Emperor"
+    ],
+    "pages": [
+      413
+    ],
+    "id": "9a165e67de2b"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "spouse_of",
+    "object": "Izanagi",
+    "evidence": [
+      "desire to become husband and wife, 22; their marriage"
+    ],
+    "source_term": [
+      "Izanagi and Izanami"
+    ],
+    "pages": [
+      413,
+      414
+    ],
+    "id": "78095728d14a"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "parent_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Kagu-tsuchi"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "6e8393068b37"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "parent_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Kagu-tsuchi"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "38cc0aa0a1b0"
+  },
+  {
+    "subject": "Matakichi",
+    "predicate": "child_of",
+    "object": "Kansuke",
+    "evidence": [
+      "Father of Matakichi"
+    ],
+    "source_term": [
+      "Kansuke"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "2aa24e1fe763"
+  },
+  {
+    "subject": "Kiku",
+    "predicate": "spouse_of",
+    "object": "Sawara",
+    "evidence": [
+      "Sawara weds"
+    ],
+    "source_term": [
+      "Kiku ('Chrysanthemum')"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "0a5f1ba9cd09"
+  },
+  {
+    "subject": "Kiyomori",
+    "predicate": "spouse_of",
+    "object": "Tokiwa",
+    "evidence": [
+      "Tokiwa, widow of Yoshitomo, weds",
+      "weds Kiyomori"
+    ],
+    "source_term": [
+      "Kiyomori",
+      "Tokiwa"
+    ],
+    "pages": [
+      416,
+      41
+    ],
+    "id": "9198b07202e6"
+  },
+  {
+    "subject": "Emperor of China",
+    "predicate": "spouse_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "weds Emperor of China"
+    ],
+    "source_term": [
+      "Kohaku Jo"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "2c341dec0ae2"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "identified_with",
+    "object": "Kompira",
+    "evidence": [
+      "identified with Susa-no-o"
+    ],
+    "source_term": [
+      "Kompira"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "5732bd51fe38"
+  },
+  {
+    "subject": "Ninigi",
+    "predicate": "spouse_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "weds Ninigi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "579850138411"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "child_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "28312d131403"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "child_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "c1ffe10f29a6"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "spouse_of",
+    "object": "Koso",
+    "evidence": [
+      "woos and weds Kohaku Jo"
+    ],
+    "source_term": [
+      "Koso"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "a11959656052"
+  },
+  {
+    "subject": "Yurine",
+    "predicate": "parent_of",
+    "object": "Koyuri",
+    "evidence": [
+      "Son of Yurine",
+      "Koyuri, son of"
+    ],
+    "source_term": [
+      "Koyuri",
+      "Yurine"
+    ],
+    "pages": [
+      417,
+      359,
+      362
+    ],
+    "id": "2c3308d36c69"
+  },
+  {
+    "subject": "Te-nadzuchi",
+    "predicate": "parent_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Daughter of Ashi-nadzuchi and Te-nadzuchi",
+      "mother of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')",
+      "Te-nadzuchi"
+    ],
+    "pages": [
+      417,
+      29
+    ],
+    "id": "94aadafcecf7"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "spouse_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "wooed and wedded by Susa-no-o"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "6b1bc636047a"
+  },
+  {
+    "subject": "Princess Miyadzu",
+    "predicate": "spouse_of",
+    "object": "Yamato Take, Prince",
+    "evidence": [
+      "Prince Yamato meets and weds"
+    ],
+    "source_term": [
+      "Miyadzu, Princess"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "dd2da24531b0"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "parent_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "4b6c189e9ad2"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "parent_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "650cf3843ff4"
+  },
+  {
+    "subject": "Princess Aya",
+    "predicate": "child_of",
+    "object": "Naizen-no-jo, The Lord",
+    "evidence": [
+      "Father of the Princess Aya"
+    ],
+    "source_term": [
+      "Naizen-no-jo, The Lord"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "25bf86d2b70c"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "child_of",
+    "object": "Ningi",
+    "evidence": [
+      "Hoderi... and Hoori, sons of"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "6e1a2559d8ec"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "child_of",
+    "object": "Ningi",
+    "evidence": [
+      "Hoderi... and Hoori, sons of"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "df5c8645ac2a"
+  },
+  {
+    "subject": "O Cho San",
+    "predicate": "sibling_of",
+    "object": "Gisuke",
+    "evidence": [
+      "Gisuke the brother of"
+    ],
+    "source_term": [
+      "O Cho San"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "9d7077906341"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "spouse_of",
+    "object": "Princess Ototachibana",
+    "evidence": [
+      "Wife of Prince Yamato"
+    ],
+    "source_term": [
+      "Ototachibana, Princess"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "54e6c7e0274e"
+  },
+  {
+    "subject": "Dragon Princess",
+    "predicate": "spouse_of",
+    "object": "Rin-jin",
+    "evidence": [
+      "takes wife a Dragon Princess"
+    ],
+    "source_term": [
+      "Rin-jin"
+    ],
+    "pages": [
+      56,
+      272,
+      275
+    ],
+    "id": "03445b5c9ccf"
+  },
+  {
+    "subject": "Sodzu-Baba",
+    "predicate": "spouse_of",
+    "object": "Ten Datsu-Ba",
+    "evidence": [
+      "Ten Datsu-Ba, husband of"
+    ],
+    "source_term": [
+      "Sodzu-baba"
+    ],
+    "pages": [
+      222
+    ],
+    "id": "2551ebd3a9f5"
+  },
+  {
+    "subject": "Tamana",
+    "predicate": "spouse_of",
+    "object": "Tōtarō",
+    "evidence": [
+      "Tōtarō weds",
+      "marries Tamana"
+    ],
+    "source_term": [
+      "Tamana",
+      "Tōtarō"
+    ],
+    "pages": [
+      377,
+      379,
+      376
+    ],
+    "id": "1884ab83f563"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "spouse_of",
+    "object": "Te-nadzuchi",
+    "evidence": [
+      "Wife of Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Te-nadzuchi"
+    ],
+    "pages": [
+      29
+    ],
+    "id": "694598c2781e"
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "spouse_of",
+    "object": "Tokiwa",
+    "evidence": [
+      "Wife of Yoshitomo",
+      "Tokiwa wife of"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitomo"
+    ],
+    "pages": [
+      41,
+      351,
+      352
+    ],
+    "id": "182241a258db"
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "parent_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "mother of Yoshitsune",
+      "his mother Tokiwa"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitsune"
+    ],
+    "pages": [
+      41,
+      39,
+      44
+    ],
+    "id": "658eded7202a"
+  },
+  {
+    "subject": "Tomozō",
+    "predicate": "spouse_of",
+    "object": "Mine",
+    "evidence": [
+      "Mine the wife of"
+    ],
+    "source_term": [
+      "Tomozō"
+    ],
+    "pages": [
+      230,
+      233
+    ],
+    "id": "409f2a958abc"
+  },
+  {
+    "subject": "Deity of the Field-paths",
+    "predicate": "spouse_of",
+    "object": "Uzume",
+    "evidence": [
+      "given by Ningi to the Deity of the Field-paths as wife"
+    ],
+    "source_term": [
+      "Uzume"
+    ],
+    "pages": [
+      28,
+      33
+    ],
+    "id": "d4d21c67be39"
+  },
+  {
+    "subject": "Kintaro",
+    "predicate": "child_of",
+    "object": "Yaégiri",
+    "evidence": [
+      "gives birth to Kintaro"
+    ],
+    "source_term": [
+      "Yaégiri"
+    ],
+    "pages": [
+      367
+    ],
+    "id": "f14564e8a114"
+  },
+  {
+    "subject": "King Keiko",
+    "predicate": "parent_of",
+    "object": "Yamato Take, Prince",
+    "evidence": [
+      "Youngest son of King Keiko"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "ab7f3b504f99"
+  },
+  {
+    "subject": "dragon",
+    "predicate": "parent_of",
+    "object": "Yao, Emperor",
+    "evidence": [
+      "Reputed son of a dragon"
+    ],
+    "source_term": [
+      "Yao, Emperor"
+    ],
+    "pages": [
+      362
+    ],
+    "id": "b90b6baae320"
+  },
+  {
+    "subject": "Soul of the Mirror",
+    "predicate": "identified_with",
+    "object": "Yayoi",
+    "evidence": [
+      "the Soul of the Mirror"
+    ],
+    "source_term": [
+      "Yayoi"
+    ],
+    "pages": [
+      193,
+      194
+    ],
+    "id": "f2dd8436d249"
+  },
+  {
+    "subject": "Shingé",
+    "predicate": "child_of",
+    "object": "Zembei",
+    "evidence": [
+      "Father of Shingé"
+    ],
+    "source_term": [
+      "Zembei"
+    ],
+    "pages": [
+      168
+    ],
+    "id": "74ed597d5faa"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "parent_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "8893df7b4b7e"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "parent_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "7c169ca2c7d1"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "grandparent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Grandparent of Hoderi via Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "91b870242a85"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "grandparent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Grandparent of Hoori via Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "4784a143ab97"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "grandchild_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Grandparent of Hoderi via Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "7c62f3d1de36"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "grandchild_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Grandparent of Hoori via Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "16b2c881ef74"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "step_parent_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Te-nadzuchi"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi",
+      "Te-nadzuchi"
+    ],
+    "pages": [],
+    "id": "7701afa4b60d"
+  },
+  {
+    "subject": "Tenadzuchi",
+    "predicate": "step_parent_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Tenadzuchi",
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "9eaffab545f8"
+  },
+  {
+    "subject": "Willow Wife",
+    "predicate": "step_parent_of",
+    "object": "Chiyodō",
+    "evidence": [
+      "Step-parent of Chiyodō via spouse Heitaro"
+    ],
+    "source_term": [
+      "Willow Wife",
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "b41a15e6946e"
+  },
+  {
+    "subject": "Higo",
+    "predicate": "step_parent_of",
+    "object": "Chiyodō",
+    "evidence": [
+      "Step-parent of Chiyodō via spouse Heitaro"
+    ],
+    "source_term": [
+      "Higo",
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "a407756f39a5"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "step_parent_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Step-parent of Ama-terasu via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "3a2c7009a196"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "step_parent_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "Step-parent of Kagu-tsuchi via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "9ca1fe88cd6b"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "step_parent_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "Step-parent of Tsuki-yumi via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "09f3392d57b3"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "step_parent_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "Step-parent of Susa-no-o via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "c8555052bc35"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "step_parent_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Step-parent of Ama-terasu via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "541b9e1ca850"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "step_parent_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "Step-parent of Kagu-tsuchi via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "745b2d8dcbc3"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "step_parent_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "Step-parent of Tsuki-yumi via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "35342303b6c5"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "step_parent_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "Step-parent of Susa-no-o via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "77851cebe897"
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "step_parent_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Yoshitomo"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitomo"
+    ],
+    "pages": [],
+    "id": "77bb17a878cc"
+  },
+  {
+    "subject": "Kiyomori",
+    "predicate": "step_parent_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Tokiwa"
+    ],
+    "source_term": [
+      "Kiyomori",
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "2d785090b875"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "step_parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ningi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime",
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "9c9a5315b8b3"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "step_parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ningi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime",
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "ccc416cbf384"
+  },
+  {
+    "subject": "Ninigi",
+    "predicate": "step_parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ninigi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "2fbf85907904"
+  },
+  {
+    "subject": "Ninigi",
+    "predicate": "step_parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ninigi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "bc1a3962cf03"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "step_parent_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ningi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "7a21731dba35"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "step_parent_of",
+    "object": "Hoori",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ningi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "514ca4f1c561"
+  },
+  {
+    "subject": "Te-nadzuchi",
+    "predicate": "step_parent_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Te-nadzuchi",
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "3c84012d107d"
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "step_parent_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Tokiwa"
+    ],
+    "source_term": [
+      "Yoshitomo",
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "a4f64e0f2fe3"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "step_child_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Te-nadzuchi"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi",
+      "Te-nadzuchi"
+    ],
+    "pages": [],
+    "id": "9266c369b10a"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "step_child_of",
+    "object": "Tenadzuchi",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Tenadzuchi",
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "4143bf66de5c"
+  },
+  {
+    "subject": "Chiyodō",
+    "predicate": "step_child_of",
+    "object": "Willow Wife",
+    "evidence": [
+      "Step-parent of Chiyodō via spouse Heitaro"
+    ],
+    "source_term": [
+      "Willow Wife",
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "bca735b6223b"
+  },
+  {
+    "subject": "Chiyodō",
+    "predicate": "step_child_of",
+    "object": "Higo",
+    "evidence": [
+      "Step-parent of Chiyodō via spouse Heitaro"
+    ],
+    "source_term": [
+      "Higo",
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "db3b695fee51"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "step_child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Step-parent of Ama-terasu via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "977afe109404"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "step_child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Step-parent of Kagu-tsuchi via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "692ee6f7d4ac"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "step_child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Step-parent of Tsuki-yumi via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "2196215b7084"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "step_child_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Step-parent of Susa-no-o via spouse Izanami"
+    ],
+    "source_term": [
+      "Izanagi",
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "eed678d81219"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "step_child_of",
+    "object": "Izanami",
+    "evidence": [
+      "Step-parent of Ama-terasu via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "7fbac45830bc"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "step_child_of",
+    "object": "Izanami",
+    "evidence": [
+      "Step-parent of Kagu-tsuchi via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "34735557222b"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "step_child_of",
+    "object": "Izanami",
+    "evidence": [
+      "Step-parent of Tsuki-yumi via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "47414cba50d3"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "step_child_of",
+    "object": "Izanami",
+    "evidence": [
+      "Step-parent of Susa-no-o via spouse Izanagi"
+    ],
+    "source_term": [
+      "Izanami",
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "2785ac2e0ad8"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "step_child_of",
+    "object": "Tokiwa",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Yoshitomo"
+    ],
+    "source_term": [
+      "Tokiwa",
+      "Yoshitomo"
+    ],
+    "pages": [],
+    "id": "445b04ae2539"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "step_child_of",
+    "object": "Kiyomori",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Tokiwa"
+    ],
+    "source_term": [
+      "Kiyomori",
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "d8d15d976492"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "step_child_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ningi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime",
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "7b4b89068d80"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "step_child_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ningi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime",
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "a7e95a3d63d7"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "step_child_of",
+    "object": "Ninigi",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ninigi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "0e08961d5c82"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "step_child_of",
+    "object": "Ninigi",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ninigi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "dd72f4061ed4"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "step_child_of",
+    "object": "Ningi",
+    "evidence": [
+      "Step-parent of Hoderi via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ningi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "21ffcd2d0272"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "step_child_of",
+    "object": "Ningi",
+    "evidence": [
+      "Step-parent of Hoori via spouse Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Ningi",
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "7dc03f3f490b"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "step_child_of",
+    "object": "Te-nadzuchi",
+    "evidence": [
+      "Step-parent of Kushi-nada-hime via spouse Ashi-nadzuchi"
+    ],
+    "source_term": [
+      "Te-nadzuchi",
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "5ac399881228"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "step_child_of",
+    "object": "Yoshitomo",
+    "evidence": [
+      "Step-parent of Yoshitsune via spouse Tokiwa"
+    ],
+    "source_term": [
+      "Yoshitomo",
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "32b886cf92ca"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "ancestor_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Ancestor of Ama-terasu"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "5e1b833e40f6"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "descendant_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Ancestor of Ama-terasu"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "03c216dbe890"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "ancestor_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "Ancestor of Kagu-tsuchi"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "59cc3473cffa"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "descendant_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Ancestor of Kagu-tsuchi"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "0d72d2187ca7"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "ancestor_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "Ancestor of Tsuki-yumi"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "62f1c10de3bd"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "descendant_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Ancestor of Tsuki-yumi"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "016c53cb1b2a"
+  },
+  {
+    "subject": "Izanagi",
+    "predicate": "ancestor_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "Ancestor of Susa-no-o"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "1e41e8b9f43d"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "descendant_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Ancestor of Susa-no-o"
+    ],
+    "source_term": [
+      "Izanagi"
+    ],
+    "pages": [],
+    "id": "27fbbd370d7e"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "ancestor_of",
+    "object": "Ama-terasu",
+    "evidence": [
+      "Ancestor of Ama-terasu"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "61837c6552b6"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "descendant_of",
+    "object": "Izanami",
+    "evidence": [
+      "Ancestor of Ama-terasu"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "646b7b00160d"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "ancestor_of",
+    "object": "Kagu-tsuchi",
+    "evidence": [
+      "Ancestor of Kagu-tsuchi"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "2442d49caeaf"
+  },
+  {
+    "subject": "Kagu-tsuchi",
+    "predicate": "descendant_of",
+    "object": "Izanami",
+    "evidence": [
+      "Ancestor of Kagu-tsuchi"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "5f4a333940fa"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "ancestor_of",
+    "object": "Tsuki-yumi",
+    "evidence": [
+      "Ancestor of Tsuki-yumi"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "1db64fe34be3"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "descendant_of",
+    "object": "Izanami",
+    "evidence": [
+      "Ancestor of Tsuki-yumi"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "8092d1417ffd"
+  },
+  {
+    "subject": "Izanami",
+    "predicate": "ancestor_of",
+    "object": "Susa-no-o",
+    "evidence": [
+      "Ancestor of Susa-no-o"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "84be4c428ddf"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "descendant_of",
+    "object": "Izanami",
+    "evidence": [
+      "Ancestor of Susa-no-o"
+    ],
+    "source_term": [
+      "Izanami"
+    ],
+    "pages": [],
+    "id": "3ff3db48b182"
+  },
+  {
+    "subject": "Amitâbha",
+    "predicate": "ancestor_of",
+    "object": "Kwanjin",
+    "evidence": [
+      "Ancestor of Kwanjin"
+    ],
+    "source_term": [
+      "Amitâbha"
+    ],
+    "pages": [],
+    "id": "1029ced72147"
+  },
+  {
+    "subject": "Kwanjin",
+    "predicate": "descendant_of",
+    "object": "Amitâbha",
+    "evidence": [
+      "Ancestor of Kwanjin"
+    ],
+    "source_term": [
+      "Amitâbha"
+    ],
+    "pages": [],
+    "id": "46ba0b4cf9ec"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "ancestor_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Ancestor of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "8cbdc288496a"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "descendant_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "Ancestor of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [],
+    "id": "429920a119a7"
+  },
+  {
+    "subject": "Kamatari",
+    "predicate": "ancestor_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "Ancestor of Kohaku Jo"
+    ],
+    "source_term": [
+      "Kamatari"
+    ],
+    "pages": [],
+    "id": "b69225bc2def"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "descendant_of",
+    "object": "Kamatari",
+    "evidence": [
+      "Ancestor of Kohaku Jo"
+    ],
+    "source_term": [
+      "Kamatari"
+    ],
+    "pages": [],
+    "id": "6c3b502c793f"
+  },
+  {
+    "subject": "Heitaro",
+    "predicate": "ancestor_of",
+    "object": "Chiyodō",
+    "evidence": [
+      "Ancestor of Chiyodō"
+    ],
+    "source_term": [
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "60593b073fcd"
+  },
+  {
+    "subject": "Chiyodō",
+    "predicate": "descendant_of",
+    "object": "Heitaro",
+    "evidence": [
+      "Ancestor of Chiyodō"
+    ],
+    "source_term": [
+      "Heitaro"
+    ],
+    "pages": [],
+    "id": "6482fa444e5e"
+  },
+  {
+    "subject": "Daikoku",
+    "predicate": "ancestor_of",
+    "object": "Ebisu",
+    "evidence": [
+      "Ancestor of Ebisu"
+    ],
+    "source_term": [
+      "Daikoku"
+    ],
+    "pages": [],
+    "id": "f17246c14c13"
+  },
+  {
+    "subject": "Ebisu",
+    "predicate": "descendant_of",
+    "object": "Daikoku",
+    "evidence": [
+      "Ancestor of Ebisu"
+    ],
+    "source_term": [
+      "Daikoku"
+    ],
+    "pages": [],
+    "id": "8442669a7a54"
+  },
+  {
+    "subject": "a Hindu king",
+    "predicate": "ancestor_of",
+    "object": "Daruma",
+    "evidence": [
+      "Ancestor of Daruma"
+    ],
+    "source_term": [
+      "a Hindu king"
+    ],
+    "pages": [],
+    "id": "f39709e802db"
+  },
+  {
+    "subject": "Daruma",
+    "predicate": "descendant_of",
+    "object": "a Hindu king",
+    "evidence": [
+      "Ancestor of Daruma"
+    ],
+    "source_term": [
+      "a Hindu king"
+    ],
+    "pages": [],
+    "id": "49fcf61f31ab"
+  },
+  {
+    "subject": "Dragon King (of the Sea)",
+    "predicate": "ancestor_of",
+    "object": "Otohime, The Princess",
+    "evidence": [
+      "Ancestor of Otohime, The Princess"
+    ],
+    "source_term": [
+      "Dragon King (of the Sea)"
+    ],
+    "pages": [],
+    "id": "2780556083f4"
+  },
+  {
+    "subject": "Otohime, The Princess",
+    "predicate": "descendant_of",
+    "object": "Dragon King (of the Sea)",
+    "evidence": [
+      "Ancestor of Otohime, The Princess"
+    ],
+    "source_term": [
+      "Dragon King (of the Sea)"
+    ],
+    "pages": [],
+    "id": "35bcbb8fea13"
+  },
+  {
+    "subject": "God of the Firmament",
+    "predicate": "ancestor_of",
+    "object": "Tanabata",
+    "evidence": [
+      "Ancestor of Tanabata"
+    ],
+    "source_term": [
+      "God of the Firmament"
+    ],
+    "pages": [],
+    "id": "2f1db076b6d8"
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "descendant_of",
+    "object": "God of the Firmament",
+    "evidence": [
+      "Ancestor of Tanabata"
+    ],
+    "source_term": [
+      "God of the Firmament"
+    ],
+    "pages": [],
+    "id": "b7a6bab2b5c2"
+  },
+  {
+    "subject": "God of the Sea",
+    "predicate": "ancestor_of",
+    "object": "Toyo-tama",
+    "evidence": [
+      "Ancestor of Toyo-tama"
+    ],
+    "source_term": [
+      "God of the Sea"
+    ],
+    "pages": [],
+    "id": "abfbb94b354e"
+  },
+  {
+    "subject": "Toyo-tama",
+    "predicate": "descendant_of",
+    "object": "God of the Sea",
+    "evidence": [
+      "Ancestor of Toyo-tama"
+    ],
+    "source_term": [
+      "God of the Sea"
+    ],
+    "pages": [],
+    "id": "89e5fb8d91fd"
+  },
+  {
+    "subject": "Ninigi and Ko-no-Hana",
+    "predicate": "ancestor_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ninigi and Ko-no-Hana"
+    ],
+    "pages": [],
+    "id": "8084d2996a68"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "descendant_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ninigi and Ko-no-Hana"
+    ],
+    "pages": [],
+    "id": "430110da7403"
+  },
+  {
+    "subject": "Ninigi and Ko-no-Hana",
+    "predicate": "ancestor_of",
+    "object": "Hoori",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ninigi and Ko-no-Hana"
+    ],
+    "pages": [],
+    "id": "f70126bab189"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "descendant_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ninigi and Ko-no-Hana"
+    ],
+    "pages": [],
+    "id": "f886afbfda61"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "ancestor_of",
+    "object": "Iha-naga",
+    "evidence": [
+      "Ancestor of Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "28eba35420e0"
+  },
+  {
+    "subject": "Iha-naga",
+    "predicate": "descendant_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Ancestor of Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "bc22fbd6a63d"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "ancestor_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "Ancestor of Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "d657910135e7"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "descendant_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Ancestor of Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "95056acd982c"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "ancestor_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "fe6a8c9e1152"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "descendant_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "fdc293457c78"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "ancestor_of",
+    "object": "Hoori",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "f0c451e3eda4"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "descendant_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [],
+    "id": "b7c9b2381701"
+  },
+  {
+    "subject": "Iijima",
+    "predicate": "ancestor_of",
+    "object": "Tsuyu",
+    "evidence": [
+      "Ancestor of Tsuyu"
+    ],
+    "source_term": [
+      "Iijima"
+    ],
+    "pages": [],
+    "id": "9ca6da02c466"
+  },
+  {
+    "subject": "Tsuyu",
+    "predicate": "descendant_of",
+    "object": "Iijima",
+    "evidence": [
+      "Ancestor of Tsuyu"
+    ],
+    "source_term": [
+      "Iijima"
+    ],
+    "pages": [],
+    "id": "41c1a9df1c83"
+  },
+  {
+    "subject": "Kato Sayemon",
+    "predicate": "ancestor_of",
+    "object": "Ishidomaro",
+    "evidence": [
+      "Ancestor of Ishidomaro"
+    ],
+    "source_term": [
+      "Kato Sayemon"
+    ],
+    "pages": [],
+    "id": "fd816fc4760c"
+  },
+  {
+    "subject": "Ishidomaro",
+    "predicate": "descendant_of",
+    "object": "Kato Sayemon",
+    "evidence": [
+      "Ancestor of Ishidomaro"
+    ],
+    "source_term": [
+      "Kato Sayemon"
+    ],
+    "pages": [],
+    "id": "6287117d5ea4"
+  },
+  {
+    "subject": "Empress Jingo",
+    "predicate": "ancestor_of",
+    "object": "Ojin",
+    "evidence": [
+      "Ancestor of Ojin"
+    ],
+    "source_term": [
+      "Empress Jingo"
+    ],
+    "pages": [],
+    "id": "ecfb558ff2b4"
+  },
+  {
+    "subject": "Ojin",
+    "predicate": "descendant_of",
+    "object": "Empress Jingo",
+    "evidence": [
+      "Ancestor of Ojin"
+    ],
+    "source_term": [
+      "Empress Jingo"
+    ],
+    "pages": [],
+    "id": "41aab403d01b"
+  },
+  {
+    "subject": "Kansuke",
+    "predicate": "ancestor_of",
+    "object": "Matakichi",
+    "evidence": [
+      "Ancestor of Matakichi"
+    ],
+    "source_term": [
+      "Kansuke"
+    ],
+    "pages": [],
+    "id": "39f090c23684"
+  },
+  {
+    "subject": "Matakichi",
+    "predicate": "descendant_of",
+    "object": "Kansuke",
+    "evidence": [
+      "Ancestor of Matakichi"
+    ],
+    "source_term": [
+      "Kansuke"
+    ],
+    "pages": [],
+    "id": "25505502837d"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "ancestor_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "875e88d287f2"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "descendant_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "60b68431fd96"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "ancestor_of",
+    "object": "Hoori",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "5fca73bda224"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "descendant_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [],
+    "id": "7526bf272950"
+  },
+  {
+    "subject": "Yurine",
+    "predicate": "ancestor_of",
+    "object": "Koyuri",
+    "evidence": [
+      "Ancestor of Koyuri"
+    ],
+    "source_term": [
+      "Yurine"
+    ],
+    "pages": [],
+    "id": "875d58f12640"
+  },
+  {
+    "subject": "Koyuri",
+    "predicate": "descendant_of",
+    "object": "Yurine",
+    "evidence": [
+      "Ancestor of Koyuri"
+    ],
+    "source_term": [
+      "Yurine"
+    ],
+    "pages": [],
+    "id": "a4d9ec6998d5"
+  },
+  {
+    "subject": "Te-nadzuchi",
+    "predicate": "ancestor_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "Ancestor of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Te-nadzuchi"
+    ],
+    "pages": [],
+    "id": "7d4f9f81f292"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "descendant_of",
+    "object": "Te-nadzuchi",
+    "evidence": [
+      "Ancestor of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Te-nadzuchi"
+    ],
+    "pages": [],
+    "id": "1899eb5d9efa"
+  },
+  {
+    "subject": "Naizen-no-jo, The Lord",
+    "predicate": "ancestor_of",
+    "object": "Princess Aya",
+    "evidence": [
+      "Ancestor of Princess Aya"
+    ],
+    "source_term": [
+      "Naizen-no-jo, The Lord"
+    ],
+    "pages": [],
+    "id": "b2a220967b44"
+  },
+  {
+    "subject": "Princess Aya",
+    "predicate": "descendant_of",
+    "object": "Naizen-no-jo, The Lord",
+    "evidence": [
+      "Ancestor of Princess Aya"
+    ],
+    "source_term": [
+      "Naizen-no-jo, The Lord"
+    ],
+    "pages": [],
+    "id": "3680f6fc52ed"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "ancestor_of",
+    "object": "Hoderi",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "ee44fc9d462c"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "descendant_of",
+    "object": "Ningi",
+    "evidence": [
+      "Ancestor of Hoderi"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "ddeeddb9594d"
+  },
+  {
+    "subject": "Ningi",
+    "predicate": "ancestor_of",
+    "object": "Hoori",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "42f8c6f29b9a"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "descendant_of",
+    "object": "Ningi",
+    "evidence": [
+      "Ancestor of Hoori"
+    ],
+    "source_term": [
+      "Ningi"
+    ],
+    "pages": [],
+    "id": "a62b815124b9"
+  },
+  {
+    "subject": "Oribe Shima",
+    "predicate": "ancestor_of",
+    "object": "Tokoyo",
+    "evidence": [
+      "Ancestor of Tokoyo"
+    ],
+    "source_term": [
+      "Oribe Shima"
+    ],
+    "pages": [],
+    "id": "cb400b49c908"
+  },
+  {
+    "subject": "Tokoyo",
+    "predicate": "descendant_of",
+    "object": "Oribe Shima",
+    "evidence": [
+      "Ancestor of Tokoyo"
+    ],
+    "source_term": [
+      "Oribe Shima"
+    ],
+    "pages": [],
+    "id": "7ee3a9f65aaa"
+  },
+  {
+    "subject": "Tokiwa",
+    "predicate": "ancestor_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Ancestor of Yoshitsune"
+    ],
+    "source_term": [
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "76e4101e76d9"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "descendant_of",
+    "object": "Tokiwa",
+    "evidence": [
+      "Ancestor of Yoshitsune"
+    ],
+    "source_term": [
+      "Tokiwa"
+    ],
+    "pages": [],
+    "id": "cb009dbcef75"
+  },
+  {
+    "subject": "Yaégiri",
+    "predicate": "ancestor_of",
+    "object": "Kintaro",
+    "evidence": [
+      "Ancestor of Kintaro"
+    ],
+    "source_term": [
+      "Yaégiri"
+    ],
+    "pages": [],
+    "id": "7d4bff4e426c"
+  },
+  {
+    "subject": "Kintaro",
+    "predicate": "descendant_of",
+    "object": "Yaégiri",
+    "evidence": [
+      "Ancestor of Kintaro"
+    ],
+    "source_term": [
+      "Yaégiri"
+    ],
+    "pages": [],
+    "id": "61f0d6530c6d"
+  },
+  {
+    "subject": "King Keiko",
+    "predicate": "ancestor_of",
+    "object": "Yamato Take, Prince",
+    "evidence": [
+      "Ancestor of Yamato Take, Prince"
+    ],
+    "source_term": [
+      "King Keiko"
+    ],
+    "pages": [],
+    "id": "317a208de8f2"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "descendant_of",
+    "object": "King Keiko",
+    "evidence": [
+      "Ancestor of Yamato Take, Prince"
+    ],
+    "source_term": [
+      "King Keiko"
+    ],
+    "pages": [],
+    "id": "83470ebb3c7f"
+  },
+  {
+    "subject": "dragon",
+    "predicate": "ancestor_of",
+    "object": "Yao, Emperor",
+    "evidence": [
+      "Ancestor of Yao, Emperor"
+    ],
+    "source_term": [
+      "dragon"
+    ],
+    "pages": [],
+    "id": "563847f32e4f"
+  },
+  {
+    "subject": "Yao, Emperor",
+    "predicate": "descendant_of",
+    "object": "dragon",
+    "evidence": [
+      "Ancestor of Yao, Emperor"
+    ],
+    "source_term": [
+      "dragon"
+    ],
+    "pages": [],
+    "id": "b000a0c64ae6"
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "ancestor_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Ancestor of Yoshitsune"
+    ],
+    "source_term": [
+      "Yoshitomo"
+    ],
+    "pages": [],
+    "id": "eee077af387c"
+  },
+  {
+    "subject": "Yoshitsune",
+    "predicate": "descendant_of",
+    "object": "Yoshitomo",
+    "evidence": [
+      "Ancestor of Yoshitsune"
+    ],
+    "source_term": [
+      "Yoshitomo"
+    ],
+    "pages": [],
+    "id": "4da5da8b0300"
+  },
+  {
+    "subject": "Zembei",
+    "predicate": "ancestor_of",
+    "object": "Shingé",
+    "evidence": [
+      "Ancestor of Shingé"
+    ],
+    "source_term": [
+      "Zembei"
+    ],
+    "pages": [],
+    "id": "ea0dc236197f"
+  },
+  {
+    "subject": "Shingé",
+    "predicate": "descendant_of",
+    "object": "Zembei",
+    "evidence": [
+      "Ancestor of Shingé"
+    ],
+    "source_term": [
+      "Zembei"
+    ],
+    "pages": [],
+    "id": "1beedcf88f1a"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "daughter_of",
+    "object": "Izanagi",
+    "evidence": [
+      "Daughter of Izanagi"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "ffd6ecae849e"
+  },
+  {
+    "subject": "Ama-terasu",
+    "predicate": "daughter_of",
+    "object": "Izanami",
+    "evidence": [
+      "Daughter of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Ama-terasu"
+    ],
+    "pages": [
+      403,
+      404
+    ],
+    "id": "2db2fcde5956"
+  },
+  {
+    "subject": "Kwanjin",
+    "predicate": "son_of",
+    "object": "Amitâbha",
+    "evidence": [
+      "the spiritual son of Amitâbha"
+    ],
+    "source_term": [
+      "Amitâbha"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "ad7e4af38a3c"
+  },
+  {
+    "subject": "Ashi-nadzuchi",
+    "predicate": "father_of",
+    "object": "Kushi-nada-hime",
+    "evidence": [
+      "father of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Ashi-nadzuchi"
+    ],
+    "pages": [
+      404
+    ],
+    "id": "fcbde03a7905"
+  },
+  {
+    "subject": "Kohaku Jo",
+    "predicate": "daughter_of",
+    "object": "Kamatari",
+    "evidence": [
+      "daughter of Kamatari",
+      "Daughter of Kamatari"
+    ],
+    "source_term": [
+      "China",
+      "Kohaku Jo"
+    ],
+    "pages": [
+      406,
+      417
+    ],
+    "id": "c1602cd34bfd"
+  },
+  {
+    "subject": "Ebisu",
+    "predicate": "son_of",
+    "object": "Daikoku",
+    "evidence": [
+      "Ebisu (his son)",
+      "son of Daikoku"
+    ],
+    "source_term": [
+      "Daikoku",
+      "Ebisu"
+    ],
+    "pages": [
+      407,
+      408
+    ],
+    "id": "e4e3499ee172"
+  },
+  {
+    "subject": "Daruma",
+    "predicate": "son_of",
+    "object": "a Hindu king",
+    "evidence": [
+      "Son of a Hindu king"
+    ],
+    "source_term": [
+      "Daruma"
+    ],
+    "pages": [
+      407
+    ],
+    "id": "c5fee337f5d4"
+  },
+  {
+    "subject": "Otohime, The Princess",
+    "predicate": "daughter_of",
+    "object": "Dragon King (of the Sea)",
+    "evidence": [
+      "Otohime the daughter of"
+    ],
+    "source_term": [
+      "Dragon King (of the Sea)"
+    ],
+    "pages": [
+      408
+    ],
+    "id": "76be674e03d3"
+  },
+  {
+    "subject": "Tanabata",
+    "predicate": "daughter_of",
+    "object": "God of the Firmament",
+    "evidence": [
+      "Tanabata daughter of",
+      "daughter of the God of the Firmament"
+    ],
+    "source_term": [
+      "Firmament, God of the",
+      "Tanabata"
+    ],
+    "pages": [
+      409,
+      126,
+      127
+    ],
+    "id": "17d8fce5a79d"
+  },
+  {
+    "subject": "God of the Sea",
+    "predicate": "father_of",
+    "object": "Toyo-tama",
+    "evidence": [
+      "father of Toyo-tama"
+    ],
+    "source_term": [
+      "God of the Sea"
+    ],
+    "pages": [
+      411
+    ],
+    "id": "02c5e4ffad06"
+  },
+  {
+    "subject": "Hoderi",
+    "predicate": "son_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoderi ('Fire-shine')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "542b1cb154da"
+  },
+  {
+    "subject": "Hoori",
+    "predicate": "son_of",
+    "object": "Ninigi and Ko-no-Hana",
+    "evidence": [
+      "Son of Ninigi and Ko-no-Hana"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "8c80a04b2b00"
+  },
+  {
+    "subject": "Toyo-tama",
+    "predicate": "daughter_of",
+    "object": "God of the Sea",
+    "evidence": [
+      "daughter of the Sea God"
+    ],
+    "source_term": [
+      "Hoori ('Fire-fade')"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "7ef29c005dd8"
+  },
+  {
+    "subject": "Iha-naga",
+    "predicate": "daughter_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "daughter of Oho-yama"
+    ],
+    "source_term": [
+      "Iha-naga"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "07ea1bb2b4dd"
+  },
+  {
+    "subject": "Iijima",
+    "predicate": "father_of",
+    "object": "Tsuyu",
+    "evidence": [
+      "Father of Tsuyu"
+    ],
+    "source_term": [
+      "Iijima"
+    ],
+    "pages": [
+      412
+    ],
+    "id": "52041f20480b"
+  },
+  {
+    "subject": "Ishidomaro",
+    "predicate": "son_of",
+    "object": "Kato Sayemon",
+    "evidence": [
+      "Son of Kato Sayemon",
+      "Ishidomaro son of"
+    ],
+    "source_term": [
+      "Ishidomaro",
+      "Sayemon, Kato"
+    ],
+    "pages": [
+      413,
+      370,
+      371
+    ],
+    "id": "63459163d09f"
+  },
+  {
+    "subject": "Kamatari",
+    "predicate": "father_of",
+    "object": "Kohaku Jo",
+    "evidence": [
+      "father of Kohaku Jo"
+    ],
+    "source_term": [
+      "Kamatari"
+    ],
+    "pages": [
+      415
+    ],
+    "id": "1b94071c8afa"
+  },
+  {
+    "subject": "Kansuke",
+    "predicate": "father_of",
+    "object": "Matakichi",
+    "evidence": [
+      "Father of Matakichi"
+    ],
+    "source_term": [
+      "Kansuke"
+    ],
+    "pages": [
+      416
+    ],
+    "id": "63c9e4b7627a"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "daughter_of",
+    "object": "Oho-yama",
+    "evidence": [
+      "daughter of Oho-yama"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "9df452b8799b"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "mother_of",
+    "object": "Hoderi",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "7751b0b5af82"
+  },
+  {
+    "subject": "Ko-no-Hana-Saku-ya-Hime",
+    "predicate": "mother_of",
+    "object": "Hoori",
+    "evidence": [
+      "mother of Hoderi and Hoori"
+    ],
+    "source_term": [
+      "Ko-no-Hana-Saku-ya-Hime"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "234b34469d4a"
+  },
+  {
+    "subject": "Koyuri",
+    "predicate": "son_of",
+    "object": "Yurine",
+    "evidence": [
+      "Son of Yurine",
+      "Koyuri, son of"
+    ],
+    "source_term": [
+      "Koyuri",
+      "Yurine"
+    ],
+    "pages": [
+      417,
+      359,
+      362
+    ],
+    "id": "009675d4652f"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "daughter_of",
+    "object": "Ashi-nadzuchi",
+    "evidence": [
+      "Daughter of Ashi-nadzuchi and Te-nadzuchi"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')"
+    ],
+    "pages": [
+      417
+    ],
+    "id": "0f6d55dff2d8"
+  },
+  {
+    "subject": "Kushi-nada-hime",
+    "predicate": "daughter_of",
+    "object": "Te-nadzuchi",
+    "evidence": [
+      "Daughter of Ashi-nadzuchi and Te-nadzuchi",
+      "mother of Kushi-nada-hime"
+    ],
+    "source_term": [
+      "Kushi-nada-hime ('Wondrous-Inada-Princess')",
+      "Te-nadzuchi"
+    ],
+    "pages": [
+      417,
+      29
+    ],
+    "id": "0f8d8c11a271"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "son_of",
+    "object": "Izanagi",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "cc692f0e6a16"
+  },
+  {
+    "subject": "Tsuki-yumi",
+    "predicate": "son_of",
+    "object": "Izanami",
+    "evidence": [
+      "son of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Moon God"
+    ],
+    "pages": [
+      420
+    ],
+    "id": "4199cf6aa1eb"
+  },
+  {
+    "subject": "Naizen-no-jo, The Lord",
+    "predicate": "father_of",
+    "object": "Princess Aya",
+    "evidence": [
+      "Father of the Princess Aya"
+    ],
+    "source_term": [
+      "Naizen-no-jo, The Lord"
+    ],
+    "pages": [
+      421
+    ],
+    "id": "388cd520a8f1"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "father_of",
+    "object": "Ko-no-Hana-Saku-ya-Hime",
+    "evidence": [
+      "father of Ko-no-hana and Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "28fc15dff319"
+  },
+  {
+    "subject": "Oho-yama",
+    "predicate": "father_of",
+    "object": "Iha-naga",
+    "evidence": [
+      "father of Ko-no-hana and Iha-naga"
+    ],
+    "source_term": [
+      "Oho-yama"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "d04422eea098"
+  },
+  {
+    "subject": "Ojin",
+    "predicate": "son_of",
+    "object": "Empress Jingo",
+    "evidence": [
+      "Son of Empress Jingo"
+    ],
+    "source_term": [
+      "Ojin"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "3aeda2e7fdc5"
+  },
+  {
+    "subject": "Tokoyo",
+    "predicate": "daughter_of",
+    "object": "Oribe Shima",
+    "evidence": [
+      "Daughter of Oribe Shima"
+    ],
+    "source_term": [
+      "Tokoyo"
+    ],
+    "pages": [
+      334,
+      336
+    ],
+    "id": "40947587b8b8"
+  },
+  {
+    "subject": "Tsuyu",
+    "predicate": "daughter_of",
+    "object": "Iijima",
+    "evidence": [
+      "Daughter of Iijima"
+    ],
+    "source_term": [
+      "Tsuyu"
+    ],
+    "pages": [
+      228,
+      233
+    ],
+    "id": "102f26edf377"
+  },
+  {
+    "subject": "Yamato Take, Prince",
+    "predicate": "son_of",
+    "object": "King Keiko",
+    "evidence": [
+      "Youngest son of King Keiko"
+    ],
+    "source_term": [
+      "Yamato Take, Prince"
+    ],
+    "pages": [
+      51,
+      57
+    ],
+    "id": "1c7d2df9a7c6"
+  },
+  {
+    "subject": "Yao, Emperor",
+    "predicate": "son_of",
+    "object": "dragon",
+    "evidence": [
+      "Reputed son of a dragon"
+    ],
+    "source_term": [
+      "Yao, Emperor"
+    ],
+    "pages": [
+      362
+    ],
+    "id": "119c6a0186c5"
+  },
+  {
+    "subject": "Yoshitomo",
+    "predicate": "father_of",
+    "object": "Yoshitsune",
+    "evidence": [
+      "Father of Yoshitsune"
+    ],
+    "source_term": [
+      "Yoshitomo"
+    ],
+    "pages": [
+      41,
+      351,
+      352
+    ],
+    "id": "da6979b3f55d"
+  },
+  {
+    "subject": "Zembei",
+    "predicate": "father_of",
+    "object": "Shingé",
+    "evidence": [
+      "Father of Shingé"
+    ],
+    "source_term": [
+      "Zembei"
+    ],
+    "pages": [
+      168
+    ],
+    "id": "bf03005abfb0"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "son_of",
+    "object": "Izanagi",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "f7164b4864ac"
+  },
+  {
+    "subject": "Susa-no-o",
+    "predicate": "son_of",
+    "object": "Izanami",
+    "evidence": [
+      "son of, 23",
+      "Child of Izanagi and Izanami"
+    ],
+    "source_term": [
+      "Izanagi and Izanami",
+      "Susa-no-o"
+    ],
+    "pages": [
+      413,
+      414,
+      23,
+      352
+    ],
+    "id": "862af240dc73"
+  },
+  {
+    "subject": "Gisuke",
+    "predicate": "brother_of",
+    "object": "O Cho San",
+    "evidence": [
+      "Gisuke the brother of"
+    ],
+    "source_term": [
+      "O Cho San"
+    ],
+    "pages": [
+      423
+    ],
+    "id": "d840959572cc"
+  }
+]
