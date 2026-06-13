@@ -5,76 +5,34 @@ require "json"
 module Tasks
   class QueryParser
     MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
-    SYSTEM_PROMPT = <<~PROMPT
-      You convert mythology questions into JSON.
 
+    BASE_PROMPT = <<~PROMPT
+      You convert mythology questions into JSON.
       Return ONLY a single valid JSON object.
 
       Valid query types:
-
       - entity_lookup
       - relationship_lookup
       - reverse_relationship_lookup
 
       Ontology:
 
-      #{Ontology.prompt_text}
+      ONTOLOGY_PLACEHOLDER
 
       Rules:
-
-      - Allowed keys:
-        - type
-        - entity
-        - predicate
-
-      - Always return:
-        - type
-        - entity
-
+      - Allowed keys: type, entity, predicate
+      - Always return: type, entity
       - Return predicate only for relationship queries.
-
       - The predicate MUST be one of the ontology predicates.
-      - Never invent predicates.
-      - Never invent entities.
-
+      - Never invent predicates or entities.
       - Copy entity names exactly from the question.
       - Do not substitute similar entities.
-      - Do not normalize entity names.
-      - Alias resolution happens later.
-
-      - entity_lookup:
-        Information about an entity.
-
-      - relationship_lookup:
-        Entity is the source of the relationship.
-
-      - reverse_relationship_lookup:
-        Entity is the target of the relationship.
-
       - entity_lookup must never contain a predicate.
+      - Questions with "where is/where was/where does/where can I find" are relationship queries, not entity lookups.
+      - If no entity can be identified: {"type":"entity_lookup","entity":null}
 
-      - If a predicate is present:
-        type must be:
-          relationship_lookup
-          or
-          reverse_relationship_lookup
-
-      - Questions asking:
-        - where is
-        - where was
-        - where does
-        - where can I find
-
-        are relationship queries, not entity lookups.
-
-      - If no entity can be identified:
-        {"type":"entity_lookup","entity":null}
       Examples:
-
       Q: Who is Amaterasu?
-      A: {"type":"entity_lookup","entity":"Amaterasu"}
-
-      Q: Tell me about Amaterasu.
       A: {"type":"entity_lookup","entity":"Amaterasu"}
 
       Q: Who are Susanoo's parents?
@@ -83,46 +41,38 @@ module Tasks
       Q: Who are Izanagi's children?
       A: {"type":"reverse_relationship_lookup","entity":"Izanagi","predicate":"child_of"}
 
-      Q: Who is married to Susanoo?
-      A: {"type":"relationship_lookup","entity":"Susanoo","predicate":"spouse_of"}
-
       Q: Who founded Kamakura?
       A: {"type":"reverse_relationship_lookup","entity":"Kamakura","predicate":"founds"}
-
-      Q: Who serves Amaterasu?
-      A: {"type":"reverse_relationship_lookup","entity":"Amaterasu","predicate":"servant_of"}
-
-      Q: Who is Kaguya's suitor?
-      A: {"type":"reverse_relationship_lookup","entity":"Kaguya","predicate":"suitor_of"}
-
-      Q: Who created Shingon-shū?
-      A: {"type":"reverse_relationship_lookup","entity":"Shingon-shū","predicate":"founds"}
-
-      Q: Who created Hō-jō-ki?
-      A: {"type":"reverse_relationship_lookup","entity":"Hō-jō-ki","predicate":"creates"}
 
       Q: banana
       A: {"type":"entity_lookup","entity":null}
 
       Never explain why an entity cannot be identified.
-
-      Never return sentences such as:
-      "Since no entity was found..."
-      "Unable to determine..."
-      "The question is ambiguous..."
-
+      Never return sentences.
       Return JSON only.
-
       Your entire response must be parseable by JSON.parse().
     PROMPT
 
     class << self
       def parse(question)
+        classified = QueryClassifier.classify(question)
+
+        if classified && classified[:skip_llm]
+          query = {
+            "type" => classified[:type],
+            "entity" => classified[:entity]
+          }
+          query["predicate"] = classified[:candidate_predicates].first if classified[:candidate_predicates].any?
+          return apply_alias_resolution(query)
+        end
+
+        system_prompt = build_system_prompt(classified)
+
         response = Llm::Client.chat(
           messages: [
             {
               role: "system",
-              content: SYSTEM_PROMPT
+              content: system_prompt
             },
             {
               role: "user",
@@ -143,12 +93,29 @@ module Tasks
             raise
           end
 
+        apply_alias_resolution(query)
+      end
+
+      private
+
+      def build_system_prompt(classified)
+        if classified && classified[:candidate_predicates].any?
+          ontology_section = Ontology.prompt_text_for(
+            classified[:candidate_predicates]
+          )
+        else
+          ontology_section = Ontology.prompt_text
+        end
+
+        BASE_PROMPT.sub("ONTOLOGY_PLACEHOLDER", ontology_section)
+      end
+
+      def apply_alias_resolution(query)
         if query["entity"]
           query["entity"] =
             AliasResolver.resolve(query["entity"]) ||
             query["entity"]
         end
-
         query
       end
     end

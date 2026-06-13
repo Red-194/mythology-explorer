@@ -27,6 +27,20 @@ Change the version number there when generating a new result set.
 After generation, compare the new results against the baseline:
 query_parser_results.json
 
+## Interactive Terminal
+
+Run the interactive CLI:
+
+bin/mythology
+
+Type questions at the prompt:
+
+> Who are Susanoo's parents?
+Susanoo's parents are Izanagi and Izanami.
+> Who founded Kamakura?
+General Yoritomo founded Kamakura.
+> exit
+
 ## Running Individual Queries
 
 Open a Rails console:

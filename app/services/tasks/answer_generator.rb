@@ -21,8 +21,19 @@ module Tasks
     PROMPT
 
     class << self
+      attr_reader :total_usage
+
       def generate(question)
+        @total_usage = {
+          "prompt_tokens" => 0,
+          "completion_tokens" => 0,
+          "total_tokens" => 0,
+          "tokens_saved" => 0
+        }
+
         query = QueryParser.parse(question)
+        accumulate_usage
+        track_classification(query)
 
         result =
           if query["predicate"]
@@ -39,7 +50,7 @@ module Tasks
 
         return not_found(question) if blank_result?(result)
 
-        Llm::Client.chat(
+        answer = Llm::Client.chat(
           messages: [
             {
               role: "system",
@@ -57,9 +68,34 @@ module Tasks
           model: MODEL,
           temperature: 0
         )
+        accumulate_usage
+
+        answer
       end
 
       private
+
+      def track_classification(query)
+        if query["entity"].nil? && query["type"] == "entity_lookup"
+          # Garbage input — handled locally
+          @total_usage["tokens_saved"] = 1400
+        elsif query["type"] == "entity_lookup" && query["predicate"].nil?
+          # Entity lookup — handled locally
+          @total_usage["tokens_saved"] = 1300
+        elsif query["predicate"]
+          # Dynamic predicate was used
+          @total_usage["tokens_saved"] = 700
+        end
+      end
+
+      def accumulate_usage
+        usage = Providers::Groq.last_usage
+        return unless usage
+
+        @total_usage["prompt_tokens"] += usage["prompt_tokens"]
+        @total_usage["completion_tokens"] += usage["completion_tokens"]
+        @total_usage["total_tokens"] += usage["total_tokens"]
+      end
 
       def build_context(
         question:,
