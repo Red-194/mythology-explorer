@@ -6,13 +6,16 @@ def print_tokens
   completion = usage["completion_tokens"]
   total = usage["total_tokens"]
   saved = usage["tokens_saved"] || 0
+  from_cache = usage["from_cache"]
 
   puts
-  if total == 0 && saved > 0
-    puts "  Tokens: 0 (classified locally, saved ~#{saved} tokens)"
+  if from_cache
+    puts "  Tokens: 0 (cached, saved ~#{saved} tokens)"
+  elsif total == 0
+    puts "  Tokens: 0 (answered locally, saved ~#{saved} tokens)"
   else
     puts "  Tokens: #{prompt} input + #{completion} output = #{total} total"
-    puts "  Saved: #{saved} tokens (local classification)" if saved > 0
+    puts "  Saved: #{saved} tokens (local parser, 1 LLM call)" if saved > 0
   end
 end
 
@@ -21,7 +24,7 @@ puts "=" * 60
 puts "  Mythology Explorer  (Japanese Mythology Q&A)"
 puts "=" * 60
 puts "  Type your question, or 'exit' to quit"
-puts "  Type 'help' for example questions"
+puts "  Type 'help' for examples · 'stats' for cache · 'clear' to reset"
 puts "=" * 60
 
 loop do
@@ -45,6 +48,20 @@ loop do
     puts "  Where is Kiyomizu-dera located?"
     puts "  Who serves Amaterasu?"
     puts "  Tell me about Ninigi"
+    next
+  end
+
+  if question.downcase == "stats"
+    stats = Tasks::AnswerGenerator.cache_stats
+    puts
+    puts "  Cache: #{stats[:size]} entries, #{stats[:hits]} hits, #{stats[:misses]} misses"
+    next
+  end
+
+  if question.downcase == "clear"
+    Tasks::AnswerGenerator.clear_cache
+    puts
+    puts "  Cache cleared."
     next
   end
 

@@ -31,6 +31,17 @@ module Tasks
           "tokens_saved" => 0
         }
 
+        key = cache_key(question)
+        cached = read_cache(key)
+
+        if cached
+          @total_usage["tokens_saved"] = cached["tokens_used"]
+          @total_usage["from_cache"] = true
+          return cached["answer"]
+        end
+
+        tokens_before = total_tokens_spent
+
         query = QueryParser.parse(question)
         accumulate_usage
         track_classification(query)
@@ -48,53 +59,119 @@ module Tasks
             )
           end
 
-        return not_found(question) if blank_result?(result)
+        answer =
+          if blank_result?(result)
+            not_found(question)
+          else
+            Llm::Client.chat(
+              messages: [
+                {
+                  role: "system",
+                  content: SYSTEM_PROMPT
+                },
+                {
+                  role: "user",
+                  content: build_context(
+                    question: question,
+                    query: query,
+                    result: result
+                  )
+                }
+              ],
+              model: MODEL,
+              temperature: 0
+            )
+          end
 
-        answer = Llm::Client.chat(
-          messages: [
-            {
-              role: "system",
-              content: SYSTEM_PROMPT
-            },
-            {
-              role: "user",
-              content: build_context(
-                question: question,
-                query: query,
-                result: result
-              )
-            }
-          ],
-          model: MODEL,
-          temperature: 0
-        )
         accumulate_usage
+
+        tokens_used = total_tokens_spent - tokens_before
+        write_cache(key, answer, tokens_used)
 
         answer
       end
 
+      def cache_stats
+        {
+          hits: cache_hits,
+          misses: cache_misses,
+          size: cache.size
+        }
+      end
+
+      def clear_cache
+        @cache = {}
+        @cache_hits = 0
+        @cache_misses = 0
+        @tokens_spent_counter = 0
+      end
+
       private
+
+      def cache
+        @cache ||= {}
+      end
+
+      def cache_hits
+        @cache_hits = 0 unless defined?(@cache_hits)
+        @cache_hits
+      end
+
+      def cache_misses
+        @cache_misses = 0 unless defined?(@cache_misses)
+        @cache_misses
+      end
+
+      def cache_key(question)
+        question.downcase.strip.gsub(/\?$/, "").gsub(/\s+/, " ")
+      end
+
+      def write_cache(key, answer, tokens)
+        cache[key] = {
+          "answer" => answer,
+          "tokens_used" => tokens
+        }
+      end
+
+      def read_cache(key)
+        if cache.key?(key)
+          @cache_hits = 0 unless defined?(@cache_hits)
+          @cache_hits += 1
+          cache[key]
+        else
+          @cache_misses = 0 unless defined?(@cache_misses)
+          @cache_misses += 1
+          nil
+        end
+      end
+
+      def total_tokens_spent
+        @tokens_spent_counter ||= 0
+        @tokens_spent_counter
+      end
 
       def track_classification(query)
         if query["entity"].nil? && query["type"] == "entity_lookup"
-          # Garbage input — handled locally
-          @total_usage["tokens_saved"] = 1400
+          # Garbage input — no LLM call made
+          @total_usage["tokens_saved"] = 250
         elsif query["type"] == "entity_lookup" && query["predicate"].nil?
-          # Entity lookup — handled locally
-          @total_usage["tokens_saved"] = 1300
+          # Entity lookup — no LLM call made
+          @total_usage["tokens_saved"] = 250
         elsif query["predicate"]
-          # Dynamic predicate was used
+          # Relationship query — used local parser, only 1 LLM call for answer
           @total_usage["tokens_saved"] = 700
         end
       end
 
       def accumulate_usage
-        usage = Providers::Groq.last_usage
+        usage = Providers::Groq.drain_usage
         return unless usage
 
         @total_usage["prompt_tokens"] += usage["prompt_tokens"]
         @total_usage["completion_tokens"] += usage["completion_tokens"]
         @total_usage["total_tokens"] += usage["total_tokens"]
+
+        @tokens_spent_counter += usage["total_tokens"]
       end
 
       def build_context(

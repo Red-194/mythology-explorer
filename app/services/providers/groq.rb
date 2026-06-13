@@ -37,6 +37,12 @@ module Providers
           "content"
         )&.strip
       end
+
+      def drain_usage
+        usage = @last_usage
+        @last_usage = nil
+        usage
+      end
     end
   end
 end
